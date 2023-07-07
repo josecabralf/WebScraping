@@ -1,1 +1,0 @@
-URL = 'https://clasificados.lavoz.com.ar/inmuebles/casas?ciudad=cordoba&operacion=venta'
