@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "840",
+         "terrenoEdificado": "264",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 56000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "86",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 3,
+         "ubicacion": "VILLA ALLENDE PARQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 149000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "169",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "LA FRANCE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 24999,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "AMP. LAS PALMAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "623",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CALERA CENTRAL"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "310",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "AMP. LAS PALMAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "225",
+         "terrenoEdificado": "63",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "SAN IGNACIO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "110",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "DEAN FUNES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "R\u00cdO TERCERO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 225000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "1665",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CUATRO HOJAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "115",
+         "terrenoEdificado": "70",
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "UNIVERSITARIO DE HORIZONTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "240",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "210",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "MARQ. DE SOBREMONTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "238",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "R\u00cdO TERCERO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "498",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LAS CORZUELAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "95",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PROVIDENCIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "263",
+         "terrenoEdificado": "112",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 5,
+         "ubicacion": "SAN VICENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "480",
+         "terrenoEdificado": "195",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 4,
+         "ubicacion": "VILLA RIVERA INDARTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 26000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "25",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "375",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 3,
+         "ubicacion": "QUINTAS DE ARGUELLO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "490",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "RIVADAVIA"
+}]

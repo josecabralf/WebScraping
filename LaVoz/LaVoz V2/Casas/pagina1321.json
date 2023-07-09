@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 66000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 12000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "510",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ANTONIO DE ARRE."
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "260",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "EMPALME"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 7000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 86000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 21600,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "JOS\u00c9 IGNACIO D\u00cdAZ SE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "SEMIPISO",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "165",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 189900,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "2093",
+         "terrenoEdificado": "335",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 18000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "475",
+         "terrenoEdificado": "186",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SARMIENTO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 31200,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "465",
+         "terrenoEdificado": "105",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ANISACATE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "259",
+         "terrenoEdificado": "227",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COL\u00d3N"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 59541,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA MAR\u00cdA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 280000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "988",
+         "terrenoEdificado": "322",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 149900,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "425",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COL\u00d3N"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "215",
+         "terrenoEdificado": "208",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "MAIPU SECCI\u00d3N 1"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "30",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 149900,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "425",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COL\u00d3N"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 53,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "1600",
+         "terrenoEdificado": "49",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "LAS RABONAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 71900,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "345",
+         "terrenoEdificado": "122",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "RIVERA INDARTE"
+}]
