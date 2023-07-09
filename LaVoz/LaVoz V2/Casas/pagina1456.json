@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "305",
+         "terrenoEdificado": "118",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "RESIDENCIAL SANTA ROSA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "390",
+         "terrenoEdificado": "175",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 5500,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "675",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA AMANCAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "240",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LOS JACARANDAES"
+},{
+         "tipoPropiedad": "PISO",
+         "precioUSD": 19900,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "22",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "913",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9500,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "473",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "HUERTA GRANDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "PARQUE HORIZONTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 34000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "519",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MALAGUE\u00d1O"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 242000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "2500",
+         "terrenoEdificado": "400",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 18000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "490",
+         "terrenoEdificado": "50",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "PREFABRICADA",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "HUERTA GRANDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "280",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA EL LIBERTADOR"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "390",
+         "terrenoEdificado": "175",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "44",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": "65",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SANTA MAR\u00cdA DE PUNILLA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9500,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "1800",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CABALANGO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "1300",
+         "terrenoEdificado": "240",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "COSQU\u00cdN"
+}]

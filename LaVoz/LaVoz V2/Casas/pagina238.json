@@ -1,0 +1,201 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 480000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1564",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS DE LA CAROLINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1492",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA DESEADA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA DEL DIQUE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 44000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1188",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MENDIOLAZA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "115",
+         "terrenoEdificado": "89",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SALDAN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 64000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "LAS PALMAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 98000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "95",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 67000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "44",
+         "terrenoEdificado": "44",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "112",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 310000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LA CAROLINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "LAS PALMAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 99000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "3990",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GRAN PARQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 360000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "460",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "185",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "RIVERA INDARTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 620000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1190",
+         "terrenoEdificado": "500",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "851",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE DEL GOLF"
+}]

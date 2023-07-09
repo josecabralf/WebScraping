@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 215000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "720",
+         "terrenoEdificado": "286",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "285",
+         "terrenoEdificado": "285",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "17",
+         "terrenoEdificado": "17",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 139000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "270",
+         "terrenoEdificado": "238",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "100",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 990000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "25000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 420000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1540",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ROC\u00cdO DEL SUR"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 36000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "54",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "SOLARES DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 97000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "540",
+         "terrenoEdificado": "149",
+         "cantDormitorios": 2,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "700",
+         "terrenoEdificado": "270",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "ubicacion": "PADRE CLARET"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 415000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1350",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "FINCAS DEL SUR II"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "7655",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "660",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COLONIA TIROLESA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "257",
+         "terrenoEdificado": "150",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "314",
+         "terrenoEdificado": "400",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "SOLARES DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 155000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "164",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JUNIORS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "16",
+         "terrenoEdificado": "16",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "142",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO"
+}]

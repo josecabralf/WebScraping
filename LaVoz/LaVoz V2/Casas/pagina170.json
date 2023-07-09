@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "42",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "750",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE CHACABUCO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "294",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS DE SAN MART\u00cdN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2480",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MATIENZO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 155000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "219",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TERRAZAS DE LA ESTANZUELA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "750",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE CHACABUCO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 175000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "327",
+         "terrenoEdificado": "230",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 64000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SAN IGNACIO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "BAJO GENERAL PAZ"
+}]

@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 8500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CHATEAU CARRERAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "367",
+         "terrenoEdificado": "308",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 850000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CHACRA DEL SUR"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "343",
+         "terrenoEdificado": "384",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ASPASIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 159000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "169",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LAS CA\u00d1ITAS BARRIO PRIVADO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40200,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": "35",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVO POETA LUGONES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LAS CA\u00d1ITAS BARRIO PRIVADO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 8500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CHATEAU CARRERAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 400000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2000",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "FINCAS DEL SUR I"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 260000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "361",
+         "terrenoEdificado": "187",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "TEJAS 1"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "822",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "LA MORADA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 320000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "625",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "144",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 480000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2800",
+         "terrenoEdificado": "320",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 375000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "411",
+         "terrenoEdificado": "282",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},]

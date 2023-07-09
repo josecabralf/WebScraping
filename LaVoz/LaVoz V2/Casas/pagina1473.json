@@ -1,0 +1,201 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 700000,
+         "fechaUltimaActualizacion": "05-06-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": "1630",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 11000,
+         "fechaUltimaActualizacion": "03-06-2023",
+         "terrenoTotal": "850",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PQE. DE LOS REARTES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PROVIDENCIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 51000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": "210",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "01-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "BARRIO NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 21000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": "979",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ROQUE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 23500,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": "1237",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ROQUE PUNILLA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 119000,
+         "fechaUltimaActualizacion": "01-06-2023",
+         "terrenoTotal": "258",
+         "terrenoEdificado": "174",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "MAIPU SECCI\u00d3N 2"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LAS PALMAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "03-06-2023",
+         "terrenoTotal": "2200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "03-06-2023",
+         "terrenoTotal": "224",
+         "terrenoEdificado": "129",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO DE VILLA ALLENDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 550000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": "5500",
+         "terrenoEdificado": "380",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "ubicacion": "VILLA WARCALDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "01-06-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "114",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL ARTIGAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 34000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "03-06-2023",
+         "terrenoTotal": "3310",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CHARBONIER"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "02-06-2023",
+         "terrenoTotal": "212",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PRIMERO DE MAYO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "03-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+}]

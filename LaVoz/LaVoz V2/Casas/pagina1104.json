@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 66500,
+         "fechaUltimaActualizacion": "15-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "25-01-2021",
+         "terrenoTotal": "22900",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BERNA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "14-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "28-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "19-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LA CUESTA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "20-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "14-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "20-01-2021",
+         "terrenoTotal": "136",
+         "terrenoEdificado": "297",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "13-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OBSERVATORIO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "20-01-2021",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "TEJAS 1"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 119000,
+         "fechaUltimaActualizacion": "21-01-2021",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "21-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "21-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "20-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "18-01-2021",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 155000,
+         "fechaUltimaActualizacion": "28-01-2021",
+         "terrenoTotal": "364",
+         "terrenoEdificado": "197",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PARQUE VELEZ SARSFIELD"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "19-01-2021",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "185",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "21-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "15-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 59000,
+         "fechaUltimaActualizacion": "21-01-2021",
+         "terrenoTotal": "234",
+         "terrenoEdificado": "138",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "LA FRANCE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 380000,
+         "fechaUltimaActualizacion": "25-01-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTINA NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 8000,
+         "fechaUltimaActualizacion": "21-01-2021",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+}]

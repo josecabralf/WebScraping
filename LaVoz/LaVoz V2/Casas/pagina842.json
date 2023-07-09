@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "53",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS REARTES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JARD\u00cdN HIPODROMO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 8000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTOS DE VILLA SOL"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "SAN SALVADOR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 195000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "177",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "LA PAYA II"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "67",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "49",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OBSERVATORIO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 29900,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "930",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "56",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1120",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "VILLA PQE. DE LOS REARTES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 36000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ANTONIO DE ARRE."
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 48450,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": "51",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "469",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA PAYA II"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "693",
+         "terrenoEdificado": "362",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "BAJO PALERMO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "46",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "260",
+         "terrenoEdificado": "149",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LA PAYA II"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1308",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "420",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "YOFRE H"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "560",
+         "terrenoEdificado": "440",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "RESIDENCIAL AMERICA"
+}]

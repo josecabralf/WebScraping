@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "350",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "COLINAS DE V. SARSFIELD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "25-03-2022",
+         "terrenoTotal": "315",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA MAR\u00cdA DE PUNILLA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "294",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "RINCON DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SANTA ISABEL"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "550",
+         "terrenoEdificado": "184",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "PRIMERO DE MAYO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "480",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TEJAS 3"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 44000,
+         "fechaUltimaActualizacion": "05-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "17-03-2022",
+         "terrenoTotal": "273",
+         "terrenoEdificado": "139",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA EL LIBERTADOR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": "415",
+         "terrenoEdificado": "96",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SALDAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 34000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "540",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LA GRANJA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 198000,
+         "fechaUltimaActualizacion": "04-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CA\u00d1UELAS CHICOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": "00",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "LICEO GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": "3788",
+         "terrenoEdificado": "164",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VALLE HERMOSO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "157",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "MINA CLAVERO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "130",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "MARQ. DE SOBREMONTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": "338",
+         "terrenoEdificado": "219",
+         "cantDormitorios": 4,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "JORGE NEWBERY"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "15-03-2022",
+         "terrenoTotal": "78",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "21-03-2022",
+         "terrenoTotal": "57",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": "384",
+         "terrenoEdificado": "63",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JU\u00c1REZ CELMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 24500,
+         "fechaUltimaActualizacion": "06-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "04-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTOS DE VILLA SOL"
+}]

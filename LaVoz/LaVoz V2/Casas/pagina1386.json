@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 89500,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "115",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CLARET"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 66000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "1593.68",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE CERCANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 195000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "390",
+         "terrenoEdificado": "390",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 5,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 600000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "555",
+         "terrenoEdificado": "415",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "COUNTRY CLUB"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 153000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "93",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 94500,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "142",
+         "terrenoEdificado": "142",
+         "cantDormitorios": 4,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "POETA LUGONES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "147",
+         "terrenoEdificado": "147",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SOLARES DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 41000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "210",
+         "terrenoEdificado": "210",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CAUSANA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 330000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "10000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CAMINO SAN CARLOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "345",
+         "terrenoEdificado": "345",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LA CASCADA COUNTRY GOLF"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 34000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "301",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "QUEBRADAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "59",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "198",
+         "terrenoEdificado": "198",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "PASO DE LOS ANDES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 138000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CASCADA COUNTRY GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "168",
+         "terrenoEdificado": "168",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "1666",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CAMINO SAN CARLOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 158000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "93",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 430000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "325",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 29200,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": "143",
+         "terrenoEdificado": "143",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "TALLERES OESTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "18-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ESQUIU"
+}]

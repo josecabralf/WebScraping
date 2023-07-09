@@ -1,0 +1,171 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 7000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 7500,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "466",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 16000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "1140",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 96000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 19000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 7000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "434",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "119",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TANTI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 330000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "1040",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "638",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "3000",
+         "terrenoEdificado": "175",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 168000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "1120",
+         "terrenoEdificado": "208",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 16000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": "1140",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},]

@@ -1,0 +1,211 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "627",
+         "terrenoEdificado": "315",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "75",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 500000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 137000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "700",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 4,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 103000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 320000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1745",
+         "terrenoEdificado": "420",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "79",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CRISOL NORTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 215000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "QUINTAS DE ARGUELLO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "93",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA RIVERA INDARTE"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "115",
+         "terrenoEdificado": "95",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "MIRADORES DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 204000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "GREENVILLE 2"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CUESTA COLORADA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "310",
+         "terrenoEdificado": "270",
+         "cantDormitorios": 4,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PROVIDENCIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 27000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 66000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "37",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "700",
+         "terrenoEdificado": "218",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ESTANCIA EL TERR\u00d3N"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "INAUDI"
+}]

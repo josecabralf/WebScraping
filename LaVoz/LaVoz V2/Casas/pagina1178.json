@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "SAN ANTONIO DE ARRE."
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LOS NARANJOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "187",
+         "terrenoEdificado": "124",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "235",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LAS PALMAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "LOS PLATANOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "315",
+         "terrenoEdificado": "345",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "110",
+         "terrenoEdificado": "75",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "TABLADA PARK"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "365",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 5,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "90",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "390",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "525",
+         "terrenoEdificado": "183",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "EL TALAR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "510",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "CUMBRES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "1250",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 17000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "850",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "1451",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS BOULEVARES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "707",
+         "terrenoEdificado": "32",
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE DEL SOL"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CHATEAU CARRERAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 300000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "595",
+         "terrenoEdificado": "297",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "5000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA MAR\u00cdA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 225000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "TEJAS 1"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 249000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "280",
+         "terrenoEdificado": "235",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LOMAS DE SAN MART\u00cdN"
+}]

@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LA CALERA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 198000,
+         "fechaUltimaActualizacion": "24-04-2023",
+         "terrenoTotal": "402",
+         "terrenoEdificado": "129",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "TERRAZAS DE LA ESTANZUELA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "24-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "24-04-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 155000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "SAN SALVADOR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "24-04-2023",
+         "terrenoTotal": "340",
+         "terrenoEdificado": "330",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "ALTO VERDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA MORADA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "22-04-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 650000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "2700",
+         "terrenoEdificado": "650",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "75",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS NARANJOS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "24-04-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "120",
+         "cantDormitorios": -1,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 1100000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "220000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JU\u00c1REZ CELMAN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "396",
+         "terrenoEdificado": "214",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "23-04-2023",
+         "terrenoTotal": "707",
+         "terrenoEdificado": "207",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "22-04-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA FALDA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "22-04-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "21-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "22-04-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COLINAS DE MANANTIALES"
+}]

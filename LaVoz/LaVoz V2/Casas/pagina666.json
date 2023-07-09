@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 270000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "R\u00cdO CEBALLOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS REARTES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "30-05-2023",
+         "terrenoTotal": "703",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "247",
+         "terrenoEdificado": "108",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "16 DE NOVIEMBRE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "312",
+         "terrenoEdificado": "198",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "JARD\u00cdN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE SAN VICENTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 7000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 128000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": "50",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "185",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LAS FLORES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MAIPU SECCI\u00d3N 2"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "44",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "75",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 21000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "480",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+}]

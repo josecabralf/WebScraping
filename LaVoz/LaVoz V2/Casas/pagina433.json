@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 99000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "392",
+         "terrenoEdificado": "171",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OBSERVATORIO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 79000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ESCOBAR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 365000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "855",
+         "terrenoEdificado": "800",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DUCASSE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 72000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 280000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "970",
+         "terrenoEdificado": "325",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 175000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CHACRA DEL NORTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 330000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "440",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 69000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "174",
+         "terrenoEdificado": "135",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 175000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CHACRA DEL NORTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1750",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CUATRO HOJAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO VERDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "URCA"
+}]

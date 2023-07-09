@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "824",
+         "terrenoEdificado": "185",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 470,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "135",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "430",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "QUEBRADA DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "47",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 16000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "532",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "PROVIDENCIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "64",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "MARQ. DE SOBREMONTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CONDOR BAJO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "48",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "421",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS SUR"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BELGRANO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "NUEVO POETA LUGONES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 690000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "1689",
+         "terrenoEdificado": "485",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "LOMAS DE LA CAROLINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "554",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TERRAZAS DE VILLA ALLENDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 8000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "35",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "440",
+         "terrenoEdificado": "590",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 420000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "60000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MARCOS SASTRE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "240",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MIRADOR"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "BALCONES DEL CHATEU"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "12-06-2023",
+         "terrenoTotal": "75",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+}]

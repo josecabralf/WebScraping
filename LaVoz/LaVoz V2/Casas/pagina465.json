@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2230",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 3,
+         "ubicacion": "ESTACI\u00d3N DEL CARMEN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 500000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "530",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 179000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PARQUE VELEZ SARSFIELD"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 260000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "758",
+         "terrenoEdificado": "224",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "TABLADA PARK"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 36900,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "38",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 49900,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "43",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38900,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "EL TALAR"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "35",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "232",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "4878",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COSQU\u00cdN"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 44500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "480",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 18000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "310",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 87000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "170",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 37000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "525",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "EL TALAR"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "810",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "75",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 67500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1365",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA DESEADA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": "114",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTO VERDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 310000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "420",
+         "terrenoEdificado": "270",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "VILLA WARCALDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 410000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "380",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTINA NORTE"
+}]

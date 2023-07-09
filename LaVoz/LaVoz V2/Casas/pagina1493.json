@@ -1,0 +1,201 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 155000,
+         "fechaUltimaActualizacion": "23-04-2022",
+         "terrenoTotal": "652",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "30-05-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "14-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "20-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "23-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 900000,
+         "fechaUltimaActualizacion": "19-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "24-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "16-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "15-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "10-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "23-04-2022",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "24-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "02-05-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "28-04-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "30-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "24-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "25-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "23-04-2022",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 138000,
+         "fechaUltimaActualizacion": "23-04-2022",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "CLAROS DEL BOSQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "26-04-2022",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "414",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "ALTO ALBERDI"
+}]

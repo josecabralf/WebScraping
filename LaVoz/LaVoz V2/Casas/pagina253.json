@@ -1,0 +1,191 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "42",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "750",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "48",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "15",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "132",
+         "terrenoEdificado": "109",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 64000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 53500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 14500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "52",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "155",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "NUEVO POETA LUGONES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "93",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 64000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "44",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 98000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "72",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+}]

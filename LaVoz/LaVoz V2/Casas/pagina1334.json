@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "705",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "74",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 1850000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "21500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 28500,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "37",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "339",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35900,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "1523",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA SANTA CRUZ DEL LAGO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "766",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CUESTA COLORADA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 17000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "1130",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SIQUIMAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "1600",
+         "terrenoEdificado": "240",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA SANTA CRUZ DEL LAGO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "70",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 390000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "10095",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JORGE NEWBERY"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 99000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "127",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 147000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 167000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "1501",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SIETE SOLES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 13000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "662",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "AGUA DE ORO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "375",
+         "terrenoEdificado": "186",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9900,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CASA GRANDE"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "VILLA SANTA CRUZ DEL LAGO"
+}]

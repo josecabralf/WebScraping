@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 82000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LOMAS DEL SUQU\u00cdA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "INAUDI"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CA\u00d1UELAS CHICOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 27900,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "258",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "QUEBRADAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "390",
+         "terrenoEdificado": "107",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "PARQUE VELEZ SARSFIELD"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "170",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "COLINAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 205000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA WARCALDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "OBSERVATORIO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "393",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2170",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 275000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "365",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "CHACRA DEL NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 420000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "355",
+         "terrenoEdificado": "1500",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "ESTANCIA EL TERR\u00d3N"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "150",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CAMINO SAN CARLOS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1042",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MENDIOLAZA GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 169000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1300",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA RIVERA INDARTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 155600,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "105",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "3023",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA MAR\u00cdA DE PUNILLA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "280",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "QUEBRADAS DE MANANTIALES"
+},]

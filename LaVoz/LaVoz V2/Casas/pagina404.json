@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 375000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1102",
+         "terrenoEdificado": "316",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CAROLINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": "90",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "26",
+         "terrenoEdificado": "26",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 385000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "877",
+         "cantDormitorios": -1,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "3325",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE CERCANO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "50",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "10000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MONTE CRISTO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 290000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2000",
+         "terrenoEdificado": "260",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA GENERAL BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "234",
+         "terrenoEdificado": "105",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LOS BOULEVARES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 69000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "225",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CENTENARIO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "169",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN NICOLAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 21500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "420",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 29500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "258",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 79000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "728",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 88000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": 1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "176",
+         "terrenoEdificado": "176",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 27500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 61000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "363",
+         "terrenoEdificado": "191",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GRANJA DE FUNES"
+}]

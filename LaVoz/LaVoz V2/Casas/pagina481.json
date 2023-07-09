@@ -1,0 +1,201 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 800000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DESPE\u00d1ADEROS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 24800,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "287",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 113500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "670",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SIETE SOLES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 205000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "103",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "TEJAS 1"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "48",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 305000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "260",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "RIBERAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "8512",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GRAN PARQUE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 2500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PUENTE BLANCO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "135",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 470000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "216",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MULLER"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 500000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1100",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 280000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "190",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 400000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DESPE\u00d1ADEROS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CUESTAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 175000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CHACRA DEL SUR"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 32500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "364",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+}]

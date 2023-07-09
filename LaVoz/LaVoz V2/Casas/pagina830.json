@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 83000,
+         "fechaUltimaActualizacion": "26-05-2022",
+         "terrenoTotal": "180",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 400000,
+         "fechaUltimaActualizacion": "11-05-2022",
+         "terrenoTotal": "525",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CALIFORNIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "29-06-2022",
+         "terrenoTotal": "280",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PARQUE CAPITAL SUD"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "12-05-2022",
+         "terrenoTotal": "155",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "28-05-2022",
+         "terrenoTotal": "315",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA MAR\u00cdA DE PUNILLA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "24-06-2022",
+         "terrenoTotal": "500",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 360000,
+         "fechaUltimaActualizacion": "03-05-2022",
+         "terrenoTotal": "4087",
+         "terrenoEdificado": "430",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "VILLA ALLENDE PARQUE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "20-05-2022",
+         "terrenoTotal": "58",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "16-05-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "20-05-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LOS NARANJOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "30-06-2022",
+         "terrenoTotal": "90",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "VILLA ALLENDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "11-05-2022",
+         "terrenoTotal": "260",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL ARTIGAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "11-05-2022",
+         "terrenoTotal": "480",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JARDINES DE LA ESTANZUELA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 299000,
+         "fechaUltimaActualizacion": "02-05-2022",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "240",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SAN JOS\u00c9"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "22-06-2022",
+         "terrenoTotal": "990",
+         "terrenoEdificado": "95",
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "LA GRANJA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 400000,
+         "fechaUltimaActualizacion": "20-05-2022",
+         "terrenoTotal": "500",
+         "terrenoEdificado": "525",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CALIFORNIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "29-06-2022",
+         "terrenoTotal": "24",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "16-06-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "03-05-2022",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 155000,
+         "fechaUltimaActualizacion": "24-06-2022",
+         "terrenoTotal": "120",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "12-05-2022",
+         "terrenoTotal": "55",
+         "terrenoEdificado": "55",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 72000,
+         "fechaUltimaActualizacion": "10-06-2022",
+         "terrenoTotal": "325",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ROSEDAL"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "06-06-2022",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+}]

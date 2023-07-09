@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "47",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "26-06-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "31",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 260000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "6000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN CLARET"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "42",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 26500,
+         "fechaUltimaActualizacion": "26-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "26-06-2023",
+         "terrenoTotal": "57",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "106",
+         "terrenoEdificado": "106.6",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CHATEAU CARRERAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "260",
+         "terrenoEdificado": "190",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COLINAS DE V. SARSFIELD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "26-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 420000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "1557",
+         "terrenoEdificado": "357",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "750",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "AYACUCHO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "25",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "26-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "26-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA ALLENDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "23-06-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "275",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+}]

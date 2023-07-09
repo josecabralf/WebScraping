@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "26-09-2022",
+         "terrenoTotal": "100",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CERRO CHICO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "06-09-2022",
+         "terrenoTotal": "3477",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CIUDAD DE AM\u00c9RICA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "08-09-2022",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN HIPODROMO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "13-09-2022",
+         "terrenoTotal": "13",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "28-09-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 172000,
+         "fechaUltimaActualizacion": "17-09-2022",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 420000,
+         "fechaUltimaActualizacion": "02-09-2022",
+         "terrenoTotal": "840",
+         "terrenoEdificado": "350",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 21000,
+         "fechaUltimaActualizacion": "05-09-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "14-09-2022",
+         "terrenoTotal": "1370",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "07-09-2022",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30500,
+         "fechaUltimaActualizacion": "07-09-2022",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9999,
+         "fechaUltimaActualizacion": "14-09-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "04-09-2022",
+         "terrenoTotal": "248",
+         "terrenoEdificado": "102",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "YOFRE NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 142000,
+         "fechaUltimaActualizacion": "12-09-2022",
+         "terrenoTotal": "1058",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA MORADA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "14-09-2022",
+         "terrenoTotal": "176",
+         "terrenoEdificado": "90",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "13-09-2022",
+         "terrenoTotal": "143",
+         "terrenoEdificado": "132",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "17-09-2022",
+         "terrenoTotal": "1400",
+         "terrenoEdificado": "195",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "LAS CORZUELAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 565000,
+         "fechaUltimaActualizacion": "05-09-2022",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "07-09-2022",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "QUINTAS DE ITALIA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "08-09-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA CLARA DE ASIS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "24-09-2022",
+         "terrenoTotal": "255",
+         "terrenoEdificado": "167",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 280000,
+         "fechaUltimaActualizacion": "21-09-2022",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "290",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "15-09-2022",
+         "terrenoTotal": "711",
+         "terrenoEdificado": "95",
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "07-09-2022",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+}]

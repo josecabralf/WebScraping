@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "150",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "136",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 288000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "SIETE SOLES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "570",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LAS CA\u00d1ITAS BARRIO PRIVADO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 88000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "58",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS BOULEVARES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 46000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "85",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "TALLERES OESTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "269",
+         "terrenoEdificado": "138",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SAN FERNANDO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "258",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 175000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "178",
+         "terrenoEdificado": "178",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "COMARCA DE ALLENDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 550000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "3786",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "INAUDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 36000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+}]

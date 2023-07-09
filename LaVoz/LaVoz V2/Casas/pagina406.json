@@ -1,0 +1,211 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "118",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CHACRA DEL NORTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 128000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "160",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "YOFRE NORTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 199000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "962",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "151",
+         "terrenoEdificado": "144",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LOMAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "43",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 1300000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1600",
+         "terrenoEdificado": "700",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LAS DELICIAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2350",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 133000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "COLINAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 580000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "LOMAS DE LA CAROLINA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 76000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1388",
+         "terrenoEdificado": "511",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GENERAL BELGRANO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "BAJO PALERMO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 390000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "347",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "6300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS MOLINOS"
+}]

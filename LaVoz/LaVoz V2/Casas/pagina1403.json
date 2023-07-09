@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "264",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "DON BOSCO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "105",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "260",
+         "terrenoEdificado": "169",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN PABLO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 83000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JUNIORS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "119",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 285000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CABRERA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "198",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "PARQUE SAN VICENTE"
+},{
+         "tipoPropiedad": "CABA\u00d1A",
+         "precioUSD": 550000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GENERAL BELGRANO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LOS REARTES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "1020",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "100",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "AMEGHINO NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "1100",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "349",
+         "terrenoEdificado": "212",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "FERREYRA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "EMPALME"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "TEJAS 2"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "133",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "FERREYRA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 129000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS REARTES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": "41",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 12000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+}]

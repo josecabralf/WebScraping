@@ -1,12 +1,19 @@
-from bs4 import BeautifulSoup
-import requests
+from selenium import webdriver
 from config import *
 from scraperZonaProp import scrapZonaProp
 
-response = requests.get(URL_ZonaProp)
-soup = BeautifulSoup(response.content, 'html.parser')
+driver = webdriver.Chrome(path_driver)
+driver.get(URL_ZonaProp)
 
-paginas = int((soup.find_all('a', class_="page-link h4"))[-1].text)
+paginas = True
 
-for i in range(1,paginas+1):
-    scrapZonaProp(URL=URL_ZonaProp + f'&page={i}', archivo=archivos_ZonaProp + f'pagina{i}.json')
+while paginas:
+    try:
+        nro_pagina = (driver.find_element_by_xpath(
+            '//a[@class = "sc-n5babu-1 llkTcd"]')).text
+        scrapZonaProp(driver, f"{archivos_ZonaProp}pagina{nro_pagina}.json")
+
+    except:
+        paginas = False
+
+driver.quit()

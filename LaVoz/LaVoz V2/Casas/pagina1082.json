@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": "2100",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "15-07-2021",
+         "terrenoTotal": "624",
+         "terrenoEdificado": "284",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 74000,
+         "fechaUltimaActualizacion": "16-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ISIDRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "16-07-2021",
+         "terrenoTotal": "2500",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": "165000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CIUDAD DE AM\u00c9RICA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "15-07-2021",
+         "terrenoTotal": "1026",
+         "terrenoEdificado": "187",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": "4439",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN CLEMENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS REARTES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 475000,
+         "fechaUltimaActualizacion": "15-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "15-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "15-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "14-07-2021",
+         "terrenoTotal": "15300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "14-07-2021",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ALLENDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "14-07-2021",
+         "terrenoTotal": "970",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "16-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "16-07-2021",
+         "terrenoTotal": "209",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "16-07-2021",
+         "terrenoTotal": "390",
+         "terrenoEdificado": "281",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE VELEZ SARSFIELD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 300000,
+         "fechaUltimaActualizacion": "15-07-2021",
+         "terrenoTotal": "1730",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": "1186",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "16-07-2021",
+         "terrenoTotal": "274",
+         "terrenoEdificado": "212",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CRISOL SUD"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "14-07-2021",
+         "terrenoTotal": "41",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "15-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 690000,
+         "fechaUltimaActualizacion": "16-07-2021",
+         "terrenoTotal": "400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LA RESERVA"
+}]

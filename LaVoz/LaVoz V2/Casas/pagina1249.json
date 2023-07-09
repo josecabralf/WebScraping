@@ -1,0 +1,201 @@
+[{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 129000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "170",
+         "terrenoEdificado": "166",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "74",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "33",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 98000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "248",
+         "terrenoEdificado": "148",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 19000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 1000000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "3000",
+         "terrenoEdificado": "1500",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "BAJADA SAN ROQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 137000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "402",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "LA ESTANZUELA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 149000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "225",
+         "terrenoEdificado": "195",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "15",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 128000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "244",
+         "terrenoEdificado": "244",
+         "cantDormitorios": -1,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 11000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN NICOLAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 79500,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "225",
+         "terrenoEdificado": "326",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 205000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "432",
+         "terrenoEdificado": "212",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "ubicacion": "LA ESTANZUELA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 5,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "290",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SAN IGNACIO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 92000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "SEMIPISO",
+         "precioUSD": 99000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},]

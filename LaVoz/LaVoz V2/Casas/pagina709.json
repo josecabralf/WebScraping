@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "01-06-2021",
+         "terrenoTotal": "320",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "MATIENZO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "07-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE VELEZ SARSFIELD"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "08-06-2021",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "MARIANO BALCARCE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "11-05-2021",
+         "terrenoTotal": "30",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "03-06-2021",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALTO VERDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "11-05-2021",
+         "terrenoTotal": "30",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "07-06-2021",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "166",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": 1,
+         "ubicacion": "SAN IGNACIO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 392000,
+         "fechaUltimaActualizacion": "02-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 690000,
+         "fechaUltimaActualizacion": "03-06-2021",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "380",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "AYRES DEL SUR"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "05-08-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 285000,
+         "fechaUltimaActualizacion": "07-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA WARCALDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 445000,
+         "fechaUltimaActualizacion": "02-06-2021",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "02-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40150,
+         "fechaUltimaActualizacion": "20-07-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "PASO DE LOS ANDES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "03-06-2021",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 37000,
+         "fechaUltimaActualizacion": "27-05-2021",
+         "terrenoTotal": "279",
+         "terrenoEdificado": "101",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE REP\u00daBLICA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-06-2021",
+         "terrenoTotal": "320",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 310000,
+         "fechaUltimaActualizacion": "02-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ISIDRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 390000,
+         "fechaUltimaActualizacion": "02-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ISIDRO"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 34000,
+         "fechaUltimaActualizacion": "02-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CUESTA COLORADA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 410000,
+         "fechaUltimaActualizacion": "02-07-2021",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "480",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LA CUESTA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "03-06-2021",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 280000,
+         "fechaUltimaActualizacion": "07-06-2021",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+}]

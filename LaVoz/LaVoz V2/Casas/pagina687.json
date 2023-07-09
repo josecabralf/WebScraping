@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "21-02-2023",
+         "terrenoTotal": "1300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GENERAL BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA FRANCE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN IGNACIO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 128000,
+         "fechaUltimaActualizacion": "16-02-2023",
+         "terrenoTotal": "907",
+         "terrenoEdificado": "290",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": "330",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "RESIDENCIAL VELEZ SARFIELD"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA FRANCE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 295000,
+         "fechaUltimaActualizacion": "16-02-2023",
+         "terrenoTotal": "685",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": "82",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "VILLA RIVERA INDARTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "16-02-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": "95",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": "00",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN PABLO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "20-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 550000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "FERREYRA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 83000,
+         "fechaUltimaActualizacion": "17-02-2023",
+         "terrenoTotal": "546",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 3,
+         "ubicacion": "COMERCIAL"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+}]

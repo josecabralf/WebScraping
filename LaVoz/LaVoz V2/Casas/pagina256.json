@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 699000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "600",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1522",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA RIVERA INDARTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 59000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": "500",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ONA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": "239",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PALMAR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 440000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "20000",
+         "terrenoEdificado": "1000",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "VILLA GRAN PARQUE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 8500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "900",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "TALLERES OESTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "118",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 3,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "204",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "67",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 590000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "943",
+         "terrenoEdificado": "933",
+         "cantDormitorios": -1,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CERVECEROS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CUMBRES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "ubicacion": "TALLERES OESTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 400000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS BOULEVARES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 56000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA SOL"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALTOS DE VILLA SOL"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "185",
+         "terrenoEdificado": "179",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+}]

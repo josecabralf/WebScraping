@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 159000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "275",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO DE VILLA ALLENDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "170",
+         "terrenoEdificado": "126",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "RESIDENCIAL VELEZ SARFIELD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CASCADA COUNTRY GOLF"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "48",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 49800,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "38",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 48900,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "38",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 11000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 495000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "398",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LA CASCADA COUNTRY GOLF"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 79900,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "68",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "FONTANAS DEL SUR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "152",
+         "terrenoEdificado": "116",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "JARD\u00cdN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 234000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 3,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 255000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "2200",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CUMBRE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9900,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 689000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "548",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LA CASCADA COUNTRY GOLF"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "118",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 64900,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "187",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SAN PABLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 88000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "90",
+         "terrenoEdificado": "80",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 37900,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "48",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 255000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "3282",
+         "terrenoEdificado": "330",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "ASCOCHINGA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 380000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "435",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "SIETE SOLES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42900,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 36500,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "252",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "413",
+         "terrenoEdificado": "108",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "SAN FERNANDO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 74400,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+}]

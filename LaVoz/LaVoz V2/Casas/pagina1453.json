@@ -1,0 +1,91 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA ROSA DE CALAMUCHITA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 570000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "1540",
+         "terrenoEdificado": "576",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": 4,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 12000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "812",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 148320,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": "50",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 167500,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "74",
+         "terrenoEdificado": "54",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 154900,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": "50",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 18500,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "366",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "BIALET MASSE"
+}]

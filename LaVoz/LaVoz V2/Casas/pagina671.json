@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CHACRA DEL NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 43900,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "252",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "398",
+         "terrenoEdificado": "114",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "PRADOS DE LA VILLA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 24000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "34",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 122000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "650",
+         "terrenoEdificado": "105",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 920000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "1800",
+         "terrenoEdificado": "610",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "280",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "SOLARES DE SANTA MAR\u00cdA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "65",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 49900,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "1700",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN CARLOS"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 109000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "1420",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA ARBOLADA HOLLYWOOD"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 79000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": "218",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "OLIVA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "122",
+         "terrenoEdificado": "500",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "LOS BOULEVARES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "1400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN NICOL\u00c1S"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "270",
+         "terrenoEdificado": "235",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "PARQUE ALAMEDA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 225000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "852",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "750",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ALFONSO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 129000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "175",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "193",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SAN SALVADOR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 280000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "405",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+}]

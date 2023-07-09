@@ -1,0 +1,191 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "RESIDENCIAL AMERICA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 199000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "760",
+         "terrenoEdificado": "230",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "QUINTAS DE ARGUELLO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CONDOR ALTO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "99",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JUNIORS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "827",
+         "terrenoEdificado": "425",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 340000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "377",
+         "terrenoEdificado": "247",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "ROGELIO MARTINEZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "470",
+         "terrenoEdificado": "145",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "TERRAZAS DE LA ESTANZUELA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 790000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "800",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "ubicacion": "ALTOS DEL CHATEAU"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "RESIDENCIAL VELEZ SARFIELD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "48",
+         "terrenoEdificado": "48",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 169000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "378",
+         "terrenoEdificado": "192",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "MALAGUE\u00d1O"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MALAGUE\u00d1O"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "ALTO PALERMO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 10,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "119",
+         "terrenoEdificado": "92",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA WARCALDE"
+}]

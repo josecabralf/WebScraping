@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 108000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MALAGUE\u00d1O"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CIUDAD DE AM\u00c9RICA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "41",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "620",
+         "terrenoEdificado": "187",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CAUSANA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "637",
+         "terrenoEdificado": "637",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 183000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "EL REFUGIO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 525000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "R\u00cdO PRIMERO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "1303",
+         "terrenoEdificado": "533",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "360",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "LAS PALMAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "TERRAZAS DE VILLA ALLENDE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 29500,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "70",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DESPE\u00d1ADEROS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 139000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "152",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SOLARES DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "1040",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA LOS AROMOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "90",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "26-04-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DESPE\u00d1ADEROS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "99",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VILLA SOL"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "27-04-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SAN NICOLAS"
+}]

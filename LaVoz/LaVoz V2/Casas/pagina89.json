@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 36500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TERRAZAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 138000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "345",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA MARTA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "JUNIORS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JARDINES DE LA ESTANZUELA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 300000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "170",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 99000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 255000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "412",
+         "terrenoEdificado": "242",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LA ESTANZUELA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "JARD\u00cdN CLARET"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "308",
+         "terrenoEdificado": "240",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "RESIDENCIAL SUD"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "480",
+         "terrenoEdificado": "177",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LAS CA\u00d1ITAS BARRIO PRIVADO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TERRAZAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 26000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "55",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "LOS REARTES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "65",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "DON BOSCO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "100",
+         "terrenoEdificado": "154",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "EMPALME"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "187",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "EMPALME"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "405",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "MAIPU SECCI\u00d3N 2"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 280000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "2760",
+         "terrenoEdificado": "422",
+         "cantDormitorios": -1,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ALLENDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "93",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "PARQUE CAPITAL SUD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "321",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 57500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "90",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "BALCONES DEL CHATEU"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1650",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CASCADA COUNTRY GOLF"
+}]

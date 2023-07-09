@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "720",
+         "terrenoEdificado": "260",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 215000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "850",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN VICENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CRUZ DEL EJE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE CHACABUCO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 500000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1300",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 7700,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "430",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "LA RESERVA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 480000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1380",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "5000",
+         "terrenoEdificado": "550",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA MAR\u00cdA DE PUNILLA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 650000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "470",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "CA\u00d1UELAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 320000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "655",
+         "terrenoEdificado": "360",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS DEL CHATEAU"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "650",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 195000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "161",
+         "terrenoEdificado": "229",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "ubicacion": "OBSERVATORIO"
+}]

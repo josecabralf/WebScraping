@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "06-01-2020",
+         "terrenoTotal": "800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "06-01-2020",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 69000,
+         "fechaUltimaActualizacion": "03-01-2020",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 365000,
+         "fechaUltimaActualizacion": "30-12-2019",
+         "terrenoTotal": "222",
+         "terrenoEdificado": "222",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 300000,
+         "fechaUltimaActualizacion": "03-01-2020",
+         "terrenoTotal": "380",
+         "terrenoEdificado": "700",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "09-12-2019",
+         "terrenoTotal": "120",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PATRICIOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "11-12-2019",
+         "terrenoTotal": "160",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CLAROS DEL BOSQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 1050000,
+         "fechaUltimaActualizacion": "24-12-2019",
+         "terrenoTotal": "1800",
+         "terrenoEdificado": "750",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LAS DELICIAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 11500,
+         "fechaUltimaActualizacion": "06-01-2020",
+         "terrenoTotal": "1587",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "03-01-2020",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ARGENTINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "20-12-2019",
+         "terrenoTotal": "1700",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "09-12-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 219000,
+         "fechaUltimaActualizacion": "10-12-2019",
+         "terrenoTotal": "270",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "18-12-2019",
+         "terrenoTotal": "60",
+         "terrenoEdificado": "60",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 54000,
+         "fechaUltimaActualizacion": "11-12-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "06-01-2020",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTOS DE VILLA SOL"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "04-01-2020",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "MARCOS SASTRE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 54000,
+         "fechaUltimaActualizacion": "11-12-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "12-12-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "09-12-2019",
+         "terrenoTotal": "120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 1400000,
+         "fechaUltimaActualizacion": "26-12-2019",
+         "terrenoTotal": "3300",
+         "terrenoEdificado": "1030",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LAS DELICIAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "09-12-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "18-12-2019",
+         "terrenoTotal": "135",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "03-01-2020",
+         "terrenoTotal": "130",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CATALINA"
+}]

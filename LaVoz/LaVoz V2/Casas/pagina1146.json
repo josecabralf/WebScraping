@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "13-06-2019",
+         "terrenoTotal": "290",
+         "terrenoEdificado": "105",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "19-07-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVO POETA LUGONES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "16-07-2019",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "175",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "GREENVILLE 2"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "14-06-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "13-06-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OBSERVATORIO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "14-06-2019",
+         "terrenoTotal": "1160",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 245000,
+         "fechaUltimaActualizacion": "16-07-2019",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "170",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "GREENVILLE 2"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 72000,
+         "fechaUltimaActualizacion": "13-06-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "13-06-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE LATINO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "26-06-2019",
+         "terrenoTotal": "2830",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 189000,
+         "fechaUltimaActualizacion": "05-07-2019",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CHACRA DEL NORTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "29-06-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "15-07-2019",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "450",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "CONDOR ALTO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "16-07-2019",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "152",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "GREENVILLE 2"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "04-07-2019",
+         "terrenoTotal": "258",
+         "terrenoEdificado": "221",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE REP\u00daBLICA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 113000,
+         "fechaUltimaActualizacion": "30-06-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "16-07-2019",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "GREENVILLE 2"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "24-07-2019",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SALDAN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 83000,
+         "fechaUltimaActualizacion": "14-06-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 31000,
+         "fechaUltimaActualizacion": "28-06-2019",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "A.T.E."
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "16-07-2019",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "185",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CLAROS DEL BOSQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "28-06-2019",
+         "terrenoTotal": "570",
+         "terrenoEdificado": "233",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+}]

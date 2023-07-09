@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 370000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": "475",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "TALA HUASI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 469000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "1600",
+         "terrenoEdificado": "500",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "1400",
+         "terrenoEdificado": "407",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CHACRAS DE LA VILLA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 107000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "95",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "INAUDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 345000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "80000",
+         "terrenoEdificado": "275",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "YACANTO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 49900,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "1253",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MALAGUE\u00d1O"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 319000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "552",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": "210",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ARTIGAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 460000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "17700",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA GENERAL BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "HOUSING Y CONDOMINIOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "1100",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "CUATRO HOJAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 380000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "3600",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 4,
+         "ubicacion": "LA CUMBRE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "750",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 94900,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "90",
+         "terrenoEdificado": "70",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "BAJO PALERMO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "MENDIOLAZA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 320000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "300",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "SOLARES DE SAN ALFONSO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "17-06-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVO POETA LUGONES"
+}]

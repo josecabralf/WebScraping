@@ -1,0 +1,201 @@
+[{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "126",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "1100",
+         "terrenoEdificado": "260",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA ALLENDE PARQUE"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 98000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "122",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "URITORCO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 199000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "884",
+         "terrenoEdificado": "260",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GRANJA DE FUNES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "700",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 12000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "101",
+         "terrenoEdificado": "145",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 320000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "850",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA WARCALDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 13000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "960",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 8900,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "302",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 3,
+         "ubicacion": "GRANJA DE FUNES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "33",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "IPONA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "429",
+         "terrenoEdificado": "92",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 5,
+         "ubicacion": "VILLA RIVERA INDARTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "325",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "URITORCO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 69990,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "470",
+         "terrenoEdificado": "193",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 26000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "62",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS GRANADOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "380",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 27000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "1765",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "197",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+}]

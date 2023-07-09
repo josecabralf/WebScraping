@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "104",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 79000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "152",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 41500,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 231000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "EL REFUGIO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "686",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 4,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "1400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS REARTES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "190",
+         "cantDormitorios": 2,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 335000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "90000",
+         "terrenoEdificado": "360",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "3125",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "SAN MARCOS SIERRAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTO VERDE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": "330",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "115",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "704",
+         "terrenoEdificado": "108",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "SAN MARCOS SIERRAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "420",
+         "terrenoEdificado": "105",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "EMBALSE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CRUZ DEL EJE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "95",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 720000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 8500,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "332",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NOETINGER"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 26000,
+         "fechaUltimaActualizacion": "16-05-2023",
+         "terrenoTotal": "27",
+         "terrenoEdificado": "27",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+}]

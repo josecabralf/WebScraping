@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 126000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "100",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "244",
+         "terrenoEdificado": "117",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALTO GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 310000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "275",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "320",
+         "terrenoEdificado": "170",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "LA CAROLINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 159000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "700",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS MOLINOS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 83000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CALANDRIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 235000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "690",
+         "terrenoEdificado": "267",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 34000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COLINAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "810",
+         "terrenoEdificado": "320",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "R\u00cdO CEBALLOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 370000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 395000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1350",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "FINCAS DEL SUR I"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JARDINES DEL OLMO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 270000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "165",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MIRADORES DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "135",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN VICENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 77000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JUNIORS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 32150,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LAS CA\u00d1ITAS BARRIO PRIVADO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "76",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 330000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1350",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+}]

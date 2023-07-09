@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 149000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "550",
+         "terrenoEdificado": "550",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 320000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 349000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "421",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "100",
+         "terrenoEdificado": "66",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ITUZAINGO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 62500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 56000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "MOSCONI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 81900,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 380000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "110",
+         "terrenoEdificado": "500",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "JARD\u00cdN CLARET"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "175",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "CA\u00d1UELAS CHICOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 59000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "87",
+         "terrenoEdificado": "87",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 81000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "62",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "168",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "SAN ISIDRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 84950,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "RESIDENCIAL SAN CARLOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "315",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MAIPU SECCI\u00d3N 1"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CIUDAD DE AM\u00c9RICA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "170",
+         "terrenoEdificado": "170",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA BELGRANO"
+}]

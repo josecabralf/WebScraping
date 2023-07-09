@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 93000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "74",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTOS DE VILLA SOL"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "136",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ARGUELLO NORTE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 67000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "30",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "ALTO GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 950000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1400",
+         "terrenoEdificado": "640",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "JESUS MAR\u00cdA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 122000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "270",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "SAN SALVADOR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 116000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": "128",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 500000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1800",
+         "terrenoEdificado": "340",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LOMAS DE LA CAROLINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GREENVILLE 2"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 360000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "177",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 182000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "550",
+         "terrenoEdificado": "569",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 83000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "YOCSINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GREENVILLE"
+},{
+         "tipoPropiedad": "D\u00daPLEX",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "225",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO DE VILLA ALLENDE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "230",
+         "cantDormitorios": 2,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "156",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CA\u00d1UELAS CHICOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "173",
+         "terrenoEdificado": "118",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "133",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "85",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 2700,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SALSIPUEDES"
+}]

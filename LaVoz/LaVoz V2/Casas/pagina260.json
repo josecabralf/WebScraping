@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "390",
+         "terrenoEdificado": "214",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 3,
+         "ubicacion": "PARQUE VELEZ SARSFIELD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "176",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 73000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "75",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "424",
+         "terrenoEdificado": "170",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "TERRAZAS DE LA ESTANZUELA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "162",
+         "terrenoEdificado": "100",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 43500,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "COL\u00d3N"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "110",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LAS PALMAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "7339",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ASCOCHINGA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "375",
+         "terrenoEdificado": "338",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "INAUDI"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 93000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": "115",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LA PAYA II"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 167000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "252",
+         "terrenoEdificado": "188",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "COLINAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": "30",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "INAUDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 40200,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 82000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "A.T.E."
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 147000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "252",
+         "terrenoEdificado": "141",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "COLINAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "126",
+         "terrenoEdificado": "121",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "MIRADORES DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 128000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "260",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "PARQUE VELEZ SARSFIELD"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 340000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": "240",
+         "cantDormitorios": 2,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "07-07-2023",
+         "terrenoTotal": "136",
+         "terrenoEdificado": "136",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "JARD\u00cdN"
+},]

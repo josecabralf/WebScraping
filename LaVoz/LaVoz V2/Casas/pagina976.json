@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JOS\u00c9 HERNANDEZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 245000,
+         "fechaUltimaActualizacion": "04-11-2022",
+         "terrenoTotal": "760",
+         "terrenoEdificado": "126",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LA CUESTA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "06-11-2022",
+         "terrenoTotal": "184",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "MIRADORES DE MANANTIALES"
+},{
+         "tipoPropiedad": "PISO",
+         "precioUSD": 195000,
+         "fechaUltimaActualizacion": "07-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": "1250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "07-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "09-11-2022",
+         "terrenoTotal": "783",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA QUIZQUIZACATE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 7200,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 73900,
+         "fechaUltimaActualizacion": "04-11-2022",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CALANDRIA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "09-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 58000,
+         "fechaUltimaActualizacion": "07-11-2022",
+         "terrenoTotal": "325",
+         "terrenoEdificado": "293",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 42500,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN DEL PILAR"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 93500,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": "15",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": "333",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CRISOL NORTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 56000,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": "1800",
+         "terrenoEdificado": "86",
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "04-11-2022",
+         "terrenoTotal": "52",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "07-11-2022",
+         "terrenoTotal": "120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "07-11-2022",
+         "terrenoTotal": "59",
+         "terrenoEdificado": "59",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "COFICO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": "292",
+         "terrenoEdificado": "219",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40999,
+         "fechaUltimaActualizacion": "05-11-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "08-11-2022",
+         "terrenoTotal": "314",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA MAR\u00cdA DE PUNILLA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "09-11-2022",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MALAGUE\u00d1O"
+}]

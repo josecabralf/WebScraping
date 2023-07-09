@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": "1650",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ESTANCIA EL TERR\u00d3N"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 850000,
+         "fechaUltimaActualizacion": "06-08-2022",
+         "terrenoTotal": "20000",
+         "terrenoEdificado": "1150",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "COMERCIAL"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 195000,
+         "fechaUltimaActualizacion": "06-08-2022",
+         "terrenoTotal": "116",
+         "terrenoEdificado": "116",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 179000,
+         "fechaUltimaActualizacion": "09-08-2022",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "283",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 3,
+         "ubicacion": "SAN SALVADOR"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "09-08-2022",
+         "terrenoTotal": "350",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CUMBRE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "10-08-2022",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 46000,
+         "fechaUltimaActualizacion": "10-08-2022",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 14500,
+         "fechaUltimaActualizacion": "10-08-2022",
+         "terrenoTotal": "253",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE CERCANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 325000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "290",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTINA NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "07-08-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 85600,
+         "fechaUltimaActualizacion": "09-08-2022",
+         "terrenoTotal": "90",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "09-08-2022",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ICHO CRUZ"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VALLE CERCANO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "09-08-2022",
+         "terrenoTotal": "154",
+         "terrenoEdificado": "100",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 470000,
+         "fechaUltimaActualizacion": "09-08-2022",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "390",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": "335",
+         "terrenoEdificado": "84",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MENDIOLAZA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 650000,
+         "fechaUltimaActualizacion": "10-08-2022",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "09-08-2022",
+         "terrenoTotal": "3000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CUMBRE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 92000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "terrenoTotal": "500",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "LA CUMBRE"
+}]

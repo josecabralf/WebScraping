@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "SEMIPISO",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 84000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "325",
+         "terrenoEdificado": "89",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "JESUS MAR\u00cdA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "233",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VIVERO NORTE"
+},{
+         "tipoPropiedad": "CHALET",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "70",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 14500,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "792",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "233",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "YOFRE NORTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "225",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JUNIORS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COLONIA CAROYA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 36000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "613",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MENDIOLAZA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "JUNIORS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "36",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "700",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "R\u00cdO CEBALLOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "470",
+         "terrenoEdificado": "190",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "210",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "330",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SAN FERNANDO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 26000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CHALET",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SALSIPUEDES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},]

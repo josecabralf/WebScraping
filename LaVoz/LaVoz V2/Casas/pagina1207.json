@@ -1,0 +1,81 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA ROSA DE CALAMUCHITA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "QUEBRADAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 103000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "110",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "DOCTA URBANIZACI\u00d3N INTELIGENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "99",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LAS FLORES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "301",
+         "terrenoEdificado": "298",
+         "cantDormitorios": -1,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "LAS PALMAS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "298",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "LAS PALMAS"
+}]

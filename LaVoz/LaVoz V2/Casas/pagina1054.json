@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 270000,
+         "fechaUltimaActualizacion": "17-01-2022",
+         "terrenoTotal": "180",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "27-01-2022",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "19-01-2022",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": "01",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "26-01-2022",
+         "terrenoTotal": "800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA QUIZQUIZACATE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "19-01-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TALLERES OESTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "19-01-2022",
+         "terrenoTotal": "427",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "TEJAS 2"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "27-01-2022",
+         "terrenoTotal": "252",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 23000,
+         "fechaUltimaActualizacion": "18-01-2022",
+         "terrenoTotal": "476",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "26-01-2022",
+         "terrenoTotal": "48",
+         "terrenoEdificado": "48",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "25-01-2022",
+         "terrenoTotal": "835",
+         "terrenoEdificado": "194",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 159000,
+         "fechaUltimaActualizacion": "27-01-2022",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "21-01-2022",
+         "terrenoTotal": "1966",
+         "terrenoEdificado": "224",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CIUDAD DE AM\u00c9RICA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 19900,
+         "fechaUltimaActualizacion": "24-01-2022",
+         "terrenoTotal": "476",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 500000,
+         "fechaUltimaActualizacion": "25-01-2022",
+         "terrenoTotal": "1184",
+         "terrenoEdificado": "432",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 330000,
+         "fechaUltimaActualizacion": "25-01-2022",
+         "terrenoTotal": "273",
+         "terrenoEdificado": "373",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "PARQUE CAPITAL"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 650000,
+         "fechaUltimaActualizacion": "28-01-2022",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "450",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "EL BOSQUE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "18-01-2022",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 54000,
+         "fechaUltimaActualizacion": "27-01-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 330000,
+         "fechaUltimaActualizacion": "27-01-2022",
+         "terrenoTotal": "1036",
+         "terrenoEdificado": "183",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CUATRO HOJAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "17-01-2022",
+         "terrenoTotal": "260",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LAS DALIAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 255000,
+         "fechaUltimaActualizacion": "26-01-2022",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "19-01-2022",
+         "terrenoTotal": "603",
+         "terrenoEdificado": "1029",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+}]

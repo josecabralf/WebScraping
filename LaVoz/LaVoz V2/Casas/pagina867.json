@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 249900,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "170",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PADRE CLARET"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "709",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 1450000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "3300",
+         "terrenoEdificado": "2300",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 490000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "709",
+         "terrenoEdificado": "416",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 189500,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "330",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "HOUSING Y CONDOMINIOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "460",
+         "terrenoEdificado": "126",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "PRADOS DE LA VILLA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 590000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "550",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "CERRO DE LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "2000",
+         "terrenoEdificado": "550",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 73000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "100",
+         "terrenoEdificado": "89",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CUESTA COLORADA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 850000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "9687",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS BOULEVARES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "366",
+         "terrenoEdificado": "159",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "ARGUELLO NORTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "1300",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 37000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COMARCA DE ALLENDE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 199900,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "480",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SALDAN"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 14000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "BARRIO NORTE II"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 159900,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": "250",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "1855",
+         "terrenoEdificado": "185",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "SAN ALFONSO I"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 26000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS OESTE"
+},{
+         "tipoPropiedad": "CABA\u00d1A",
+         "precioUSD": 449000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "36800",
+         "terrenoEdificado": "900",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "VALLE HERMOSO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 199900,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": "220",
+         "terrenoEdificado": "207",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA BELGRANO"
+}]

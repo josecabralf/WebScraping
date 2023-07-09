@@ -1,0 +1,191 @@
+[{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "160",
+         "terrenoEdificado": "91",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "203",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PARQUE HORIZONTE"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "175",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "MIRADORES DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PROVIDENCIA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 229000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "450",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LOS CAROLINOS"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 184000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "206",
+         "terrenoEdificado": "122",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 269000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "420",
+         "terrenoEdificado": "270",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "290",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PARQUE SAN VICENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 370000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "930",
+         "terrenoEdificado": "370",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "LA CUESTA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "85",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 194000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "4316",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CAUSANA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 47000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "47",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "136",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ROSEDAL"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 430000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "2667",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "1300",
+         "terrenoEdificado": "700",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 5,
+         "ubicacion": "ARGUELLO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "LOS PRADOS II"
+}]

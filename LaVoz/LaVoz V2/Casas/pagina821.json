@@ -1,0 +1,141 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 7500,
+         "fechaUltimaActualizacion": "12-01-2023",
+         "terrenoTotal": "323",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 93000,
+         "fechaUltimaActualizacion": "12-01-2023",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "04-01-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "12-01-2023",
+         "terrenoTotal": "182",
+         "terrenoEdificado": "144",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "04-01-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 255000,
+         "fechaUltimaActualizacion": "05-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "04-01-2023",
+         "terrenoTotal": "1249",
+         "terrenoEdificado": "213",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ANISACATE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MATIENZO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 92500,
+         "fechaUltimaActualizacion": "12-01-2023",
+         "terrenoTotal": "110",
+         "terrenoEdificado": "75",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 18000,
+         "fechaUltimaActualizacion": "04-01-2023",
+         "terrenoTotal": "1211",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 17000,
+         "fechaUltimaActualizacion": "05-01-2023",
+         "terrenoTotal": "35",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CIUDADELA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 245000,
+         "fechaUltimaActualizacion": "08-01-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CABRERA"
+}]

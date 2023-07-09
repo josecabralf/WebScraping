@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA ARBOLADA HOLLYWOOD"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 44500,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 37500,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "833",
+         "terrenoEdificado": "220",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "BIALET MASSE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "40",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 9500,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "605",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 99000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "267",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO AMERICA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "265",
+         "terrenoEdificado": "265",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN VICENTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "75",
+         "terrenoEdificado": "50",
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "202",
+         "terrenoEdificado": "175",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "OLIVA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "405",
+         "terrenoEdificado": "77",
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LAS FLORES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "140",
+         "terrenoEdificado": "114",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "MARECHAL"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 14800,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1212",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "559",
+         "terrenoEdificado": "195",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "36",
+         "terrenoEdificado": "24",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "274",
+         "terrenoEdificado": "208",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 46500,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "51",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1400",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA ARBOLADA HOLLYWOOD"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 14800,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1212",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 290000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "650",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CUESTA COLORADA"
+}]

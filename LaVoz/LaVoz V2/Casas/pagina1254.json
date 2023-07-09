@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "27",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 11000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "718",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "100",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "TALLERES SUD"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "80",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "R\u00cdO CUARTO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "34",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "R\u00cdO CUARTO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "1450",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 12500,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "R\u00cdO CUARTO"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "CONDOR BAJO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "708",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "90",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "235",
+         "terrenoEdificado": "132",
+         "cantDormitorios": 2,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CATALINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "268",
+         "terrenoEdificado": "205",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 138000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "268",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "130",
+         "terrenoEdificado": "130",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "UNQUILLO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "1180",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "678",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SANTA CRUZ DEL LAGO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "2000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ESTANCIA Q2"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "150",
+         "terrenoEdificado": "1333",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": ""
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "AYACUCHO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "500",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PIQUILL\u00cdN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "30-06-2023",
+         "terrenoTotal": "860",
+         "terrenoEdificado": "120",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "UNQUILLO"
+},]

@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 1200000,
+         "fechaUltimaActualizacion": "17-12-2022",
+         "terrenoTotal": "3000",
+         "terrenoEdificado": "890",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": 3,
+         "ubicacion": "EL BOSQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "27-12-2022",
+         "terrenoTotal": "1350",
+         "terrenoEdificado": "110",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "19-12-2022",
+         "terrenoTotal": "360",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA GRACIA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 19900,
+         "fechaUltimaActualizacion": "20-12-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 109000,
+         "fechaUltimaActualizacion": "19-12-2022",
+         "terrenoTotal": "83",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "26-12-2022",
+         "terrenoTotal": "2000",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "LA GRANJA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 230000,
+         "fechaUltimaActualizacion": "23-12-2022",
+         "terrenoTotal": "190",
+         "terrenoEdificado": "173",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "15-12-2022",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 520000,
+         "fechaUltimaActualizacion": "17-12-2022",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "450",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "EL BOSQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "13-12-2022",
+         "terrenoTotal": "14616",
+         "terrenoEdificado": "105,28",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "SAN VICENTE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "17-12-2022",
+         "terrenoTotal": "1446",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ALLENDE PARQUE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "21-12-2022",
+         "terrenoTotal": "106",
+         "terrenoEdificado": "75",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "SAN MARTIN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 54000,
+         "fechaUltimaActualizacion": "14-12-2022",
+         "terrenoTotal": "60",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 950000,
+         "fechaUltimaActualizacion": "26-12-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ESQUI\u00da"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 320000,
+         "fechaUltimaActualizacion": "27-12-2022",
+         "terrenoTotal": "327",
+         "terrenoEdificado": "280",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "ubicacion": "URCA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 27000,
+         "fechaUltimaActualizacion": "13-12-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "15-12-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 1200000,
+         "fechaUltimaActualizacion": "17-12-2022",
+         "terrenoTotal": "3000",
+         "terrenoEdificado": "1000",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": 3,
+         "ubicacion": "LAS DELICIAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "16-12-2022",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "123",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "QUINTAS DE ARGUELLO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "16-12-2022",
+         "terrenoTotal": "128",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PRADOS DE MANANTIALES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 249000,
+         "fechaUltimaActualizacion": "17-12-2022",
+         "terrenoTotal": "760",
+         "terrenoEdificado": "126",
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "ubicacion": "LA CUESTA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "15-12-2022",
+         "terrenoTotal": "360",
+         "terrenoEdificado": "151",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JOS\u00c9 IGNACIO D\u00cdAZ SE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "26-12-2022",
+         "terrenoTotal": "378",
+         "terrenoEdificado": "160",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "LOS BOULEVARES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 159000,
+         "fechaUltimaActualizacion": "16-12-2022",
+         "terrenoTotal": "400",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "TERRAZAS DE LA ESTANZUELA"
+}]

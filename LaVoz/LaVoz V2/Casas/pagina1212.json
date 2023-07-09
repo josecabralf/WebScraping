@@ -1,0 +1,221 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 270000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "540",
+         "terrenoEdificado": "330",
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "ALTO PALERMO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "189",
+         "terrenoEdificado": "144",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "MAIPU SECCI\u00d3N 1"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "252",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "IPONA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 103000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "INAUDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 450000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "368",
+         "terrenoEdificado": "240",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": "121",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "RESIDENCIAL SAN CARLOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38800,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "69",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 132000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "90",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "70",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "POTRERO DE GARAY"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "270",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CERVECEROS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "262",
+         "terrenoEdificado": "195",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "EMPALME"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "326",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 139900,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "164",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 125000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "206",
+         "terrenoEdificado": "132",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "104",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 73000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "71",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 157000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": "150",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "410",
+         "terrenoEdificado": "152",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "AMP. PUEYRRED\u00d3N"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "280",
+         "terrenoEdificado": "101",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "VILLA ADELA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "260",
+         "terrenoEdificado": "140",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": 4,
+         "ubicacion": "POLICIAL"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 48000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": "410",
+         "terrenoEdificado": "152",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+}]

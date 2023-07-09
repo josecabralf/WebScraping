@@ -1,0 +1,241 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 210000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": "196",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "OTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 260000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "600",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 81000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CUESTA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1052",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA ALLENDE PARQUE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "2600",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 380000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1800",
+         "terrenoEdificado": "400",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "ubicacion": "LA HERRADURA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1580",
+         "terrenoEdificado": "245",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LA HERRADURA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "560",
+         "terrenoEdificado": "178",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "ubicacion": "MARQ. DE SOBREMONTE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 490000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "975",
+         "terrenoEdificado": "330",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "LA RUFINA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 650000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1500",
+         "terrenoEdificado": "550",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "LOMAS DE LA CAROLINA"
+},{
+         "tipoPropiedad": "CABA\u00d1A",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "2066",
+         "terrenoEdificado": "80",
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "VILLA GIARDINO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 10000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "420",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "\u00d1U PORA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 350000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "240",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 650000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": "1500",
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "EL BOSQUE"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "385",
+         "terrenoEdificado": "350",
+         "cantDormitorios": -1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1596",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOS COCOS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 1000000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "4800",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "SAN ISIDRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 440000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "12000",
+         "terrenoEdificado": "850",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VALLE HERMOSO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "55",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL PAZ"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 814000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "7800",
+         "terrenoEdificado": "391",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CARLOS PAZ"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "1000",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LA CALERA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "28-06-2023",
+         "terrenoTotal": "50",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALBERDI"
+}]

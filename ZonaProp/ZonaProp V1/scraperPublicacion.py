@@ -1,2 +1,2 @@
-def scrapZonaPropPublicacion():
+def scrapZonaPropPublicacion(URL):
     pass

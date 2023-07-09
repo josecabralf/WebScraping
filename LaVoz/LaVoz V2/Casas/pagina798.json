@@ -1,0 +1,211 @@
+[{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "208",
+         "terrenoEdificado": "125",
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 98000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "260",
+         "terrenoEdificado": "330",
+         "cantDormitorios": -1,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1250",
+         "terrenoEdificado": "180",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "CUATRO HOJAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "325",
+         "terrenoEdificado": "94",
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "COLONIA TIROLESA"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "125",
+         "terrenoEdificado": "90",
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "STOECKLIN"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 69000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 300000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "416",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1264",
+         "terrenoEdificado": "500",
+         "cantDormitorios": -1,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA SIBURU"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "NUEVA ITALIA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 270000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "VILLA WARCALDE"
+},{
+         "tipoPropiedad": "DUPLEX",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "SAN IGNACIO VILLAGE"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "256",
+         "terrenoEdificado": "256",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "EL TALAR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "900",
+         "terrenoEdificado": "240",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "ubicacion": "GOLF"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "LOMAS DE SAN MART\u00cdN"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 149000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "350",
+         "terrenoEdificado": "165",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "ubicacion": "MALAGUE\u00d1O"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 159000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "1120",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 3,
+         "cantCochera": 4,
+         "ubicacion": "VILLA PQE. DE LOS REARTES"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 279000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "972",
+         "terrenoEdificado": "327",
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "ubicacion": "VILLA BELGRANO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "481",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "ALTA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "31",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 64000,
+         "fechaUltimaActualizacion": "03-07-2023",
+         "terrenoTotal": "450",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GENERAL BUSTOS"
+},]

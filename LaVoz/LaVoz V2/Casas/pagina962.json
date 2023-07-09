@@ -1,0 +1,231 @@
+[{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 89900,
+         "fechaUltimaActualizacion": "06-01-2023",
+         "terrenoTotal": "62",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CHATEAU CARRERAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "05-01-2023",
+         "terrenoTotal": "300",
+         "terrenoEdificado": "200",
+         "cantDormitorios": -1,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "ubicacion": "LA CALERA"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "10-01-2023",
+         "terrenoTotal": "1841",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SANTA ANA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70500,
+         "fechaUltimaActualizacion": "11-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "ubicacion": "CHATEAU CARRERAS"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 580000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": "1650",
+         "terrenoEdificado": "1200",
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "PUEYRREDON"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "11-01-2023",
+         "terrenoTotal": "294",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "CUESTAS DE MANANTIALES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "11-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "ALTO ALBERDI"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 43000,
+         "fechaUltimaActualizacion": "11-01-2023",
+         "terrenoTotal": "200",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "GUEMES"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "06-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "CENTRO"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 3000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "350",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "ubicacion": "VALLE ESCONDIDO"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 46000,
+         "fechaUltimaActualizacion": "06-01-2023",
+         "terrenoTotal": "1495",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA PARQUE SANTA ANA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75300,
+         "fechaUltimaActualizacion": "10-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 145000,
+         "fechaUltimaActualizacion": "11-01-2023",
+         "terrenoTotal": "220",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "MAIPU SECCI\u00d3N 1"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 21000,
+         "fechaUltimaActualizacion": "05-01-2023",
+         "terrenoTotal": "550",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA GENERAL BELGRANO"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 69000,
+         "fechaUltimaActualizacion": "06-01-2023",
+         "terrenoTotal": "45",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "06-01-2023",
+         "terrenoTotal": "314",
+         "terrenoEdificado": "109",
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 4,
+         "ubicacion": "HUERTA GRANDE"
+},{
+         "tipoPropiedad": "",
+         "precioUSD": 63000,
+         "fechaUltimaActualizacion": "10-01-2023",
+         "terrenoTotal": "250",
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "QUEBRADA DE LAS ROSAS"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": "720",
+         "terrenoEdificado": "16m2",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "ubicacion": "PILAR"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 238000,
+         "fechaUltimaActualizacion": "11-01-2023",
+         "terrenoTotal": "480",
+         "terrenoEdificado": "188",
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "VALLE DEL GOLF"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 190000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": "180",
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "ubicacion": "JARD\u00cdN ESPINOSA"
+},{
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 76000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": -1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "ubicacion": "NUEVA C\u00d3RDOBA"
+},{
+         "tipoPropiedad": "CASA",
+         "precioUSD": 195000,
+         "fechaUltimaActualizacion": "11-01-2023",
+         "terrenoTotal": "800",
+         "terrenoEdificado": "200",
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "ubicacion": "VALLE DEL GOLF"
+},{
+         "tipoPropiedad": "CHALET",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "09-01-2023",
+         "terrenoTotal": "1966",
+         "terrenoEdificado": "224",
+         "cantDormitorios": 4,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "ubicacion": "VILLA CIUDAD DE AM\u00c9RICA"
+}]
