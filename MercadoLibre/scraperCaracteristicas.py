@@ -1,0 +1,2 @@
+def getDatosCaracteristicas(caracteristicas):
+    pass
