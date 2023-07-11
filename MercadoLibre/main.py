@@ -24,8 +24,8 @@ def main():
     response = requests.get(URL_Meli)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    paginas = int(
-        soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
+    # int(soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
+    paginas = 1
 
     for i in range(paginas):
         if i == 0:
@@ -33,7 +33,7 @@ def main():
         else:
             link = formarLink(URL_Meli, i)
 
-        scrapMeLi(URL=link, archivo=archivos_Meli + f'pagina{i}.json')
+        scrapMeLi(URL=link, archivo=archivos_Meli + f'pagina{i+1}.json')
 
 
 if __name__ == "__main__":

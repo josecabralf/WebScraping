@@ -18,15 +18,16 @@ def crearObjetoJSON(datos_interes, precio, fecha, id, URL):
     """
     objetoJSON = {
         "id": id,
-        "tipoPropiedad": datos_interes[0],
+        "tipoPropiedad": datos_interes['Tipo vivienda'],
         "precioUSD": precio,
         "fechaUltimaActualizacion": fecha,
-        "terrenoTotal": datos_interes[1],
-        "terrenoEdificado": datos_interes[2],
-        "cantDormitorios": datos_interes[3],
-        "cantBanos": datos_interes[4],
-        "cantCochera": datos_interes[5],
-        "ubicacion": datos_interes[6],
+        "terrenoTotal": datos_interes['Superficie total'],
+        "terrenoEdificado": datos_interes['Superficie cubierta'],
+        "cantDormitorios": datos_interes['Dormitorios'],
+        "cantBanos": datos_interes['Baños'],
+        "cantCochera": datos_interes['Cocheras'],
+        "barrio": datos_interes['Barrio'],
+        "ciudad": datos_interes['Ciudad'],
         "URL": URL
     }
     return objetoJSON
