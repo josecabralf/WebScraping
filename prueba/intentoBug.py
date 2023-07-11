@@ -1,11 +1,18 @@
 from bs4 import BeautifulSoup
 import requests
 
-URL_Meli = 'https://departamento.mercadolibre.com.ar/MLA-1375718613-departamento-en-venta-rodas-lugones-nueva-cordoba-2-dorm-_JM'
+URL_Meli = 'https://inmuebles.mercadolibre.com.ar/venta/propiedades-individuales/cordoba/inmuebles_NoIndex_True'
 
-# response = requests.get(URL_Meli)
-# soup = BeautifulSoup(response.content, 'html.parser')
-i = "70.62 m"
-j = int(round(float(i.split()[0]), 0))
 
-print(j)
+paginas = 44
+
+for i in range(0, paginas-2, 3):
+    print(i)
+    print(i+1)
+    print(i+2)
+
+if paginas % 3 == 1:
+    print(paginas-1)
+if paginas % 3 == 2:
+    print(paginas-2)
+    print(paginas-1)

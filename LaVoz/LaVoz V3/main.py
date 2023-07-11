@@ -22,7 +22,7 @@ def main():
     response = requests.get(URL_LaVoz)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    paginas = 3  # int((soup.find_all('a', class_="page-link h4"))[-1].text)
+    paginas = int((soup.find_all('a', class_="page-link h4"))[-1].text)
 
     for i in range(1, paginas-1, 3):
         URL1, URL2, URL3 = formarLink(URL_LaVoz, i), formarLink(

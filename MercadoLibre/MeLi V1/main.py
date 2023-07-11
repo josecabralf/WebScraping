@@ -24,8 +24,8 @@ def main():
     response = requests.get(URL_Meli)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # int(soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
-    paginas = 1
+    paginas = int(
+        soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
 
     for i in range(paginas):
         if i == 0:
