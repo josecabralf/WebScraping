@@ -4,39 +4,71 @@ from scraperClasificados import scrapLaVozClasificados
 from config import *
 import threading
 
-response = requests.get(URL_LaVoz)
-soup = BeautifulSoup(response.content, 'html.parser')
 
-paginas = int((soup.find_all('a', class_="page-link h4"))[-1].text)
+def formarLink(url_base, i):
+    """Forma links de paginas de publicaciones según el criterio de Clasificados de La Voz
 
-for i in range(1,paginas-1, 3):
-    URL1, URL2, URL3 = URL_LaVoz + f'&page={i}', URL_LaVoz + f'&page={i+1}', URL_LaVoz + f'&page={i+2}'
-    archivo1, archivo2, archivo3 = archivos_LaVoz + f'pagina{i}.json', archivos_LaVoz + f'pagina{i+1}.json', archivos_LaVoz + f'pagina{i+2}.json'
+    Args:
+        url_base (string): url base de Clasificados de La Voz que vamos a modificar para acceder a una nueva pagina
+        i (int): indica el numero de pagina actual
 
-    thread1 = threading.Thread(target=scrapLaVozClasificados, args=(URL1, archivo1))
-    thread2 = threading.Thread(target=scrapLaVozClasificados, args=(URL2, archivo2))
-    thread3 = threading.Thread(target=scrapLaVozClasificados, args=(URL3, archivo3))
+    Returns:
+        string: url modificada para acceder a pagina i
+    """
+    return url_base + f'&page={i}'
 
-    thread1.start()
-    thread2.start()
-    thread3.start()
 
-    thread1.join()
-    thread2.join()
-    thread3.join()
+def main():
+    response = requests.get(URL_LaVoz)
+    soup = BeautifulSoup(response.content, 'html.parser')
 
-if paginas%3 == 1:
-    scrapLaVozClasificados(URL=URL_LaVoz + f'&page={paginas}', archivo=archivos_LaVoz + f'pagina{paginas}.json')
+    paginas = int((soup.find_all('a', class_="page-link h4"))[-1].text)
 
-elif paginas%3 == 2:
-    URL1, URL2 = URL_LaVoz + f'&page={paginas-1}', URL_LaVoz + f'&page={paginas}'
-    archivo1, archivo2 = archivos_LaVoz + f'pagina{paginas-1}.json', archivos_LaVoz + f'pagina{paginas}.json'
-    
-    thread1 = threading.Thread(target=scrapLaVozClasificados, args=(URL1, archivo1))
-    thread2 = threading.Thread(target=scrapLaVozClasificados, args=(URL2, archivo2))
+    for i in range(1, paginas-1, 3):
+        URL1, URL2, URL3 = formarLink(URL_LaVoz, i), formarLink(
+            URL_LaVoz, i+1), formarLink(URL_LaVoz, i+2)
 
-    thread1.start()
-    thread2.start()
+        archivo1, archivo2, archivo3 = archivos_LaVoz + \
+            f'pagina{i}.json', archivos_LaVoz + \
+            f'pagina{i+1}.json', archivos_LaVoz + f'pagina{i+2}.json'
 
-    thread1.join()
-    thread2.join()
+        thread1 = threading.Thread(
+            target=scrapLaVozClasificados, args=(URL1, archivo1))
+        thread2 = threading.Thread(
+            target=scrapLaVozClasificados, args=(URL2, archivo2))
+        thread3 = threading.Thread(
+            target=scrapLaVozClasificados, args=(URL3, archivo3))
+
+        thread1.start()
+        thread2.start()
+        thread3.start()
+
+        thread1.join()
+        thread2.join()
+        thread3.join()
+
+    if paginas % 3 == 1:
+        scrapLaVozClasificados(
+            URL=formarLink(URL_LaVoz, paginas), archivo=archivos_LaVoz + f'pagina{paginas}.json')
+
+    elif paginas % 3 == 2:
+        URL1, URL2 = formarLink(
+            URL_LaVoz, paginas-1), formarLink(URL_LaVoz, paginas)
+
+        archivo1, archivo2 = archivos_LaVoz + \
+            f'pagina{paginas-1}.json', archivos_LaVoz + f'pagina{paginas}.json'
+
+        thread1 = threading.Thread(
+            target=scrapLaVozClasificados, args=(URL1, archivo1))
+        thread2 = threading.Thread(
+            target=scrapLaVozClasificados, args=(URL2, archivo2))
+
+        thread1.start()
+        thread2.start()
+
+        thread1.join()
+        thread2.join()
+
+
+if __name__ == "__main__":
+    main()

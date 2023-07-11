@@ -1,2 +1,2 @@
-URL_Meli = 'https://inmuebles.mercadolibre.com.ar/venta/propiedades-individuales/cordoba/inmuebles_NoIndex_True#applied_filter_id%3DOPERATION_SUBTYPE%26applied_filter_name%3DModalidad%26applied_filter_order%3D5%26applied_value_id%3D244562%26applied_value_name%3DPropiedades+individuales%26applied_value_order%3D2%26applied_value_results%3D34608%26is_custom%3Dfalse'
-archivos_Meli= './Casas/'
+URL_Meli = 'https://inmuebles.mercadolibre.com.ar/venta/propiedades-individuales/cordoba/inmuebles_NoIndex_True'
+archivos_Meli = './Casas/'

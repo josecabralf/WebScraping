@@ -1,4 +1,12 @@
 def getDatosCaracteristicas(caracteristicas):
+    """Busca caracteristicas deseadas de una lista de caracteristicas presentadas
+
+    Args:
+        caracteristicas ([[string]]): lista que posee una serie de listas con caracteristicas encontraadas en una publicacion de La Voz
+
+    Returns:
+        [dynamic]: lista de valores de las caracteristicas encontradas
+    """
     caracteristicas_deseadas = ['FichaInmueble_tipovivienda', 'FichaInmueble_superficie',
                                 'FichaInmueble_dormitorios', 'FichaInmueble_bano', 'menu_vehiculos', 'fichaproductos_ciudad']
     valores = ['', -1, -1, -1, -1, -1, '']
