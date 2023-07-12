@@ -76,6 +76,18 @@ def getCaracteristicas(URL):
             return caracteristicas
 
 
+def getFecha(soup, hoy):
+    try:
+        dias_desde_actualiz = int(soup.find(
+            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-header__bottom-subtitle').text.split()[2])
+    except:
+        # A veces el renderizado es distinto: tiene otra clase la etiqueta p
+        dias_desde_actualiz = int(soup.find(
+            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title').text.split()[2])
+    fecha = (hoy - timedelta(days=dias_desde_actualiz)).strftime("%d-%m-%Y")
+    return fecha
+
+
 def scrapMeLiPublicacion(URL, hoy):
     """Scrapea una publicacion individual de Mercado Libre para encontrar los datos que nos interesan del inmbueble y almacenarlos en un diccionario de datos.
 
@@ -98,14 +110,7 @@ def scrapMeLiPublicacion(URL, hoy):
     id = URL.split('-')[1]
 
     # Fecha de Publicacion/Actualizacion
-    try:
-        dias_desde_actualiz = int(soup.find(
-            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-header__bottom-subtitle').text.split()[2])
-    except:
-        # A veces el renderizado es distinto: tiene otra clase la etiqueta p
-        dias_desde_actualiz = int(soup.find(
-            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title').text.split()[2])
-    fecha = (hoy - timedelta(days=dias_desde_actualiz)).strftime("%d-%m-%Y")
+    fecha = getFecha(soup, hoy)
 
     # caracteristicas de interes
     tipo_prop = soup.find(

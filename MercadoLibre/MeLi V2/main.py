@@ -5,22 +5,25 @@ from config import *
 import threading
 
 
-def formarLink(url_base, i):
+def formarLink(i):
     """Forma links de paginas de publicaciones según el criterio de Mercado Libre
 
     Args:
-        url_base (string): url base de Mercado Libre que vamos a modificar para acceder a una nueva pagina
         i (int): indica el numero de pagina actual
 
     Returns:
         string: url modificada para acceder a pagina i
     """
     if i == 0:
-        return url_base
-    link = url_base.split('_')
+        return URL_Meli
+    link = URL_Meli.split('_')
     link.insert(1, f"Desde_{i*48+1}")
     link = '_'.join(link)
     return link
+
+
+def formarArchivo(i):
+    return archivos_Meli + f"pagina{i+1}.json"
 
 
 def main():
@@ -31,9 +34,9 @@ def main():
         soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
 
     for i in range(0, paginas-2, 3):
-        link1, link2, link3 = formarLink(URL_Meli, i), formarLink(
-            URL_Meli, i+1), formarLink(URL_Meli, i+2)
-        archivo1, archivo2, archivo3 = f'pagina{i+1}.json', f'pagina{i+2}.json', f'pagina{i+3}.json'
+        link1, link2, link3 = formarLink(i), formarLink(i+1), formarLink(i+2)
+        archivo1, archivo2, archivo3 = formarArchivo(
+            i), formarArchivo(i+1), formarArchivo(i+2)
 
         hilo1 = threading.Thread(target=scrapMeLi, args=(link1, archivo1))
         hilo2 = threading.Thread(target=scrapMeLi, args=(link2, archivo2))
@@ -48,12 +51,11 @@ def main():
         hilo3.join()
 
     if paginas % 3 == 1:
-        scrapMeLi(URL=formarLink(URL_Meli, paginas-1))
+        scrapMeLi(URL=formarLink(paginas-1), archivo=formarArchivo(paginas-1))
 
     if paginas % 3 == 2:
-        link1, link2 = formarLink(URL_Meli, paginas-2), formarLink(
-            URL_Meli, paginas-1)
-        archivo1, archivo2 = f'pagina{paginas-1}.json', f'pagina{paginas}.json'
+        link1, link2 = formarLink(paginas-2), formarLink(paginas-1)
+        archivo1, archivo2 = formarArchivo(paginas-2), formarArchivo(paginas-1)
 
         hilo1 = threading.Thread(target=scrapMeLi, args=(link1, archivo1))
         hilo2 = threading.Thread(target=scrapMeLi, args=(link2, archivo2))

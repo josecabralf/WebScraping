@@ -2,15 +2,11 @@ def getDatosCaracteristicas(caracteristicas):
     """Busca caracteristicas deseadas de una lista de caracteristicas presentadas
 
     Args:
-        caracteristicas ([[string]]): lista que posee una serie de listas con caracteristicas encontraadas en una publicacion de La Voz
+        caracteristicas ([[string]]): lista que posee una serie de listas con caracteristicas encontraadas en una publicacion de los Clasificados de La Voz
 
     Returns:
-        dict: diccionario de valores de las caracteristicas encontradas
+        dict: diccionario deseados de valores de las caracteristicas encontradas
     """
-
-
-def getDatosCaracteristicas(caracteristicas):
-
     deseados = {'Tipo vivienda': '',
                 'Superficie total': -1,
                 'Superficie cubierta': -1,
@@ -20,45 +16,70 @@ def getDatosCaracteristicas(caracteristicas):
                 'Barrio': '',
                 'Ciudad': ''}
 
-    cont_inmueble_superficie, cont_fichaproductos_ciudad = 0, 0
+    flag_superficie, flag_ubicacion = False, False
 
     for dato in caracteristicas:
         if dato[0] == 'FichaInmueble_tipovivienda':
             deseados['Tipo vivienda'] = str(dato[1]).upper()
         elif dato[0] == 'FichaInmueble_superficie':
-            if cont_inmueble_superficie == 0:
-                deseados['Superficie total'] = int(dato[1])
-                cont_inmueble_superficie += 1
+            if not flag_superficie:
+                asignarSuperficie(deseados, dato, 'Superficie total')
+                flag_superficie = True
             else:
-                deseados['Superficie cubierta'] = int(dato[1])
+                asignarSuperficie(deseados, dato, 'Superficie cubierta')
         elif dato[0] == 'fichaproductos_ciudad':
-            if cont_fichaproductos_ciudad == 0:
-                deseados['Ciudad'] = (
-                    ' '.join(dato[1:len(dato)+1])).upper()
-                cont_fichaproductos_ciudad += 1
+            if not flag_ubicacion:
+                asignarUbicacion(deseados, dato, 'Ciudad')
+                flag_ubicacion = True
             else:
-                deseados['Barrio'] = (
-                    ' '.join(dato[1:len(dato)+1])).upper()
+                asignarUbicacion(deseados, dato, 'Barrio')
         elif dato[0] == 'FichaInmueble_dormitorios':
-            for j in range(1, len(dato)):
-                try:
-                    deseados['Dormitorios'] = int(dato[j])
-                    break
-                except:
-                    continue
+            asignarDatoVariable(deseados, dato, 'Dormitorios')
         elif dato[0] == 'FichaInmueble_bano':
-            for j in range(1, len(dato)):
-                try:
-                    deseados['Baños'] = int(dato[j])
-                    break
-                except:
-                    continue
+            asignarDatoVariable(deseados, dato, 'Baños')
         elif dato[0] == 'menu_vehiculos':
-            for j in range(1, len(dato)):
-                try:
-                    deseados['Cocheras'] = int(dato[j])
-                    break
-                except:
-                    continue
-
+            asignarDatoVariable(deseados, dato, 'Cocheras')
     return deseados
+
+
+def asignarSuperficie(diccionario, arreglo, clave):
+    """Asigna al diccionario de caracteristicas el valor de una superficie
+
+    Args:
+        diccionario (dict): diccionario de caracteristicas
+        arreglo ([string]): arreglo de datos sobre caracteristica especifica
+        clave (string): clave del dato a asignar en diccionario [Superficie total / Superficie cubierta]
+    """
+    try:
+        diccionario[clave] = int(
+            round(float(arreglo[1]), 0))
+    except:
+        diccionario[clave] = int(
+            round(float(arreglo[1].replace(',', '.').split('m')[0])))
+
+
+def asignarUbicacion(diccionario, arreglo, clave):
+    """Asigna al diccionario de caracteristicas el valor de una ubicacion
+
+    Args:
+        diccionario (dict): diccionario de caracteristicas
+        arreglo ([string]): arreglo de datos sobre caracteristica especifica
+        clave (string): clave del dato a asignar en diccionario [Ciudad / Barrio]
+    """
+    diccionario[clave] = (' '.join(arreglo[1:len(arreglo)+1])).upper()
+
+
+def asignarDatoVariable(diccionario, arreglo, clave):
+    """Asigna al diccionario de caracteristicas el valor de una caracteristica que se presenta con formato variable
+
+    Args:
+        diccionario (dict): diccionario de caracteristicas
+        arreglo ([string]): arreglo de datos sobre caracteristica especifica
+        clave (string): clave del dato a asignar en diccionario [Dormitorios / Baños / Cocheras]
+    """
+    for j in range(1, len(arreglo)):
+        try:
+            diccionario[clave] = int(arreglo[j])
+            break
+        except:
+            continue

@@ -3,6 +3,7 @@ import requests
 from scraperClasificados import scrapLaVozClasificados
 from config import *
 import threading
+import time
 
 
 def formarLink(url_base, i):
@@ -39,9 +40,26 @@ def main():
         thread3 = threading.Thread(
             target=scrapLaVozClasificados, args=(URL3, archivo3))
 
-        thread1.start()
-        thread2.start()
-        thread3.start()
+        try:
+            thread1.start()
+        except:
+            time.sleep(30)
+            thread1 = threading.Thread(target=scrapLaVozClasificados, args=(URL1, archivo1))
+            thread1.start()
+        
+        try:
+            thread2.start()
+        except:
+            time.sleep(30)
+            thread2 = threading.Thread(target=scrapLaVozClasificados, args=(URL2, archivo2))
+            thread2.start()
+            
+        try:
+            thread3.start()
+        except:
+            time.sleep(30)
+            thread3 = threading.Thread(target=scrapLaVozClasificados, args=(URL3, archivo3))
+            thread3.start()
 
         thread1.join()
         thread2.join()
