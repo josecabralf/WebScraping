@@ -43,22 +43,19 @@ def main():
         try:
             thread1.start()
         except:
-            time.sleep(30)
-            thread1 = threading.Thread(target=scrapLaVozClasificados, args=(URL1, archivo1))
+            time.sleep(20)
             thread1.start()
         
         try:
             thread2.start()
         except:
-            time.sleep(30)
-            thread2 = threading.Thread(target=scrapLaVozClasificados, args=(URL2, archivo2))
+            time.sleep(20)
             thread2.start()
             
         try:
             thread3.start()
         except:
-            time.sleep(30)
-            thread3 = threading.Thread(target=scrapLaVozClasificados, args=(URL3, archivo3))
+            time.sleep(20)
             thread3.start()
 
         thread1.join()
