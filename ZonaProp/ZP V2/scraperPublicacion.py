@@ -1,6 +1,7 @@
 from soup import getSoup
 from scraperCaracteristicas import getDatosCaracteristicas
 from datetime import timedelta
+from excepciones import agregarRevisionArchivo
 
 
 def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL):
@@ -48,7 +49,7 @@ def getPrecio(soup):
     try:
         precio = soup.find('div', class_='price-items').text.split()
         if precio[0] == 'USD':
-            precio = int(precio[1].replace('.',''))
+            precio = int(precio[1].replace('.', ''))
             return precio
         else:
             return False
@@ -57,15 +58,18 @@ def getPrecio(soup):
 
 
 def getFecha(soup, hoy):
-    delta = soup.find('div', id = 'user-views').find('p').text.split()
+    try:
+        delta = soup.find('div', id='user-views').find('p').text.split()
 
-    if delta[-1] in ["día", "días"]:
-        fecha = hoy - timedelta(days=int(delta[-2]))
-    elif delta[-1] in ["año", "años"]:
-        delta = 365*int(delta[-2])
-        fecha = hoy - timedelta(days = delta)
-
-    return fecha.strftime("%d-%m-%Y")
+        if delta[-1] in ["día", "días"]:
+            fecha = hoy - timedelta(days=int(delta[-2]))
+        elif delta[-1] in ["año", "años"]:
+            delta = 365*int(delta[-2])
+            fecha = hoy - timedelta(days=delta)
+        fecha = fecha.strftime("%d-%m-%Y")
+        return fecha
+    except:
+        return False
 
 
 def getCaracteristicas(soup):
@@ -101,6 +105,9 @@ def scrapZonaPropPublicacion(URL, hoy):
 
     # Fecha de Publicacion/Actualizacion
     fecha = getFecha(soup, hoy)
+    if not fecha:
+        fecha = ''
+        agregarRevisionArchivo(URL)
 
     # caracteristicas de interes
     caracteristicas = getCaracteristicas(soup)

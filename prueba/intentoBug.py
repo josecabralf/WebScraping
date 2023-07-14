@@ -1,6 +1,7 @@
-def nada(a):
-    return a
+ar = open('casas.txt', 'r')
+links = []
 
-l = [1, 2, 3, 4, 5]
-l2 = []
+for line in ar.readlines():
+    links.append(line.replace('\n', ''))
 
+print(len(links))

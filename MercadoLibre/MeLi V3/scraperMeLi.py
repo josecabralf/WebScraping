@@ -1,0 +1,2 @@
+def scrapLinkMeLi(link):
+    pass

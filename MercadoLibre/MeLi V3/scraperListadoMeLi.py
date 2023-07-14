@@ -46,7 +46,7 @@ def escribirArchivo(archivo, links_casas):
         archivoJSON.close()
 
 
-def scrapMeLi(URL, archivo):
+def scrapListadoPublicaciones(URL, archivo):
     """Esta funcion nos permite scrapear datos de una pagina web que posee un listado de publicaciones; y escribe dichos datos en un archivo
 
     Args:
