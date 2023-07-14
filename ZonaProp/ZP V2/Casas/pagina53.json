@@ -1,0 +1,27 @@
+[{
+         "id": "50611311",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "01-11-2022",
+         "terrenoTotal": "80",
+         "terrenoEdificado": "80",
+         "cantDormitorios": "2",
+         "cantBanos": "1",
+         "cantCochera": -1,
+         "barrio": "NUEVA C\u00d3RDOBA",
+         "ciudad": "C\u00d3RDOBA",
+         "URL": "https://www.zonaprop.com.ar/propiedades/nueva-cba-2-dorm-2-banos-excelente-zona-50611311.html"
+},{
+         "id": "51804013",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 83500,
+         "fechaUltimaActualizacion": "07-06-2023",
+         "terrenoTotal": "84",
+         "terrenoEdificado": "75",
+         "cantDormitorios": "1",
+         "cantBanos": "2",
+         "cantCochera": -1,
+         "barrio": "COFICO",
+         "ciudad": "C\u00d3RDOBA",
+         "URL": "https://www.zonaprop.com.ar/propiedades/2-dorm.-cofico-frente-terraza-con-pileta-51804013.html"
+},

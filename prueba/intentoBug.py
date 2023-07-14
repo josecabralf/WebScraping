@@ -1,9 +1,6 @@
-from bs4 import BeautifulSoup
-import requests
+def nada(a):
+    return a
 
-URL_Meli = 'https://inmuebles.mercadolibre.com.ar/venta/propiedades-individuales/cordoba/inmuebles_NoIndex_True'
+l = [1, 2, 3, 4, 5]
+l2 = []
 
-
-dato = ['Terreno', '52.54m2']
-t = int(round(float(dato[1].split('m')[0]), 0))
-print(t)
