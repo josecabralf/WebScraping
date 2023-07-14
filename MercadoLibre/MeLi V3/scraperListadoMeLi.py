@@ -43,7 +43,6 @@ def escribirArchivo(archivo, links_casas):
                     archivoJSON.write(',')
 
         archivoJSON.write(']')
-        archivoJSON.close()
 
 
 def scrapListadoPublicaciones(URL, archivo):

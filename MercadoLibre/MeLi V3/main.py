@@ -7,7 +7,7 @@ def abrirArchivo():
     """Abre un archivo que posee links de busquedas filtradas. En caso de que dicho archivo no exista, lo crea.
 
     Returns:
-        file: archivo txt que posee links filtrados
+        txt file: archivo txt que posee links filtrados
     """
     try:
         archivo_post_filtro = open(archivos_Links, 'r')
@@ -16,15 +16,16 @@ def abrirArchivo():
         crearArchivoLinksSiNoExiste()
         archivo_post_filtro = open(archivos_Links, 'r')
 
+    print('Archivo abierto')
     return archivo_post_filtro
 
 
 def main():
     archivo = abrirArchivo()
-    for line in archivo.readlines():
+    for nro, line in enumerate(archivo.readlines()):
+        print(f'Scrapeando Link {nro}')
         link = line.replace('\n', '')
-        scrapLinkMeLi(link)
-
+        scrapLinkMeLi(link, nro)
     archivo.close()
 
 
