@@ -1,13 +1,13 @@
 from soup import getSoup
 from scraperPublicacion import scrapZonaPropPublicacion
-from config import URL_Base
+from ZPConfig import URL_Base
 from datetime import date
 import json
 
 
 def crearListaLinks(link):
     soup = getSoup(link)
-    contenedor_casas = soup.find_all('div', class_ = 'sc-i1odl-0 crUUno')
+    contenedor_casas = soup.find_all('div', class_='sc-i1odl-0 crUUno')
     links_casas = []
 
     for i in range(len(contenedor_casas)):

@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from config import archivos_Links, URL_Meli_CASAS, URL_Meli_DPTOS, URL_Meli_TERS
+from MeLiConfig import archivos_Links, URL_Meli_CASAS, URL_Meli_DPTOS, URL_Meli_TERS
 from unidecode import unidecode
 
 

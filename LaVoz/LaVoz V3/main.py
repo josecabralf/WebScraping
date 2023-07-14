@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
-from scraperClasificados import scrapLaVozClasificados
-from config import *
+from scraperListadoClasificados import scrapLaVozClasificados
+from LVConfig import *
 import threading
 import time
 
@@ -45,13 +45,13 @@ def main():
         except:
             time.sleep(20)
             thread1.start()
-        
+
         try:
             thread2.start()
         except:
             time.sleep(20)
             thread2.start()
-            
+
         try:
             thread3.start()
         except:

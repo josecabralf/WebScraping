@@ -1,4 +1,4 @@
-from config import archivos_Links
+from MeLiConfig import archivos_Links
 from archivosLinks import crearArchivoLinksSiNoExiste
 from scraperMeLi import scrapLinkMeLi
 
