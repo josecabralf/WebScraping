@@ -22,10 +22,12 @@ def abrirArchivo():
 
 def main():
     archivo = abrirArchivo()
-    for nro, line in enumerate(archivo.readlines()):
+    nro = 1
+    for line in archivo.readlines():
         print(f'Scrapeando Link {nro}')
         link = line.replace('\n', '')
         scrapLinkMeLi(link, nro)
+        nro += 1
     archivo.close()
 
 

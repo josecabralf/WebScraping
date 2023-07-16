@@ -78,13 +78,21 @@ def getCaracteristicas(URL):
 
 def getFecha(soup, hoy):
     try:
-        dias_desde_actualiz = int(soup.find(
-            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-header__bottom-subtitle').text.split()[2])
+        dias_desde_actualiz = soup.find(
+            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-header__bottom-subtitle').text.split()
     except:
         # A veces el renderizado es distinto: tiene otra clase la etiqueta p
-        dias_desde_actualiz = int(soup.find(
-            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title').text.split()[2])
-    fecha = (hoy - timedelta(days=dias_desde_actualiz)).strftime("%d-%m-%Y")
+        dias_desde_actualiz = soup.find(
+            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title').text.split()
+
+    if "días" in dias_desde_actualiz or "día" in dias_desde_actualiz:
+        delta = int(dias_desde_actualiz[2])
+    elif "meses" in dias_desde_actualiz or "mes" in dias_desde_actualiz:
+        delta = int(dias_desde_actualiz[2]) * 31
+    elif "año" in dias_desde_actualiz or "años" in dias_desde_actualiz:
+        delta = int(dias_desde_actualiz[2]) * 365
+
+    fecha = (hoy - timedelta(days=delta)).strftime("%d-%m-%Y")
     return fecha
 
 
