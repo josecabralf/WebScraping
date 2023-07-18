@@ -2,9 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 from scraperCaracteristicas import getDatosCaracteristicas
 from datetime import timedelta
+from unidecode import unidecode
 
 
-def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL):
+def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL):
     """Crea un diccionario con la estructura que tendrá un objeto JSON para guardar en un archivo
 
     Args:
@@ -14,6 +15,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad,
         fecha (date): fecha de publicacion/actualizacion
         id (int): numero identificador de la publicacion
         barrio (string): barrio del inmueble
+        localidad (string): localidad del inmueble
         URL (string): url de la publicacion
 
     Returns:
@@ -30,7 +32,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad,
         "cantBanos": datos_interes['Baños'],
         "cantCochera": datos_interes['Cocheras'],
         "barrio": barrio,
-        "ciudad": ciudad,
+        "localidad": localidad,
         "URL": URL
     }
     return objetoJSON
@@ -77,6 +79,15 @@ def getCaracteristicas(URL):
 
 
 def getFecha(soup, hoy):
+    """Obtiene la fecha de publicación/última actualización de una publicación de MeLi
+
+    Args:
+        soup (BeautifulSoup): objeto BeautifulSoup con los datos de la publicacion
+        hoy (date): fecha del día de la fecha para calcular la fecha de publicación/última actualización
+
+    Returns:
+        date: fecha de publicación/última actualización (dd-mm-yy)
+    """
     try:
         dias_desde_actualiz = soup.find(
             'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-header__bottom-subtitle').text.split()
@@ -85,11 +96,11 @@ def getFecha(soup, hoy):
         dias_desde_actualiz = soup.find(
             'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title').text.split()
 
-    if "días" in dias_desde_actualiz or "día" in dias_desde_actualiz:
+    if dias_desde_actualiz[3] in ["día", "días"]:
         delta = int(dias_desde_actualiz[2])
-    elif "meses" in dias_desde_actualiz or "mes" in dias_desde_actualiz:
+    elif dias_desde_actualiz[3] in ["mes", "meses"]:
         delta = int(dias_desde_actualiz[2]) * 31
-    elif "año" in dias_desde_actualiz or "años" in dias_desde_actualiz:
+    elif dias_desde_actualiz[3] in ["año", "años"]:
         delta = int(dias_desde_actualiz[2]) * 365
 
     fecha = (hoy - timedelta(days=delta)).strftime("%d-%m-%Y")
@@ -128,10 +139,13 @@ def scrapMeLiPublicacion(URL, hoy):
 
     # ubicacion
     ubicacion = soup.find_all('a', class_='andes-breadcrumb__link')
-    barrio = ubicacion[-1].text.upper()
-    ciudad = ubicacion[-2].text.upper()
+    localidad = unidecode(ubicacion[5].text.upper())
+    try:
+        barrio = unidecode(ubicacion[6].text.upper())
+    except:
+        barrio = ''
 
     objetoJSON = crearObjetoJSON(
-        datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL.split('#')[0])
+        datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL.split('#')[0])
 
     return objetoJSON

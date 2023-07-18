@@ -42,17 +42,15 @@ def formarArchivo(nro, i, ruta, URL):
     return ruta + ar
 
 
-def getCantPublicaciones(URL):
-    """Obtiene la cantidad de resultados de busqueda (publicaciones) de una URL filtrada de MercadoLibre
+def getCantPublicaciones(soup):
+    """Obtiene la cantidad de resultados de busqueda (publicaciones) de una pagina filtrada de MercadoLibre
 
     Args:
-        URL (string): URL de busqueda filtrada
+        soup (BeautifulSoup): pagina de busqueda filtrada
 
     Returns:
         int: cantidad de resultados de busqueda
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
     cant_publicaciones = int(soup.find(
         'span', class_='ui-search-search-result__quantity-results shops-custom-secondary-font').text.split()[0].replace('.', ''))
 
@@ -68,7 +66,13 @@ def getCantPaginas(URL):
     Returns:
         int: cantidad de paginas
     """
-    return ceil(getCantPublicaciones(URL) / 48)
+    response = requests.get(URL)
+    soup = BeautifulSoup(response.content, 'html.parser')
+    try:
+        paginas = int(soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
+    except:
+        paginas = ceil(getCantPublicaciones(soup) / 48)
+    return paginas
 
 
 def scrapPaginaMeLi(URL, nro, paginas):
@@ -131,5 +135,11 @@ def scrapPaginaMeLi(URL, nro, paginas):
 
 
 def scrapLinkMeLi(URL, nro):
+    """Realiza el scrap de un listado de publicaciones completo de MeLi. Obtiene el conteo de paginas y luego lo scrapea.
+
+    Args:
+        URL (string): url de la pagina listado de publicaciones
+        nro (int): id de la url para la creacion del nombre del archivo en que se almacenaran los resultados
+    """
     paginas = getCantPaginas(URL)
     scrapPaginaMeLi(URL, nro, paginas)

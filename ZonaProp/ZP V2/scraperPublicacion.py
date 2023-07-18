@@ -2,9 +2,10 @@ from soup import getSoup
 from scraperCaracteristicas import getDatosCaracteristicas
 from datetime import timedelta
 from excepciones import agregarRevisionArchivo
+from unidecode import unidecode
 
 
-def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL):
+def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL):
     """Crea un diccionario con la estructura que tendrá un objeto JSON para guardar en un archivo
 
     Args:
@@ -14,6 +15,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad,
         fecha (date): fecha de publicacion/actualizacion
         id (int): numero identificador de la publicacion
         barrio (string): barrio del inmueble
+        localidad (string): localidad del inmueble
         URL (string): url de la publicacion
 
     Returns:
@@ -30,7 +32,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad,
         "cantBanos": datos_interes['Baños'],
         "cantCochera": datos_interes['Cocheras'],
         "barrio": barrio,
-        "ciudad": ciudad,
+        "localidad": localidad,
         "URL": URL
     }
     return objetoJSON
@@ -58,14 +60,28 @@ def getPrecio(soup):
 
 
 def getFecha(soup, hoy):
+    """Obtiene la fecha de publicación/última actualización de una publicación de ZP
+
+    Args:
+        soup (BeautifulSoup): objeto BeautifulSoup con los datos de la publicacion
+        hoy (date): fecha del día de la fecha para calcular la fecha de publicación/última actualización
+
+    Returns:
+        Case 1 date: fecha de publicación/última actualización (dd-mm-yy)
+        Case 2 bool: False para indicar que no se pudo encontrar
+    """
     try:
         delta = soup.find('div', id='user-views').find('p').text.split()
-
-        if delta[-1] in ["día", "días"]:
-            fecha = hoy - timedelta(days=int(delta[-2]))
-        elif delta[-1] in ["año", "años"]:
+        if delta[-1] == 'hoy':
+            delta = 0
+        elif delta[-1] in ['día', 'días']:
+            delta = int(delta[-2])
+        elif delta[-1] in ['mes', 'meses']:
+            delta = 31*int(delta[-2])
+        elif delta[-1] in ['año', 'años']:
             delta = 365*int(delta[-2])
-            fecha = hoy - timedelta(days=delta)
+        
+        fecha = hoy - timedelta(days=delta)
         fecha = fecha.strftime("%d-%m-%Y")
         return fecha
     except:
@@ -107,7 +123,7 @@ def scrapZonaPropPublicacion(URL, hoy):
     fecha = getFecha(soup, hoy)
     if not fecha:
         fecha = ''
-        agregarRevisionArchivo(URL)
+        agregarRevisionArchivo(URL, id)
 
     # caracteristicas de interes
     caracteristicas = getCaracteristicas(soup)
@@ -117,11 +133,11 @@ def scrapZonaPropPublicacion(URL, hoy):
     # ubicacion
     ubicacion = soup.find_all('a', class_="bread-item-redirect")
     tipo_prop = ubicacion[1].text.strip().upper()
-    ciudad = ubicacion[4].text.strip().upper()
-    barrio = ubicacion[5].text.strip().upper()
+    localidad = unidecode(ubicacion[4].text.strip().upper())
+    barrio = unidecode(ubicacion[5].text.strip().upper())
     del ubicacion
 
     objetoJSON = crearObjetoJSON(
-        datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL)
+        datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL)
 
     return objetoJSON
