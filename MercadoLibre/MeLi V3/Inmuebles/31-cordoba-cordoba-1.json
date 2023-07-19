@@ -1,0 +1,53 @@
+[{
+         "id": "1371171972",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "16-03-2023",
+         "terrenoTotal": 238,
+         "terrenoEdificado": 83,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "AMPLIACION PALMAR",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1371171972-venta-3dorm-barrio-ampliacion-palmar-escritura-_JM"
+},{
+         "id": "1137206059",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 270,
+         "terrenoEdificado": 245,
+         "cantDormitorios": 6,
+         "cantBanos": 3,
+         "cantCochera": 3,
+         "barrio": "AMPLIACION PALMAR",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1137206059-venta-casa-3-hab-mas-departamento-3-hab-en-palta-b-ampliacion-palmar-_JM"
+},{
+         "id": "1357630304",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "16-03-2023",
+         "terrenoTotal": 1111,
+         "terrenoEdificado": 111,
+         "cantDormitorios": 4,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "AMPLIACION PALMAR",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1357630304-casa-en-barrio-ampliacion-palmar-_JM"
+},{
+         "id": "1284769988",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 78000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 280,
+         "terrenoEdificado": 280,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "AMPLIACION PALMAR",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1284769988-hermosa-casa-en-venta-ampliacion-palmar-_JM"
+}]

@@ -27,7 +27,7 @@ def crearObjetoJSON(datos_interes, precio, fecha, id, URL):
         "cantBanos": datos_interes['Baños'],
         "cantCochera": datos_interes['Cocheras'],
         "barrio": datos_interes['Barrio'],
-        "localidad": datos_interes['Ciudad'],
+        "ciudad": datos_interes['Ciudad'],
         "URL": URL
     }
     return objetoJSON

@@ -1,0 +1,53 @@
+[{
+         "id": "1427127956",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 27000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 162,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "CONGRESO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1427127956-casa-3-dormitorios-mas-depto-venta-congreso-_JM"
+},{
+         "id": "1367169797",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": 364,
+         "terrenoEdificado": 148,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "CONGRESO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1367169797-se-vende-casa-en-b-congreso-_JM"
+},{
+         "id": "1284763853",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 52000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 210,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "CONGRESO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1284763853-casa-en-venta-barrio-congreso-_JM"
+},{
+         "id": "1367219103",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 56000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 210,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "CONGRESO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1367219103-casa-en-congreso-calle-ballesteros-_JM"
+}]

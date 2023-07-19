@@ -5,7 +5,7 @@ from datetime import timedelta
 from unidecode import unidecode
 
 
-def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL):
+def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL):
     """Crea un diccionario con la estructura que tendrá un objeto JSON para guardar en un archivo
 
     Args:
@@ -15,7 +15,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localid
         fecha (date): fecha de publicacion/actualizacion
         id (int): numero identificador de la publicacion
         barrio (string): barrio del inmueble
-        localidad (string): localidad del inmueble
+        ciudad (string): ciudad del inmueble
         URL (string): url de la publicacion
 
     Returns:
@@ -32,7 +32,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localid
         "cantBanos": datos_interes['Baños'],
         "cantCochera": datos_interes['Cocheras'],
         "barrio": barrio,
-        "localidad": localidad,
+        "ciudad": ciudad,
         "URL": URL
     }
     return objetoJSON
@@ -75,7 +75,9 @@ def getCaracteristicas(URL):
         soup = BeautifulSoup(response.content, 'html.parser')
         caracteristicas = soup.find("tbody", class_="andes-table__body")
         if caracteristicas:
-            return caracteristicas
+            break
+    datos_interes = getDatosCaracteristicas(caracteristicas)
+    return datos_interes
 
 
 def getFecha(soup, hoy):
@@ -107,7 +109,18 @@ def getFecha(soup, hoy):
     return fecha
 
 
-def scrapMeLiPublicacion(URL, hoy):
+def getUbicacion(soup, ubic):
+    ubicacion = soup.find_all('a', class_='andes-breadcrumb__link')
+    ciudad = ubic[0]
+    try:
+        barrio = unidecode(ubicacion[6].text.upper())
+    except:
+        barrio = ubic[1]
+
+    return barrio, ciudad
+
+
+def scrapMeLiPublicacion(URL, hoy, ubic):
     """Scrapea una publicacion individual de Mercado Libre para encontrar los datos que nos interesan del inmbueble y almacenarlos en un diccionario de datos.
 
     Args:
@@ -134,18 +147,12 @@ def scrapMeLiPublicacion(URL, hoy):
     # caracteristicas de interes
     tipo_prop = soup.find(
         'span', class_='ui-pdp-subtitle').text.split()[0].upper()
-    caracteristicas = getCaracteristicas(URL)
-    datos_interes = getDatosCaracteristicas(caracteristicas)
+    datos_interes = getCaracteristicas(URL)
 
     # ubicacion
-    ubicacion = soup.find_all('a', class_='andes-breadcrumb__link')
-    localidad = unidecode(ubicacion[5].text.upper())
-    try:
-        barrio = unidecode(ubicacion[6].text.upper())
-    except:
-        barrio = ''
+    barrio, ciudad = getUbicacion(soup, ubic)
 
     objetoJSON = crearObjetoJSON(
-        datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL.split('#')[0])
+        datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL.split('#')[0])
 
     return objetoJSON

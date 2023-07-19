@@ -1,0 +1,27 @@
+[{
+         "id": "1384525730",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "16-04-2023",
+         "terrenoTotal": 100,
+         "terrenoEdificado": 100,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "FERREYRA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1384525730-casa-2-dorm-gran-patio-b-ferreyra-apta-bancor-_JM"
+},{
+         "id": "1146182213",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 460,
+         "terrenoEdificado": 250,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "FERREYRA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1146182213-ferreyra-casa-de-2-dormitorios-mas-departamento-de-1-dormitorio-y-escritorio-_JM"
+}]

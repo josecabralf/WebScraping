@@ -69,7 +69,8 @@ def asignarUbicacion(diccionario, arreglo, clave):
         arreglo ([string]): arreglo de datos sobre caracteristica especifica
         clave (string): clave del dato a asignar en diccionario [Ciudad / Barrio]
     """
-    diccionario[clave] = unidecode((' '.join(arreglo[1:len(arreglo)+1])).upper())
+    diccionario[clave] = unidecode(
+        (' '.join(arreglo[1:len(arreglo)+1])).upper())
 
 
 def asignarDatoVariable(diccionario, arreglo, clave):

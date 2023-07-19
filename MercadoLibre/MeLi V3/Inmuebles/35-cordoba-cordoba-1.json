@@ -1,0 +1,27 @@
+[{
+         "id": "881785121",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "18-07-2021",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 106,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "AMPLIACION SAN PABLO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-881785121-ampl-san-pablo-carrilobo-3400-casa-3-dormitorios-en-venta-_JM"
+},{
+         "id": "1376407203",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 98000,
+         "fechaUltimaActualizacion": "16-03-2023",
+         "terrenoTotal": 260,
+         "terrenoEdificado": 100,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "AMPLIACION SAN PABLO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1376407203-hermosa-casa-3-dormitorios-con-pileta-amp-san-pablo-_JM"
+}]

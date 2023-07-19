@@ -1,0 +1,53 @@
+[{
+         "id": "1447989976",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "12-07-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 250,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "DEAN FUNES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1447989976-venta-b-dean-funes-antonio-saenz-5237-3-dor-a-250-mts-sabattini-_JM"
+},{
+         "id": "1327101271",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 69000,
+         "fechaUltimaActualizacion": "13-02-2023",
+         "terrenoTotal": 129,
+         "terrenoEdificado": 129,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "DEAN FUNES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1327101271-casa-en-venta-de-3-dormitorios-c-cochera-en-dean-funes-_JM"
+},{
+         "id": "1372343005",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "06-06-2023",
+         "terrenoTotal": 128,
+         "terrenoEdificado": 128,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "DEAN FUNES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1372343005-en-venta-casa-en-b-dean-funes-_JM"
+},{
+         "id": "1148402422",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "11-08-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 50,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "DEAN FUNES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1148402422-casa-en-venta-cordoba-oportunidad-_JM"
+}]

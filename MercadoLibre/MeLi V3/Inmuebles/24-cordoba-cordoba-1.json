@@ -1,0 +1,53 @@
+[{
+         "id": "1141255065",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 139000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 188,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "barrio": "ALTOS DE VELEZ SARSFIELD",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1141255065-apto-credito-casa-3-dorm-altos-de-velez-sarsfield-_JM"
+},{
+         "id": "1408701292",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 153,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "ALTOS DE VELEZ SARSFIELD",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1408701292-casa-2-dormitorios-cochera-quincho-pileta-mirala-_JM"
+},{
+         "id": "1175020115",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135500,
+         "fechaUltimaActualizacion": "12-10-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 220,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "ALTOS DE VELEZ SARSFIELD",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1175020115-venta-casa-3-dormitorios-alto-velez-sarsfield-_JM"
+},{
+         "id": "1375110811",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 139000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 188,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "barrio": "ALTOS DE VELEZ SARSFIELD",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1375110811-casa-en-venta-tres-dorm-altos-de-velez-sarsfield-_JM"
+}]

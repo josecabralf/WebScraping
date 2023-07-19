@@ -2,13 +2,13 @@
          "id": "1211114155",
          "tipoPropiedad": "CASA",
          "precioUSD": 230000,
-         "fechaUltimaActualizacion": "11-11-2022",
+         "fechaUltimaActualizacion": "12-11-2022",
          "terrenoTotal": 27400,
          "terrenoEdificado": 318,
          "cantDormitorios": 1,
          "cantBanos": 3,
          "cantCochera": -1,
-         "barrio": "BERROTARAN",
-         "ciudad": "CORDOBA",
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "BERROTARAN",
          "URL": "https://casa.mercadolibre.com.ar/MLA-1211114155-casa-venta-colonia-tirolesa-con-lote-de-27400-m2-_JM"
-}]
+},]

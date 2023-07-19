@@ -1,0 +1,53 @@
+[{
+         "id": "1362097171",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 175000,
+         "fechaUltimaActualizacion": "16-03-2023",
+         "terrenoTotal": 274,
+         "terrenoEdificado": 157,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "CAROLA LORENZINI",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1362097171-4-dormitorios-pileta-apto-credito-bancor-_JM"
+},{
+         "id": "1202386883",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "12-11-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 230,
+         "cantDormitorios": 2,
+         "cantBanos": 4,
+         "cantCochera": -1,
+         "barrio": "CAROLA LORENZINI",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1202386883-inverti-en-una-casa-2dor-2-dptos-a-3-cuadras-dino-ruta-20-_JM"
+},{
+         "id": "1139782192",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 165000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 245,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "barrio": "CAROLA LORENZINI",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1139782192-venta-casa-3-dormitorios-2-plantas-pileta-zona-dino-ruta-20-_JM"
+},{
+         "id": "1127732160",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 129,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "CAROLA LORENZINI",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1127732160-avenida-a-una-cuadra-del-dino-r-20-excelente-zona-_JM"
+}]

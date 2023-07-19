@@ -1,0 +1,27 @@
+[{
+         "id": "1371068935",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 103000,
+         "fechaUltimaActualizacion": "26-05-2023",
+         "terrenoTotal": 200,
+         "terrenoEdificado": 115,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "CASEROS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1371068935-casa-3-dorm-znvo-centro-shopping-acredito-_JM"
+},{
+         "id": "1116475531",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 129000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 230,
+         "terrenoEdificado": 150,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "CASEROS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1116475531-venta-casa-3-dormitorios-a-4-cuadras-del-nuevo-centro-_JM"
+}]

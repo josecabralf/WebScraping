@@ -1,0 +1,27 @@
+[{
+         "id": "1155495859",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 29000,
+         "fechaUltimaActualizacion": "11-09-2022",
+         "terrenoTotal": 192,
+         "terrenoEdificado": 88,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "AMEGHINO NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1155495859-la-casa-ideal-para-tu-familia-_JM"
+},{
+         "id": "1216642438",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "12-11-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 132,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "AMEGHINO NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1216642438-ameghino-sud-lagunilla-3700-venta-casa-2-dormitorios-appto-bancor-_JM"
+}]

@@ -1,0 +1,53 @@
+[{
+         "id": "920780455",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 39000,
+         "fechaUltimaActualizacion": "18-07-2021",
+         "terrenoTotal": 110,
+         "terrenoEdificado": 110,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "ESTACION FLORES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-920780455-se-vende-casa-dos-dormitorios-barrio-estacion-flores-_JM"
+},{
+         "id": "1136769912",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 36000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 106,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "ESTACION FLORES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1136769912-casa-2-dormitorios-barrio-estacion-flores-cordoba-_JM"
+},{
+         "id": "922825841",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "18-07-2021",
+         "terrenoTotal": 450,
+         "terrenoEdificado": 125,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "barrio": "ESTACION FLORES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-922825841-casa-estilo-colonial-barrio-estacion-flores-zona-manantiales-_JM"
+},{
+         "id": "1123684375",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 400,
+         "terrenoEdificado": 110,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "barrio": "ESTACION FLORES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1123684375-barrio-estacion-flores-gran-patio-roque-arias-3300-zona-matienzo-_JM"
+}]

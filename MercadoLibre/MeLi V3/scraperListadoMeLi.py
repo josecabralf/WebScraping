@@ -5,6 +5,14 @@ import json
 from datetime import date
 
 
+def getUbicacion(URL):
+    ciudad = URL.split('/')[7].replace('-', ' ').upper()
+    barrio = URL.split('/')[8].replace('-', ' ').upper()
+    if 'inmuebles' in barrio:
+        barrio = ''
+    return [ciudad, barrio]
+
+
 def crearListaLinks(URL):
     """Crea una lista de links de publicaciones a scrapear a partir de una URL que posee nos conduce a un listado de publicaciones.
 
@@ -22,7 +30,7 @@ def crearListaLinks(URL):
     return links
 
 
-def escribirArchivo(archivo, links_casas):
+def escribirArchivo(archivo, links_casas, ubic):
     """Esta funcion nos permite recorrer uno por uno un arreglo de links que nos conducen a publicaciones de casas individuales para poder scrapear datos sobre ellas y escribir dichos datos en un archivo json.
 
     Args:
@@ -35,7 +43,7 @@ def escribirArchivo(archivo, links_casas):
         archivoJSON.write('[')
 
         for link in links_casas:
-            objetoJSON = scrapMeLiPublicacion(link, hoy)
+            objetoJSON = scrapMeLiPublicacion(link, hoy, ubic)
 
             if objetoJSON:
                 json.dump(objetoJSON, archivoJSON, indent=9)
@@ -53,4 +61,5 @@ def scrapListadoPublicaciones(URL, archivo):
         archivo (string): define el nombre y ruta del archivo json que se quiere generar a partir de los datos scrapeados. Ej. './Casas/pagina1.json'
     """
     links_casas = crearListaLinks(URL)
-    escribirArchivo(archivo, links_casas)
+    ubic = getUbicacion(URL)
+    escribirArchivo(archivo, links_casas, ubic)

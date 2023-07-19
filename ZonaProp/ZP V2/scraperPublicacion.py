@@ -5,7 +5,7 @@ from excepciones import agregarRevisionArchivo
 from unidecode import unidecode
 
 
-def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL):
+def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL):
     """Crea un diccionario con la estructura que tendrá un objeto JSON para guardar en un archivo
 
     Args:
@@ -15,7 +15,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localid
         fecha (date): fecha de publicacion/actualizacion
         id (int): numero identificador de la publicacion
         barrio (string): barrio del inmueble
-        localidad (string): localidad del inmueble
+        ciudad (string): ciudad del inmueble
         URL (string): url de la publicacion
 
     Returns:
@@ -32,7 +32,7 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, localid
         "cantBanos": datos_interes['Baños'],
         "cantCochera": datos_interes['Cocheras'],
         "barrio": barrio,
-        "localidad": localidad,
+        "ciudad": ciudad,
         "URL": URL
     }
     return objetoJSON
@@ -80,7 +80,7 @@ def getFecha(soup, hoy):
             delta = 31*int(delta[-2])
         elif delta[-1] in ['año', 'años']:
             delta = 365*int(delta[-2])
-        
+
         fecha = hoy - timedelta(days=delta)
         fecha = fecha.strftime("%d-%m-%Y")
         return fecha
@@ -133,11 +133,11 @@ def scrapZonaPropPublicacion(URL, hoy):
     # ubicacion
     ubicacion = soup.find_all('a', class_="bread-item-redirect")
     tipo_prop = ubicacion[1].text.strip().upper()
-    localidad = unidecode(ubicacion[4].text.strip().upper())
+    ciudad = unidecode(ubicacion[4].text.strip().upper())
     barrio = unidecode(ubicacion[5].text.strip().upper())
     del ubicacion
 
     objetoJSON = crearObjetoJSON(
-        datos_interes, tipo_prop, precio, fecha, id, barrio, localidad, URL)
+        datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, URL)
 
     return objetoJSON
