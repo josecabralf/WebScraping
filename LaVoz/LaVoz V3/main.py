@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from scraperListadoClasificados import scrapLaVozClasificados
+from scraperListadoClasificados import scrapListadoPublicaciones
 from LVConfig import *
 import threading
 import time
@@ -21,6 +21,19 @@ def formarLink(url_base, i):
     return url_base + f'&page={i}'
 
 
+def formarArchivo(i, ruta):
+    """Forma rutas a archivos para almacenar listados de publicaciones
+
+    Args:
+        i (int): indica el numero de pagina actual
+        ruta: ruta relativa a la carpeta donde se almacenará el archivo
+
+    Returns:
+        string: nombre y ruta del archivo
+    """
+    return ruta + f"pagina{i}.json"
+
+
 def escribirFechaArchivo(fecha):
     f = open(archivo_fecha, 'w')
     f.write(str(fecha.strftime("%d-%m-%Y")))
@@ -35,9 +48,52 @@ def recuperarFechaArchivo():
 
 
 def asignarValNro():
-    dir = [int(n.split('.')[0].split('a')[-1]) for n in os.listdir(archivos_LaVoz)]
+    """Busca el proximo nro de archivo
+
+        Returns:
+            int: proximo nro de archivo
+    """
+    dir = os.listdir(archivos_LaVoz)
+    if dir == []:
+        return 1
+    dir = [int(n.split('.')[0].split('a')[-1])
+           for n in dir]
     n = max(dir)
     return n+1
+
+
+def scrapHilo(link, archivo):
+    """Ejecuta 1 hilo de scrap
+
+    Args:
+        link (string): url de listado
+        archivo (string): ubicacion relativa del archivo
+    """
+    try:
+        scrapListadoPublicaciones(link, archivo)
+    except:
+        time.sleep(10)
+        scrapListadoPublicaciones(link, archivo)
+
+
+def scrapMultiHilo(URLs, archivos):
+    """Genera los hilos a ejecutar para realizar el scrap de forma más veloz
+
+    Args:
+        URLs ([string]): links de listados a scrapear
+        archivos ([string]): ubicaciones relativas de los archivos correspondientes
+    """
+    threads = [None] * len(URLs)
+
+    for i in range(len(threads)):
+        threads[i] = threading.Thread(
+            target=scrapHilo, args=(URLs[i], archivos[i]))
+
+    for i in range(len(threads)):
+        threads[i].start()
+
+    for i in range(len(threads)):
+        threads[i].join()
 
 
 def main():
@@ -48,66 +104,26 @@ def main():
     fecha = recuperarFechaArchivo()
     nro = asignarValNro()
     for i in range(1, paginas-1, 3):
-        URL1, URL2, URL3 = formarLink(URL_LaVoz, i), formarLink(
-            URL_LaVoz, i+1), formarLink(URL_LaVoz, i+2)
-
-        archivo1, archivo2, archivo3 = archivos_LaVoz + \
-            f'pagina{nro}.json', archivos_LaVoz + \
-            f'pagina{nro+1}.json', archivos_LaVoz + f'pagina{nro+2}.json'
+        URLs = [formarLink(URL_LaVoz, n) for n in range(i, i+3)]
+        archivos = [formarArchivo(n, archivos_LaVoz)
+                    for n in range(nro, nro+3)]
         nro += 3
-        thread1 = threading.Thread(
-            target=scrapLaVozClasificados, args=(URL1, archivo1))
-        thread2 = threading.Thread(
-            target=scrapLaVozClasificados, args=(URL2, archivo2))
-        thread3 = threading.Thread(
-            target=scrapLaVozClasificados, args=(URL3, archivo3))
-
-        try:
-            thread1.start()
-        except:
-            time.sleep(20)
-            thread1.start()
-
-        try:
-            thread2.start()
-        except:
-            time.sleep(20)
-            thread2.start()
-
-        try:
-            thread3.start()
-        except:
-            time.sleep(20)
-            thread3.start()
-
-        thread1.join()
-        thread2.join()
-        thread3.join()
+        scrapMultiHilo(URLs, archivos)
 
     if paginas % 3 == 1:
-        scrapLaVozClasificados(
+        scrapListadoPublicaciones(
             URL=formarLink(URL_LaVoz, paginas), archivo=archivos_LaVoz + f'pagina{paginas}.json')
 
     elif paginas % 3 == 2:
-        URL1, URL2 = formarLink(
-            URL_LaVoz, paginas-1), formarLink(URL_LaVoz, paginas)
+        URLs = [formarLink(URL_LaVoz, i) for i in range(paginas-1, paginas+1)]
+        archivos = [formarArchivo(n, archivos_LaVoz)
+                    for n in range(nro, nro+2)]
 
-        archivo1, archivo2 = archivos_LaVoz + \
-            f'pagina{paginas-1}.json', archivos_LaVoz + f'pagina{paginas}.json'
-
-        thread1 = threading.Thread(
-            target=scrapLaVozClasificados, args=(URL1, archivo1))
-        thread2 = threading.Thread(
-            target=scrapLaVozClasificados, args=(URL2, archivo2))
-
-        thread1.start()
-        thread2.start()
-
-        thread1.join()
-        thread2.join()
+        scrapMultiHilo(URLs, archivos)
 
     fecha = datetime.date.today()
     escribirFechaArchivo(fecha)
+
 
 if __name__ == "__main__":
     main()

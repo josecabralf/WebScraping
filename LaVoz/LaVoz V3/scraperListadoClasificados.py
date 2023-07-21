@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from scraperPublicacion import scrapLaVozPublicacion
+from scraperPublicacion import scrapPublicacionLV
 import json
 
 
@@ -25,7 +25,7 @@ def crearListaLinks(URL):
     return list(links_casas)
 
 
-def escribirArchivo(archivo, links_casas, fecha):
+def escribirArchivo(archivo, links_casas):
     """Esta funcion nos permite recorrer uno por uno un arreglo de links que nos conducen a publicaciones de casas individuales para poder scrapear datos sobre ellas y escribir dichos datos en un archivo json.
 
     Args:
@@ -40,7 +40,7 @@ def escribirArchivo(archivo, links_casas, fecha):
 
         for link in links_casas:
             try:
-                objetoJSON = scrapLaVozPublicacion(link, fecha)
+                objetoJSON = scrapPublicacionLV(link)
             except:
                 print(f'error en {link}')
                 objetoJSON = False
@@ -52,7 +52,7 @@ def escribirArchivo(archivo, links_casas, fecha):
         archivoJSON.write(']')
 
 
-def scrapLaVozClasificados(URL, archivo, fecha):
+def scrapListadoPublicaciones(URL, archivo):
     """Esta funcion nos permite scrapear datos de una pagina web que posee un listado de publicaciones; y escribe dichos datos en un archivo
 
     Args:
@@ -61,4 +61,4 @@ def scrapLaVozClasificados(URL, archivo, fecha):
         fecha (date): fecha del día de la última lectura
     """
     links_casas = crearListaLinks(URL)
-    escribirArchivo(archivo, links_casas, fecha)
+    escribirArchivo(archivo, links_casas)

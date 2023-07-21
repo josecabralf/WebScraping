@@ -69,7 +69,7 @@ def getCaracteristicas(soup):
     return [car.text.strip() for car in soup.find_all('li', class_="icon-feature")]
 
 
-def scrapZonaPropPublicacion(URL, hoy):
+def scrapPublicacionZP(URL, hoy):
     """Scrapea una publicacion individual de ZonaProp para encontrar los datos que nos interesan del inmbueble y almacenarlos en un diccionario de datos.
 
     Args:

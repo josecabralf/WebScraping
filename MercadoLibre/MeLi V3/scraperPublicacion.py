@@ -106,7 +106,7 @@ def getUbicacion(soup, ubic):
         ciudad = unidecode(ubicacion[5].text.upper())
     except:
         ciudad = ubic[0]
-        
+
     try:
         barrio = unidecode(ubicacion[6].text.upper())
     except:
@@ -115,7 +115,7 @@ def getUbicacion(soup, ubic):
     return barrio, ciudad
 
 
-def scrapMeLiPublicacion(URL, hoy, ubic):
+def scrapPublicacionML(URL, hoy, ubic):
     """Scrapea una publicacion individual de Mercado Libre para encontrar los datos que nos interesan del inmbueble y almacenarlos en un diccionario de datos.
 
     Args:
@@ -141,7 +141,7 @@ def scrapMeLiPublicacion(URL, hoy, ubic):
 
     # caracteristicas de interes
     tipo_prop = (URL.split('.')[0].split('//')[1]).upper()
-    
+
     datos_interes = getCaracteristicas(URL, tipo_prop)
     if not datos_interes:
         return False

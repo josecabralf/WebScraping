@@ -1,5 +1,5 @@
 from soup import getSoup
-from scraperPublicacion import scrapZonaPropPublicacion
+from scraperPublicacion import scrapPublicacionZP
 from ZPConfig import URL_Base
 from datetime import date
 import json
@@ -38,16 +38,16 @@ def escribirArchivo(archivo, links_casas):
         archivoJSON.write('[')
 
         for link in links_casas:
-            objetoJSON = scrapZonaPropPublicacion(link, hoy)
+            objetoJSON = scrapPublicacionZP(link, hoy)
             if objetoJSON:
                 json.dump(objetoJSON, archivoJSON, indent=9)
                 if link != ultimaCasa:
                     archivoJSON.write(',')
-                    
+
         archivoJSON.write(']')
 
 
-def scrapZonaProp(link, archivo):
+def scrapListadoPublicaciones(link, archivo):
     """Esta funcion nos permite scrapear datos de una pagina web que posee un listado de publicaciones; y escribe dichos datos en un archivo
 
     Args:

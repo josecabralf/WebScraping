@@ -57,7 +57,7 @@ def getPrecio(etiqueta, clase, soup):
         return False
 
 
-def scrapLaVozPublicacion(URL, fechaCorte):
+def scrapPublicacionLV(URL):
     """Scrapea una publicacion individual de los Clasificados de La Voz para encontrar los datos que nos interesan del inmbueble y almacenarlos en un diccionario de datos.
 
     Args:
@@ -73,8 +73,6 @@ def scrapLaVozPublicacion(URL, fechaCorte):
     # Fecha de Publicacion/Actualizacion
     fecha = soup.find('div', class_='h5 center').text.split(':')[
         1].strip().replace('.', '-')
-    if datetime.datetime.strptime(fecha, "%d-%m-%Y") < fechaCorte:
-        return False
 
     precio = getPrecio('div', 'h2 mt0 main bolder', soup)
     if not precio:

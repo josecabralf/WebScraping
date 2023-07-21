@@ -81,6 +81,40 @@ def getCantPaginas(URL):
     return paginas
 
 
+def scrapHilo(link, archivo):
+    """Ejecuta 1 hilo de scrap
+
+    Args:
+        link (string): url de listado
+        archivo (string): ubicacion relativa del archivo
+    """
+    try:
+        scrapListadoPublicaciones(link, archivo)
+    except:
+        time.sleep(10)
+        scrapListadoPublicaciones(link, archivo)
+
+
+def scrapMultiHilo(URLs, archivos):
+    """Genera los hilos a ejecutar para realizar el scrap de forma más veloz
+
+    Args:
+        URLs ([string]): links de listados a scrapear
+        archivos ([string]): ubicaciones relativas de los archivos correspondientes
+    """
+    threads = [None] * len(URLs)
+
+    for i in range(len(threads)):
+        threads[i] = threading.Thread(
+            target=scrapHilo, args=(URLs[i], archivos[i]))
+
+    for i in range(len(threads)):
+        threads[i].start()
+
+    for i in range(len(threads)):
+        threads[i].join()
+
+
 def scrapPaginaMeLi(URL, nro, paginas):
     """Permite scrapear de forma veloz multiples paginas de resultados de MercadoLibre mediante el uso de threads
 
@@ -90,45 +124,11 @@ def scrapPaginaMeLi(URL, nro, paginas):
         paginas (int): cantidad de paginas de listado de publicaciones a scrapear.
     """
     for i in range(0, paginas-2, 3):
-        link1, link2, link3 = formarLink(i, URL), formarLink(
-            i+1, URL), formarLink(i+2, URL)
-        archivo1, archivo2, archivo3 = formarArchivo(
-            nro, i, archivos_Meli, URL), formarArchivo(nro, i+1, archivos_Meli, URL), formarArchivo(nro, i+2, archivos_Meli, URL)
+        links = [formarLink(n, URL) for n in range(i, i+3)]
+        archivos = [formarArchivo(nro, n, archivos_Meli, URL)
+                    for n in range(i, i+3)]
 
-        thread1 = threading.Thread(
-            target=scrapListadoPublicaciones, args=(link1, archivo1))
-        thread2 = threading.Thread(
-            target=scrapListadoPublicaciones, args=(link2, archivo2))
-        thread3 = threading.Thread(
-            target=scrapListadoPublicaciones, args=(link3, archivo3))
-
-        try:
-            thread1.start()
-        except:
-            time.sleep(20)
-            thread1 = threading.Thread(
-                target=scrapListadoPublicaciones, args=(link1, archivo1))
-            thread1.start()
-
-        try:
-            thread2.start()
-        except:
-            time.sleep(20)
-            thread2 = threading.Thread(
-                target=scrapListadoPublicaciones, args=(link2, archivo2))
-            thread2.start()
-
-        try:
-            thread3.start()
-        except:
-            time.sleep(20)
-            thread3 = threading.Thread(
-                target=scrapListadoPublicaciones, args=(link3, archivo3))
-            thread3.start()
-
-        thread1.join()
-        thread2.join()
-        thread3.join()
+        scrapMultiHilo(links, archivos)
 
     if paginas % 3 == 1:
         link1 = formarLink(paginas-1, URL)
@@ -136,14 +136,11 @@ def scrapPaginaMeLi(URL, nro, paginas):
         scrapListadoPublicaciones(link1, archivo1)
 
     if paginas % 3 == 2:
-        link1, link2 = formarLink(paginas-2, URL), formarLink(paginas-1, URL)
-        archivo1, archivo2 = formarArchivo(
-            nro, paginas-2, archivos_Meli, URL), formarArchivo(nro, paginas-1, archivos_Meli, URL)
+        links = [formarLink(n, URL) for n in range(paginas-2, paginas)]
+        archivos = [formarArchivo(nro, n, archivos_Meli, URL)
+                    for n in range(paginas-2, paginas)]
 
-        scrapListadoPublicaciones(link1, archivo1)
-        scrapListadoPublicaciones(link2, archivo2)
-
-    return
+        scrapMultiHilo(links, archivos)
 
 
 def scrapLinkMeLi(URL, nro):

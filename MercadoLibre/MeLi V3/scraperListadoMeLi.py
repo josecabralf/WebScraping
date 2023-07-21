@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from scraperPublicacion import scrapMeLiPublicacion
+from scraperPublicacion import scrapPublicacionML
 import json
 from datetime import date
 
@@ -47,7 +47,7 @@ def escribirArchivo(archivo, links_casas, ubic):
         archivoJSON.write('[')
 
         for link in links_casas:
-            objetoJSON = scrapMeLiPublicacion(link, hoy, ubic)
+            objetoJSON = scrapPublicacionML(link, hoy, ubic)
 
             if objetoJSON:
                 json.dump(objetoJSON, archivoJSON, indent=9)

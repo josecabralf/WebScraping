@@ -22,10 +22,9 @@ def abrirArchivo(flag):
             archivo = open(archivos_Links, 'r')
     else:
         archivo = open(publicadosHoy, 'r')
-    
+
     print('Archivo abierto')
     return archivo
-
 
 
 def agregarALeidos(linea, bool):
@@ -45,7 +44,10 @@ def asignarValNro():
         Returns:
             int: proximo nro de archivo
     """
-    dir = [int(n.split('-')[0]) for n in os.listdir(archivos_Meli)]
+    dir = os.listdir(archivos_Meli)
+    if dir == []:
+        return 1
+    dir = [int(n.split('-')[0]) for n in dir]
     n = max(dir)
     return n
 
