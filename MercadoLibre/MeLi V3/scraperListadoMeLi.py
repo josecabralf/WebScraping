@@ -5,7 +5,15 @@ import json
 from datetime import date
 
 
-def getUbicacion(URL):
+def getUbicacionProvisoria(URL):
+    """Obtiene una ubicacion provisoria para los inmuebles a partir de la url del listado
+
+    Args:
+        URL (string): url del listado
+
+    Returns:
+        [string]: [ciudad, barrio] de los inmuebles
+    """
     try:
         ciudad = URL.split('/')[7].replace('-', ' ').upper()
         barrio = URL.split('/')[8].replace('-', ' ').upper()
@@ -65,5 +73,5 @@ def scrapListadoPublicaciones(URL, archivo):
         archivo (string): define el nombre y ruta del archivo json que se quiere generar a partir de los datos scrapeados. Ej. './Casas/pagina1.json'
     """
     links_casas = crearListaLinks(URL)
-    ubic = getUbicacion(URL)
+    ubic = getUbicacionProvisoria(URL)
     escribirArchivo(archivo, links_casas, ubic)

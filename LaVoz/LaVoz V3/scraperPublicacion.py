@@ -74,6 +74,11 @@ def scrapPublicacionLV(URL):
     fecha = soup.find('div', class_='h5 center').text.split(':')[
         1].strip().replace('.', '-')
 
+    """
+    if datetime.datetime.strptime(fecha, "%d-%m-%Y") < fechaCorte:
+        return False
+    """
+
     precio = getPrecio('div', 'h2 mt0 main bolder', soup)
     if not precio:
         return False

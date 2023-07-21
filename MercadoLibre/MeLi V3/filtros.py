@@ -6,7 +6,7 @@ from MeLiConfig import archivos_Links, URL_Meli_CASAS, URL_Meli_DPTOS, URL_Meli_
 
 def validarCantResultados(URL):
     """Chequea si una busqueda filtrada posee más de 2016 resultados de búsqueda. Si es así, realiza un filtrado más profundo.
-    
+
         Args:
         URL (string): link de la búsqueda filtrada.
 
@@ -34,6 +34,7 @@ def getCantPublicaciones(URL):
         'span', class_='ui-search-search-result__quantity-results shops-custom-secondary-font').text.split()[0].replace('.', ''))
 
     return cant_publicaciones
+
 
 def formarListaLinks(URL):
     """Forma una lista de links filtrados a partir de una URL que contiene los posibles filtros por zona geográfica.

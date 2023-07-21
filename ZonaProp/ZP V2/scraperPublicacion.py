@@ -1,5 +1,5 @@
 from soup import getSoup
-from scraperCaracteristicas import getDatosCaracteristicas
+from scraperCaracteristicas import *
 from excepciones import agregarRevisionArchivo, getFecha
 from unidecode import unidecode
 
@@ -58,17 +58,6 @@ def getPrecio(soup):
         return False
 
 
-def getCaracteristicas(soup):
-    """Busca una lista de etiquetas li que poseen las caracteristicas de la publicacion.
-    Args:
-        soup: objeto BeautifulSoup creado a partir de la publicacion del inmueble
-
-    Returns:
-        BeautifulSoup: contiene la etiqueta tbody dentro
-    """
-    return [car.text.strip() for car in soup.find_all('li', class_="icon-feature")]
-
-
 def scrapPublicacionZP(URL, hoy):
     """Scrapea una publicacion individual de ZonaProp para encontrar los datos que nos interesan del inmbueble y almacenarlos en un diccionario de datos.
 
@@ -96,9 +85,7 @@ def scrapPublicacionZP(URL, hoy):
         agregarRevisionArchivo(URL, id)
 
     # caracteristicas de interes
-    caracteristicas = getCaracteristicas(soup)
-    datos_interes = getDatosCaracteristicas(caracteristicas)
-    del caracteristicas
+    datos_interes = getCaracteristicas(soup)
 
     # ubicacion
     ubicacion = soup.find_all('a', class_="bread-item-redirect")
