@@ -3,6 +3,7 @@ import requests
 from math import ceil
 import time
 import threading
+import datetime
 from scraperListadoMeLi import scrapListadoPublicaciones
 from MeLiConfig import archivos_Meli
 
@@ -38,7 +39,10 @@ def formarArchivo(nro, i, ruta, URL):
         string: nombre y ruta del archivo
     """
     nom_base = URL.split('/')
-    ar = '-'.join([f'{nro}', nom_base[6], nom_base[7], f'{i+1}.json'])
+    try:
+        ar = '-'.join([f'{nro}', nom_base[6], nom_base[7], f'{i+1}.json'])
+    except:
+        ar = '-'.join([f'{nro}', datetime.date.today().strftime("%d_%m_%Y"), f'{i+1}.json'])
     return ruta + ar
 
 

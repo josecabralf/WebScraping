@@ -6,9 +6,13 @@ from datetime import date
 
 
 def getUbicacion(URL):
-    ciudad = URL.split('/')[7].replace('-', ' ').upper()
-    barrio = URL.split('/')[8].replace('-', ' ').upper()
-    if 'inmuebles' in barrio:
+    try:
+        ciudad = URL.split('/')[7].replace('-', ' ').upper()
+        barrio = URL.split('/')[8].replace('-', ' ').upper()
+        if 'INMUEBLES' in barrio:
+            barrio = ''
+    except:
+        ciudad = ''
         barrio = ''
     return [ciudad, barrio]
 

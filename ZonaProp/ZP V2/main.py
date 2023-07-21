@@ -1,9 +1,10 @@
-from ZPConfig import URL_ZonaProp, archivos_ZonaProp
+from ZPConfig import archivos_ZonaProp, URL_UltimaSemana as url
 from soup import getSoup
 from scraperListadoZP import scrapZonaProp
 from math import trunc
 import time
 import threading
+import os
 
 
 def formarLink(i, URL):
@@ -37,18 +38,26 @@ def formarArchivo(i, ruta):
     return ruta + f"pagina{i}.json"
 
 
+def asignarValNro():
+    dir = [int(n.split('.')[0].split('a')[-1]) for n in os.listdir(archivos_ZonaProp)]
+    n = max(dir)
+    return n+1
+
+
 def main():
-    soup = getSoup(URL_ZonaProp)
+    soup = getSoup(url)
     publicaciones = int(soup.find('h1').text.split()[0].replace('.', ''))
     paginas = int(trunc(publicaciones / 20))
     del soup
     del publicaciones
-
+    nro = asignarValNro()
     for i in range(1, paginas-1, 3):
-        link1, link2, link3 = formarLink(i, URL_ZonaProp), formarLink(
-            i+1, URL_ZonaProp), formarLink(i+2, URL_ZonaProp)
+        link1, link2, link3 = formarLink(i, url), formarLink(
+            i+1, url), formarLink(i+2, url)
+        
         archivo1, archivo2, archivo3 = formarArchivo(
-            i, archivos_ZonaProp), formarArchivo(i+1, archivos_ZonaProp), formarArchivo(i+2, archivos_ZonaProp)
+            nro, archivos_ZonaProp), formarArchivo(nro+1, archivos_ZonaProp), formarArchivo(nro+2, archivos_ZonaProp)
+        nro += 3
 
         thread1 = threading.Thread(
             target=scrapZonaProp, args=(link1, archivo1))
@@ -80,12 +89,12 @@ def main():
         thread3.join()
 
     if paginas % 3 == 1:
-        scrapZonaProp(formarLink(paginas, URL_ZonaProp),
+        scrapZonaProp(formarLink(paginas, url),
                       formarArchivo(paginas, archivos_ZonaProp))
 
     if paginas % 3 == 2:
         link1, link2 = formarLink(
-            paginas-1, URL_ZonaProp), formarLink(paginas, URL_ZonaProp)
+            paginas-1, url), formarLink(paginas, url)
         archivo1, archivo2 = formarArchivo(
             paginas-1, archivos_ZonaProp), formarArchivo(paginas, archivos_ZonaProp)
 

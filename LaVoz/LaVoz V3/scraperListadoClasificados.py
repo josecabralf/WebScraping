@@ -25,12 +25,13 @@ def crearListaLinks(URL):
     return list(links_casas)
 
 
-def escribirArchivo(archivo, links_casas):
+def escribirArchivo(archivo, links_casas, fecha):
     """Esta funcion nos permite recorrer uno por uno un arreglo de links que nos conducen a publicaciones de casas individuales para poder scrapear datos sobre ellas y escribir dichos datos en un archivo json.
 
     Args:
         archivo (string): define el nombre y ruta del archivo json que se quiere generar a partir de los datos scrapeados. Ej. './Casas/pagina1.json'
         links_casas ([string]): arreglo con la lista de links de casas que se quieren scrapear
+        fecha (date): fecha del día de la última lectura
     """
     ultimaCasa = links_casas[-1]
 
@@ -38,8 +39,11 @@ def escribirArchivo(archivo, links_casas):
         archivoJSON.write('[')
 
         for link in links_casas:
-            objetoJSON = scrapLaVozPublicacion(link)
-
+            try:
+                objetoJSON = scrapLaVozPublicacion(link, fecha)
+            except:
+                print(f'error en {link}')
+                objetoJSON = False
             if objetoJSON:
                 json.dump(objetoJSON, archivoJSON, indent=9)
                 if link != ultimaCasa:
@@ -48,12 +52,13 @@ def escribirArchivo(archivo, links_casas):
         archivoJSON.write(']')
 
 
-def scrapLaVozClasificados(URL, archivo):
+def scrapLaVozClasificados(URL, archivo, fecha):
     """Esta funcion nos permite scrapear datos de una pagina web que posee un listado de publicaciones; y escribe dichos datos en un archivo
 
     Args:
         URL (string): URL que nos conduce al listado de publicaciones
         archivo (string): define el nombre y ruta del archivo json que se quiere generar a partir de los datos scrapeados. Ej. './Casas/pagina1.json'
+        fecha (date): fecha del día de la última lectura
     """
     links_casas = crearListaLinks(URL)
-    escribirArchivo(archivo, links_casas)
+    escribirArchivo(archivo, links_casas, fecha)

@@ -4,6 +4,8 @@ from scraperListadoClasificados import scrapLaVozClasificados
 from LVConfig import *
 import threading
 import time
+import datetime
+import os
 
 
 def formarLink(url_base, i):
@@ -19,20 +21,40 @@ def formarLink(url_base, i):
     return url_base + f'&page={i}'
 
 
+def escribirFechaArchivo(fecha):
+    f = open(archivo_fecha, 'w')
+    f.write(str(fecha.strftime("%d-%m-%Y")))
+    f.close()
+
+
+def recuperarFechaArchivo():
+    f = open(archivo_fecha, 'r')
+    fecha = f.readline()
+    f.close()
+    return datetime.datetime.strptime(fecha, "%d-%m-%Y")
+
+
+def asignarValNro():
+    dir = [int(n.split('.')[0].split('a')[-1]) for n in os.listdir(archivos_LaVoz)]
+    n = max(dir)
+    return n+1
+
+
 def main():
     response = requests.get(URL_LaVoz)
     soup = BeautifulSoup(response.content, 'html.parser')
 
     paginas = int((soup.find_all('a', class_="page-link h4"))[-1].text)
-
+    fecha = recuperarFechaArchivo()
+    nro = asignarValNro()
     for i in range(1, paginas-1, 3):
         URL1, URL2, URL3 = formarLink(URL_LaVoz, i), formarLink(
             URL_LaVoz, i+1), formarLink(URL_LaVoz, i+2)
 
         archivo1, archivo2, archivo3 = archivos_LaVoz + \
-            f'pagina{i}.json', archivos_LaVoz + \
-            f'pagina{i+1}.json', archivos_LaVoz + f'pagina{i+2}.json'
-
+            f'pagina{nro}.json', archivos_LaVoz + \
+            f'pagina{nro+1}.json', archivos_LaVoz + f'pagina{nro+2}.json'
+        nro += 3
         thread1 = threading.Thread(
             target=scrapLaVozClasificados, args=(URL1, archivo1))
         thread2 = threading.Thread(
@@ -84,6 +106,8 @@ def main():
         thread1.join()
         thread2.join()
 
+    fecha = datetime.date.today()
+    escribirFechaArchivo(fecha)
 
 if __name__ == "__main__":
     main()

@@ -1,7 +1,7 @@
 from unidecode import unidecode
 
 
-def getDatosCaracteristicas(caracteristicas):
+def getDatosCaracteristicas(caracteristicas, URL):
     """Busca caracteristicas deseadas de una lista de caracteristicas presentadas
 
     Args:
@@ -10,7 +10,7 @@ def getDatosCaracteristicas(caracteristicas):
     Returns:
         dict: diccionario deseados de valores de las caracteristicas encontradas
     """
-    deseados = {'Tipo vivienda': '',
+    deseados = {'Tipo vivienda': URL.split('/')[4].replace('-',' ').upper(),
                 'Superficie total': -1,
                 'Superficie cubierta': -1,
                 'Dormitorios': -1,

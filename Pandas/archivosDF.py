@@ -1,6 +1,7 @@
 import json
 import os
 import pandas as pd
+from format import formatearDF
 from PDconfig import utils_dir
 
 
@@ -30,6 +31,7 @@ def cargarTablaMain():
         line = line.split('*')[0]
         archivo = open(line, 'r')
         df_i = pd.DataFrame(json.load(archivo))
+        archivo.close()
         df_main = df_main._append(df_i, ignore_index=True)
     return df_main
 
@@ -45,5 +47,5 @@ def crearArchivoDF(path, archivo):
         os.remove(utils_dir)
     buscarArchivosJSON(path)
     df = cargarTablaMain()
-    del df['URL']
+    df = formatearDF(df)
     df.to_csv(archivo, index=False, sep=';')

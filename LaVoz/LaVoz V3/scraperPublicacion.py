@@ -1,13 +1,14 @@
 from bs4 import BeautifulSoup
 import requests
 from scraperCaracteristicas import getDatosCaracteristicas
+import datetime
 
 
 def crearObjetoJSON(datos_interes, precio, fecha, id, URL):
     """Crea un diccionario con la estructura que tendrá un objeto JSON para guardar en un archivo
 
     Args:
-        datos_interes ([dynamic]): lista de valores de interes
+        datos_interes (dict): diccionario de valores de interes
         precio (int): precio en dolares de una propiedad
         fecha (date): fecha de publicacion/actualizacion
         id (int): numero identificador de la publicacion
@@ -56,17 +57,24 @@ def getPrecio(etiqueta, clase, soup):
         return False
 
 
-def scrapLaVozPublicacion(URL):
+def scrapLaVozPublicacion(URL, fechaCorte):
     """Scrapea una publicacion individual de los Clasificados de La Voz para encontrar los datos que nos interesan del inmbueble y almacenarlos en un diccionario de datos.
 
     Args:
         URL (string): url de la publicacion
+        fechaCorte (date): fecha del día de la última lectura
 
     Returns:
         dict: diccionario con estructura de objeto JSON
     """
     response = requests.get(URL)
     soup = BeautifulSoup(response.content, 'html.parser')
+
+    # Fecha de Publicacion/Actualizacion
+    fecha = soup.find('div', class_='h5 center').text.split(':')[
+        1].strip().replace('.', '-')
+    if datetime.datetime.strptime(fecha, "%d-%m-%Y") < fechaCorte:
+        return False
 
     precio = getPrecio('div', 'h2 mt0 main bolder', soup)
     if not precio:
@@ -75,14 +83,10 @@ def scrapLaVozPublicacion(URL):
     # id
     id = URL.split('/')[5]
 
-    # Fecha de Publicacion/Actualizacion
-    fecha = soup.find('div', class_='h5 center').text.split(':')[
-        1].strip().replace('.', '-')
-
     # caracteristicas de interes
     caracteristicas = soup.find_all('div', class_='flex-auto nowrap col-4')
     caracteristicas = [car.text.strip().split() for car in caracteristicas]
-    datos_interes = getDatosCaracteristicas(caracteristicas)
+    datos_interes = getDatosCaracteristicas(caracteristicas, URL)
 
     objetoJSON = crearObjetoJSON(datos_interes, precio, fecha, id, URL)
 

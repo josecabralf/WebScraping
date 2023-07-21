@@ -111,7 +111,12 @@ def getFecha(soup, hoy):
 
 def getUbicacion(soup, ubic):
     ubicacion = soup.find_all('a', class_='andes-breadcrumb__link')
-    ciudad = ubic[0]
+
+    try:
+        ciudad = unidecode(ubicacion[5].text.upper())
+    except:
+        ciudad = ubic[0]
+        
     try:
         barrio = unidecode(ubicacion[6].text.upper())
     except:

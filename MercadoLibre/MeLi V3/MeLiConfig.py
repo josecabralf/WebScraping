@@ -1,5 +1,6 @@
 archivos_Links = './Links/links.txt'
 leidos_links = './Links/leidos.txt'
+publicadosHoy = './Links/hoy.txt'
 archivos_Meli = './Inmuebles/'
 
 URL_Meli_CASAS = 'https://inmuebles.mercadolibre.com.ar/casas/venta/propiedades-individuales/cordoba/inmuebles_NoIndex_True'
