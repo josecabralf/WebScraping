@@ -42,7 +42,8 @@ def formarArchivo(nro, i, ruta, URL):
     try:
         ar = '-'.join([f'{nro}', nom_base[6], nom_base[7], f'{i+1}.json'])
     except:
-        ar = '-'.join([f'{nro}', datetime.date.today().strftime("%d_%m_%Y"), f'{i+1}.json'])
+        ar = '-'.join([f'{nro}',
+                      datetime.date.today().strftime("%d_%m_%Y"), f'{i+1}.json'])
     return ruta + ar
 
 
@@ -73,7 +74,8 @@ def getCantPaginas(URL):
     response = requests.get(URL)
     soup = BeautifulSoup(response.content, 'html.parser')
     try:
-        paginas = int(soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
+        paginas = int(
+            soup.find('li', class_='andes-pagination__page-count').text.split()[-1])
     except:
         paginas = ceil(getCantPublicaciones(soup) / 48)
     return paginas
@@ -104,18 +106,24 @@ def scrapPaginaMeLi(URL, nro, paginas):
             thread1.start()
         except:
             time.sleep(20)
+            thread1 = threading.Thread(
+                target=scrapListadoPublicaciones, args=(link1, archivo1))
             thread1.start()
 
         try:
             thread2.start()
         except:
             time.sleep(20)
+            thread2 = threading.Thread(
+                target=scrapListadoPublicaciones, args=(link2, archivo2))
             thread2.start()
 
         try:
             thread3.start()
         except:
             time.sleep(20)
+            thread3 = threading.Thread(
+                target=scrapListadoPublicaciones, args=(link3, archivo3))
             thread3.start()
 
         thread1.join()

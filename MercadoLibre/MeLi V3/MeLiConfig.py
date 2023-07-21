@@ -1,5 +1,6 @@
 archivos_Links = './Links/links.txt'
 leidos_links = './Links/leidos.txt'
+errores_links = './Links/errores.txt'
 publicadosHoy = './Links/hoy.txt'
 archivos_Meli = './Inmuebles/'
 

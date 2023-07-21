@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from scraperCaracteristicas import getDatosCaracteristicas
+from scraperCaracteristicas import getCaracteristicas
 from datetime import timedelta
 from unidecode import unidecode
 
@@ -60,26 +60,6 @@ def getPrecio(soup):
         return False
 
 
-def getCaracteristicas(URL):
-    """Busca una etiqueta tbody dentro de la pagina de una publicacion de inmuebles de Mercado Libre.
-    La razón por la que posee un while es porque Mercado Libre no siempre renderiza la publicacion de la misma manera, por lo que hay veces en que la tabla no existe. En esos casos se repite el proceso hasta que se la obtiene.
-
-    Args:
-        URL (string): url de la publicacion del inmueble
-
-    Returns:
-        BeautifulSoup: contiene la etiqueta tbody dentro
-    """
-    while True:
-        response = requests.get(URL)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        caracteristicas = soup.find("tbody", class_="andes-table__body")
-        if caracteristicas:
-            break
-    datos_interes = getDatosCaracteristicas(caracteristicas)
-    return datos_interes
-
-
 def getFecha(soup, hoy):
     """Obtiene la fecha de publicación/última actualización de una publicación de MeLi
 
@@ -110,6 +90,16 @@ def getFecha(soup, hoy):
 
 
 def getUbicacion(soup, ubic):
+    """Obtiene la ubicacion en donde está la propiedad
+
+    Args:
+        soup (BeautifulSoup): contiene el HTML de la página de la publicacion
+        ubic ([string]): contiene una ubicacion menos aproximada obtenida mediante la url del listado
+
+    Returns:
+        barrio (string): barrio de propiedad
+        ciudad (string): ciudad de propiedad
+    """
     ubicacion = soup.find_all('a', class_='andes-breadcrumb__link')
 
     try:
@@ -150,9 +140,11 @@ def scrapMeLiPublicacion(URL, hoy, ubic):
     fecha = getFecha(soup, hoy)
 
     # caracteristicas de interes
-    tipo_prop = soup.find(
-        'span', class_='ui-pdp-subtitle').text.split()[0].upper()
-    datos_interes = getCaracteristicas(URL)
+    tipo_prop = (URL.split('.')[0].split('//')[1]).upper()
+    
+    datos_interes = getCaracteristicas(URL, tipo_prop)
+    if not datos_interes:
+        return False
 
     # ubicacion
     barrio, ciudad = getUbicacion(soup, ubic)

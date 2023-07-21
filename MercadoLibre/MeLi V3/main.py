@@ -1,4 +1,4 @@
-from MeLiConfig import archivos_Links, leidos_links, archivos_Meli, publicadosHoy
+from MeLiConfig import archivos_Links, leidos_links, archivos_Meli, publicadosHoy, errores_links
 from archivosLinks import crearArchivoLinksSiNoExiste
 from scraperMeLi import scrapLinkMeLi
 import os
@@ -28,12 +28,15 @@ def abrirArchivo(flag):
 
 
 
-def agregarALeidos(linea):
-    """Agrega un link al archivo de ya leidos
-    """
-    f = open(leidos_links, 'a')
-    f.write(linea)
-    f.close()
+def agregarALeidos(linea, bool):
+    if bool:
+        f = open(leidos_links, 'a')
+        f.write(linea)
+        f.close()
+    else:
+        f = open(errores_links, 'a')
+        f.write(linea)
+        f.close()
 
 
 def asignarValNro():
@@ -53,10 +56,14 @@ def main():
     nro = asignarValNro()
     for line in archivo.readlines():
         print(f'Scrapeando Link {nro}')
-        link = line.replace('\n', '')
-        scrapLinkMeLi(link, nro)
-        nro += 1
-        agregarALeidos(line)
+        try:
+            link = line.replace('\n', '')
+            scrapLinkMeLi(link, nro)
+            nro += 1
+            agregarALeidos(line, True)
+        except:
+            print(f'No se pudo scrapear Link {nro}')
+            agregarALeidos(line, False)
     archivo.close()
 
 
