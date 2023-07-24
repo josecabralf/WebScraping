@@ -1,0 +1,27 @@
+[{
+         "id": "1412148832",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 188000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 500,
+         "terrenoEdificado": 178,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "CIUDADELA",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1412148832-casonas-del-sur-2-la-mejor-ubicacion-zona-sur-_JM"
+},{
+         "id": "1378764964",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 79000,
+         "fechaUltimaActualizacion": "17-04-2023",
+         "terrenoTotal": 60,
+         "terrenoEdificado": 45,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "CIUDADELA",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1378764964-casonas-del-sur-2-1-dormitorio-en-venta-con-cochera-_JM"
+}]

@@ -1,0 +1,40 @@
+[{
+         "id": "1430256138",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "09-06-2023",
+         "terrenoTotal": 338,
+         "terrenoEdificado": 163,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "SANTA ISABEL TERCERA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1430256138-venta-b-sta-isabel-3-casa-3-dorm-2-banos-cochera-patio-taller-_JM"
+},{
+         "id": "1272840244",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 41000,
+         "fechaUltimaActualizacion": "14-12-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 110,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "SANTA ISABEL TERCERA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1272840244-increible-casa-en-barrio-santa-isabel-_JM"
+},{
+         "id": "1367157899",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 350,
+         "terrenoEdificado": 112,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "SANTA ISABEL TERCERA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1367157899-se-vende-casa-depto-en-esquina-barrio-santa-isabel-iii-_JM"
+}]

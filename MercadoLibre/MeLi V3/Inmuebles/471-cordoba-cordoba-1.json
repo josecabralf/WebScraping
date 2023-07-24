@@ -1,0 +1,27 @@
+[{
+         "id": "1315485103",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 33000,
+         "fechaUltimaActualizacion": "15-01-2023",
+         "terrenoTotal": 18,
+         "terrenoEdificado": 18,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "PARQUE CHACABUCO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1315485103-1amb-18m-boedo-bna-distrib-cseg-24hs-cam-vigil-ideal-1-viv-o-inv-_JM"
+},{
+         "id": "1136578040",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 49000,
+         "fechaUltimaActualizacion": "20-07-2022",
+         "terrenoTotal": 38,
+         "terrenoEdificado": 31,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "PARQUE CHACABUCO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1136578040-gual-2200-ph-2-amb-con-patio-terraza-compartida-_JM"
+}]

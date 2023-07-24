@@ -1,0 +1,40 @@
+[{
+         "id": "1128720442",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 118000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 180,
+         "terrenoEdificado": 162,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "barrio": "SANTA ISABEL SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1128720442-san-ignacio-village-duplex-3-dormitorios-categoria-_JM"
+},{
+         "id": "1175806806",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 202,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "barrio": "SANTA ISABEL SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1175806806-vendo-complejo-ideal-inversores-3-dptos-y-2-locales-_JM"
+},{
+         "id": "1375292507",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "14-01-2023",
+         "terrenoTotal": 350,
+         "terrenoEdificado": 300,
+         "cantDormitorios": 10,
+         "cantBanos": 7,
+         "cantCochera": 3,
+         "barrio": "SANTA ISABEL SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1375292507-propiedad-en-venta-leer-_JM"
+}]

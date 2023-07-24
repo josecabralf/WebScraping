@@ -1,0 +1,27 @@
+[{
+         "id": "1362009983",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "17-03-2023",
+         "terrenoTotal": 441,
+         "terrenoEdificado": 176,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "MONTE CRISTO",
+         "ciudad": "RIO PRIMERO",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1362009983-monte-cristo-pasaje-ombu-81-venta-casa-3-dormitorios-_JM"
+},{
+         "id": "1432379278",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 195000,
+         "fechaUltimaActualizacion": "14-06-2023",
+         "terrenoTotal": 450,
+         "terrenoEdificado": 450,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "RIO PRIMERO",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1432379278-casa-4-dormitorios-en-monte-cristo-de-categoria-_JM"
+},]

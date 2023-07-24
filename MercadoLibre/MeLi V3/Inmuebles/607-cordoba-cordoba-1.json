@@ -1,0 +1,40 @@
+[{
+         "id": "1450559488",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 650000,
+         "fechaUltimaActualizacion": "16-07-2023",
+         "terrenoTotal": 20000,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "COMERCIAL",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1450559488-velez-sarsfield-6100-sobre-taier-terreno-20000m2-con-deposito-de-1000m2-_JM"
+},{
+         "id": "1446748878",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 18000,
+         "fechaUltimaActualizacion": "11-07-2023",
+         "terrenoTotal": 293,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "COMERCIAL",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1446748878-venta-terreno-av-velez-sarfield-6100-_JM"
+},{
+         "id": "1273619929",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 39900,
+         "fechaUltimaActualizacion": "16-12-2022",
+         "terrenoTotal": 7292,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "COMERCIAL",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1273619929-terreno-en-venta-para-industria-de-7300-mtrs-_JM"
+}]

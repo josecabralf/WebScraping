@@ -1,0 +1,53 @@
+[{
+         "id": "1110105976",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": -1,
+         "terrenoEdificado": 54,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "ALTOS SAN MARTIN",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1110105976-venta-departamento-en-complejo-cerrado-loma-alta-barrio-altos-de-san-martin-calle-martin-garcia-_JM"
+},{
+         "id": "927126833",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 56000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": 78,
+         "terrenoEdificado": 78,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "ALTOS SAN MARTIN",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-927126833-dpto-2dorm-y-12-en-complejo-en-venta-alto-san-martin-78m2-_JM"
+},{
+         "id": "1110615874",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 40,
+         "terrenoEdificado": 40,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "ALTOS SAN MARTIN",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1110615874-venta-departamento-en-complejo-cerrado-barrio-altos-de-san-martin-calle-guido-y-martin-garcia-_JM"
+},{
+         "id": "1422416214",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "23-05-2023",
+         "terrenoTotal": 45,
+         "terrenoEdificado": 45,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "ALTOS SAN MARTIN",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1422416214-vendo-depto-1-12-dorm-con-cochera-apto-bancor-_JM"
+}]

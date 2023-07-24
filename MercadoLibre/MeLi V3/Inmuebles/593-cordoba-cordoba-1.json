@@ -1,0 +1,27 @@
+[{
+         "id": "1372451031",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 16000,
+         "fechaUltimaActualizacion": "07-06-2023",
+         "terrenoTotal": 375,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "CERRO NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1372451031-vendo-lote-en-barrio-cerro-norte-_JM"
+},{
+         "id": "1110115475",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 400000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 800,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "CERRO NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1110115475-venta-lote-en-barrio-cerro-calle-av-recta-martinolli-_JM"
+}]

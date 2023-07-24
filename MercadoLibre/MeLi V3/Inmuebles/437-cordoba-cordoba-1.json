@@ -1,0 +1,53 @@
+[{
+         "id": "1142456659",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 135,
+         "terrenoEdificado": 120,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LA PAYA II",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1142456659-venta-duplex-de-4-ambientes-la-paya-2-tejas-del-sur-2-ciudad-de-cordoba-_JM"
+},{
+         "id": "1134198981",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 93000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 125,
+         "terrenoEdificado": 115,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LA PAYA II",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1134198981-duplex-la-paya-ii-3-dorm-_JM"
+},{
+         "id": "857082820",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 128000,
+         "fechaUltimaActualizacion": "19-07-2020",
+         "terrenoTotal": 125,
+         "terrenoEdificado": 125,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "barrio": "LA PAYA II",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-857082820-la-paya-2-duplex-3-dorm-3-banos-excelente-inversion-mz12-lote-4-_JM"
+},{
+         "id": "1223027453",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 100000,
+         "fechaUltimaActualizacion": "13-11-2022",
+         "terrenoTotal": 125,
+         "terrenoEdificado": 125,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "LA PAYA II",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1223027453-duplex-la-paya-2-_JM"
+}]

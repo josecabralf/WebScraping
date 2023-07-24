@@ -1,0 +1,40 @@
+[{
+         "id": "1103451124",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 59000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 2500,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "INDUSTRIAL ESTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1103451124-lote-industrial-patron-iv-b-zona-industrial-av-las-malvinas-_JM"
+},{
+         "id": "1122097020",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 550000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 3,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "INDUSTRIAL ESTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1122097020-lote-de-3-hectareas-en-zona-industrial-a-metros-av-las-malvinas-km-8-_JM"
+},{
+         "id": "1144063704",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 3300,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "INDUSTRIAL ESTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1144063704-lote-industrial-patron-4b-apto-cualquier-industria-m3-posibilidad-de-anexar-otros-av-las-malvinas-3300-_JM"
+}]

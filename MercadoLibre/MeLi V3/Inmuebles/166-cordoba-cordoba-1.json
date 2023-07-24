@@ -1,0 +1,27 @@
+[{
+         "id": "1374938413",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 59900,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": 185,
+         "terrenoEdificado": 185,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "LOS OLMOS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1374938413-venta-casa-4-dormitorios-barrio-los-olmos-_JM"
+},{
+         "id": "1374886464",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "17-03-2023",
+         "terrenoTotal": 142,
+         "terrenoEdificado": 130,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LOS OLMOS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1374886464-duplex-venta-jardines-del-olmos-3-dormitorios-_JM"
+}]

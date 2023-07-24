@@ -1,0 +1,40 @@
+[{
+         "id": "932893348",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 2300000,
+         "fechaUltimaActualizacion": "19-07-2021",
+         "terrenoTotal": 1760,
+         "terrenoEdificado": 1200,
+         "cantDormitorios": -1,
+         "cantBanos": 19,
+         "cantCochera": 16,
+         "barrio": "SAN JAVIER",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-932893348-hotel-boutique-spa-restaurante-cordoba-_JM"
+},{
+         "id": "1368937033",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 28000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 60,
+         "terrenoEdificado": 46,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "SAN JAVIER",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1368937033-venta-casa-1dorm-horizonte-barrio-san-javier-_JM"
+},{
+         "id": "1408983110",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 5000,
+         "terrenoEdificado": 40,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "SAN JAVIER",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1408983110-cabana-en-venta-san-javier-_JM"
+}]

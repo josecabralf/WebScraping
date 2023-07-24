@@ -1,0 +1,40 @@
+[{
+         "id": "1410618536",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 110,
+         "terrenoEdificado": 80,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "COLINAS DE VELEZ SARSFIELD",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1410618536-casonas-del-parque-2dor-coch-amenities-_JM"
+},{
+         "id": "1225290159",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "13-11-2022",
+         "terrenoTotal": 117,
+         "terrenoEdificado": 117,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "COLINAS DE VELEZ SARSFIELD",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1225290159-casonas-del-parque-seguridad-pileta-sum-gym-cancha-tenis-pileta-cochera-_JM"
+},{
+         "id": "1162332207",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 170000,
+         "fechaUltimaActualizacion": "12-09-2022",
+         "terrenoTotal": 80,
+         "terrenoEdificado": 80,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "COLINAS DE VELEZ SARSFIELD",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1162332207-venta-departamento-en-complejo-casonas-del-parque-barrio-colinas-velez-sarsfield-id-3722-_JM"
+}]

@@ -1,0 +1,27 @@
+[{
+         "id": "1349061831",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "16-02-2023",
+         "terrenoTotal": 300,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "VILLA MARTA",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1349061831-villa-marta-quiroga-sarmiento-4264-venta-lote-300-m2-_JM"
+},{
+         "id": "1349061568",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "16-02-2023",
+         "terrenoTotal": 380,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "VILLA MARTA",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1349061568-villa-marta-av-spilimbergo-4550-venta-lote-380-m2-_JM"
+}]

@@ -1,0 +1,40 @@
+[{
+         "id": "1444114126",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 14000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": 65,
+         "terrenoEdificado": 58,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "COLON",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1444114126-venta-departamento-barrio-colon-ciudad-de-cordoba-_JM"
+},{
+         "id": "1433213678",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 34900,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": 100,
+         "terrenoEdificado": 100,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "COLON",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1433213678-venta-b-colon-andalucia-2280-ph-3-dor-y-2-banos-_JM"
+},{
+         "id": "1436808238",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 215000,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": 125,
+         "terrenoEdificado": 125,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "COLON",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1436808238-departamento-a-estrenar-complejo-la-diva-gama-_JM"
+}]

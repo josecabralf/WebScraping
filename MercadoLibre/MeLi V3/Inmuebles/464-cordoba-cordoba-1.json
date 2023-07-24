@@ -1,0 +1,40 @@
+[{
+         "id": "1129795140",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "20-07-2022",
+         "terrenoTotal": 93,
+         "terrenoEdificado": 63,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "NUEVA ITALIA",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1129795140-oportunidad-departamento-en-venta-nueva-italia-_JM"
+},{
+         "id": "1116142631",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "20-07-2022",
+         "terrenoTotal": 150,
+         "terrenoEdificado": 150,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "NUEVA ITALIA",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1116142631-casa-en-venta-2-dormitorios-barrio-nueva-italia-_JM"
+},{
+         "id": "884008645",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "20-07-2021",
+         "terrenoTotal": 80,
+         "terrenoEdificado": 70,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "NUEVA ITALIA",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-884008645-nueva-italia-tridentina-2000-departamento-1-dormitorio-en-venta-_JM"
+}]

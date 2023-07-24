@@ -1,0 +1,27 @@
+[{
+         "id": "1435046994",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 111111,
+         "fechaUltimaActualizacion": "19-06-2023",
+         "terrenoTotal": 180,
+         "terrenoEdificado": 139,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "barrio": "DISTRITO SUR",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1435046994-hermosos-duplex-en-venta-en-distrito-sur-3-dormitorios-la-mejor-calidad-constructiva-_JM"
+},{
+         "id": "1438251228",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 134900,
+         "fechaUltimaActualizacion": "26-06-2023",
+         "terrenoTotal": 150,
+         "terrenoEdificado": 124,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": 1,
+         "barrio": "DISTRITO SUR",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1438251228-duplex-b-distrito-sur-zona-sur-sobre-camino-san-antonio-cordoba-_JM"
+}]

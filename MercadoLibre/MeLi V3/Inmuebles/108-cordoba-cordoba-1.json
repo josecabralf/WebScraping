@@ -1,0 +1,27 @@
+[{
+         "id": "1332152133",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "13-02-2023",
+         "terrenoTotal": 264,
+         "terrenoEdificado": 80,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "GRANADERO PRINGLES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1332152133-casa-a-reciclar-en-barrio-granaderos-pringles-_JM"
+},{
+         "id": "1284004938",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "13-12-2022",
+         "terrenoTotal": 257,
+         "terrenoEdificado": 109,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "GRANADERO PRINGLES",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1284004938-venta-en-av-vives-3114-_JM"
+}]

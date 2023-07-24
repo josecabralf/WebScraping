@@ -1,0 +1,40 @@
+[{
+         "id": "1116459579",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 150,
+         "terrenoEdificado": 95,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "SAN CARLOS MINAS",
+         "ciudad": "MINAS",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1116459579-k050sc-oportunidad-hermosa-casa-en-san-carlos-minas-con-2-dormitorios-y-cochera-_JM"
+},{
+         "id": "934977770",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 150,
+         "terrenoEdificado": 75,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "SAN CARLOS MINAS",
+         "ciudad": "MINAS",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-934977770-v74-hermosa-casa-en-san-carlos-minas-_JM"
+},{
+         "id": "1436287960",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 300000,
+         "fechaUltimaActualizacion": "14-01-2023",
+         "terrenoTotal": 12000,
+         "terrenoEdificado": 185,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "barrio": "GUASAPAMPA",
+         "ciudad": "MINAS",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1436287960-vendo-casa-en-traslasierra-los-morteritos-cordoba-argentina-_JM"
+},]

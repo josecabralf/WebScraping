@@ -1,0 +1,40 @@
+[{
+         "id": "1185050796",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 23,
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "barrio": "SAN DANIEL",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1185050796-san-daniel-4-dormitorios-con-dpto-independiente-_JM"
+},{
+         "id": "1371514525",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 149000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": 245,
+         "terrenoEdificado": 245,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "SAN DANIEL",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1371514525-venta-hermosa-casa-4-dorm-las-flores-_JM"
+},{
+         "id": "1192705204",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 105000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 265,
+         "terrenoEdificado": 210,
+         "cantDormitorios": 4,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "barrio": "SAN DANIEL",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1192705204-venta-casa-3-dorm-departamento-1-dorm-crenta-b-san-daniel-cordoba-_JM"
+}]

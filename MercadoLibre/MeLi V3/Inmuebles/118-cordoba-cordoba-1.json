@@ -1,0 +1,53 @@
+[{
+         "id": "1452742294",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 36000,
+         "fechaUltimaActualizacion": "17-07-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 1,
+         "cantDormitorios": 5,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "barrio": "ITUZAINGO ANEXO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1452742294-ref-1864-2-casas-monoambiente-en-barrio-ituzaingo-anexo-eco-tierra-_JM"
+},{
+         "id": "1377695613",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "17-07-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 180,
+         "cantDormitorios": 5,
+         "cantBanos": 2,
+         "cantCochera": 3,
+         "barrio": "ITUZAINGO ANEXO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1377695613-duplex-ecotierra-ituzaingo-5-dormitorios-10-hambientes-_JM"
+},{
+         "id": "1357319358",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 27000,
+         "fechaUltimaActualizacion": "16-03-2023",
+         "terrenoTotal": 264,
+         "terrenoEdificado": 173,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "ITUZAINGO ANEXO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1357319358-vendo-gran-casa-mas-departamento-imperdible-_JM"
+},{
+         "id": "1112200358",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 10000000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 11,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "ITUZAINGO ANEXO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1112200358-venta-de-hermosa-casadepto-en-cordoba-bit-anexo-ref1462-_JM"
+}]

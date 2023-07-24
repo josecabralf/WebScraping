@@ -1,0 +1,53 @@
+[{
+         "id": "1168041458",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 150000,
+         "fechaUltimaActualizacion": "14-09-2022",
+         "terrenoTotal": 687,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "ATE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1168041458-terreno-sobre-av-velez-sarsfield-al-3900-_JM"
+},{
+         "id": "704259256",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 2000000,
+         "fechaUltimaActualizacion": "22-07-2018",
+         "terrenoTotal": 135000,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "ATE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-704259256-colonia-tirolesa-fracc-ploteo-135ha-_JM"
+},{
+         "id": "1411110078",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "20-05-2023",
+         "terrenoTotal": 9294,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "ATE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1411110078-venta-lote-de-9294-mt2-en-ruta-19-a-5km-de-cba-capital-_JM"
+},{
+         "id": "779962884",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 54000,
+         "fechaUltimaActualizacion": "22-07-2019",
+         "terrenoTotal": 364,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "ATE",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-779962884-terreno-sobre-calle-belardinelli-terranova-ii-_JM"
+}]

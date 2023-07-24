@@ -1,0 +1,27 @@
+[{
+         "id": "1163404196",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 139000,
+         "fechaUltimaActualizacion": "13-09-2022",
+         "terrenoTotal": 102,
+         "terrenoEdificado": 102,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "MIRADOR",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1163404196-departamento-venta-mirador-del-chateau-3-dormitorios-_JM"
+},{
+         "id": "1154779692",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "13-08-2022",
+         "terrenoTotal": 200,
+         "terrenoEdificado": 170,
+         "cantDormitorios": 5,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "MIRADOR",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1154779692-oportunidad-venta-en-bloque-departamento-en-barrio-mirador-calle-junin-_JM"
+}]

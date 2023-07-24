@@ -1,0 +1,27 @@
+[{
+         "id": "1419946296",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 84,
+         "terrenoEdificado": 60,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "CRISOL SUD",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1419946296-departamento-2-dormitorios-milenica-universitaria-_JM"
+},{
+         "id": "1191762561",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 30000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 85,
+         "terrenoEdificado": 85,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "CRISOL SUD",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1191762561-venta-b-crisol-malaga-1588-2-dor-a-mts-rev-mayo-_JM"
+}]

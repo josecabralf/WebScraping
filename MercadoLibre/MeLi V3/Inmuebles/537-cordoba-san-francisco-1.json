@@ -1,0 +1,53 @@
+[{
+         "id": "1383727778",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": 135,
+         "terrenoEdificado": 72,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "SAN FRANCISCO",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1383727778-venta-en-pozo-departamento-dos-dormitorios-calypso-egeo-_JM"
+},{
+         "id": "1364306033",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 56000,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": 75,
+         "terrenoEdificado": 44,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "SAN FRANCISCO",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1364306033-venta-de-departamento-en-pozo-calyoso-egeo-1-dormitorio-_JM"
+},{
+         "id": "1100532340",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 159000,
+         "fechaUltimaActualizacion": "20-07-2022",
+         "terrenoTotal": 180,
+         "terrenoEdificado": 171,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "SAN FRANCISCO",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1100532340-departamento-2-dormitorios-edificio-tiempo-en-san-francisco--_JM"
+},{
+         "id": "1400352438",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 97500,
+         "fechaUltimaActualizacion": "18-04-2023",
+         "terrenoTotal": 66,
+         "terrenoEdificado": 57,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "SAN FRANCISCO",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1400352438-venta-apto-credito-depto-a-estrenar-_JM"
+}]

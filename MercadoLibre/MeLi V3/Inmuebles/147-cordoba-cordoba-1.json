@@ -1,0 +1,40 @@
+[{
+         "id": "1129281580",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 250000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 200,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LAS DALIAS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1129281580-venta-casa-en-housing-santa-barbara-barrio-altos-de-don-bosco-calle-av-don-bosco-_JM"
+},{
+         "id": "1119675197",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 260,
+         "terrenoEdificado": 150,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "LAS DALIAS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1119675197-vendo-casa-de-2-dormmonoambiente-a-metros-de-av-don-bosco-_JM"
+},{
+         "id": "1445693738",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 64900,
+         "fechaUltimaActualizacion": "08-07-2023",
+         "terrenoTotal": 120,
+         "terrenoEdificado": 120,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LAS DALIAS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1445693738-duplex-de-3-dormitorios-en-las-dalias-_JM"
+}]

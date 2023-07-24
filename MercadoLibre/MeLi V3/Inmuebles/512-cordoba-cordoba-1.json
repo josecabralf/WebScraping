@@ -1,0 +1,53 @@
+[{
+         "id": "1417244892",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "19-05-2023",
+         "terrenoTotal": 200,
+         "terrenoEdificado": 125,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "VILLA 9 DE JULIO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1417244892-oportunidad-housing-de-4-unidades-a-metros-de-donato-alvarez-y-a-3-cuadras-de-ricardo-rojas-_JM"
+},{
+         "id": "1156218537",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "13-09-2022",
+         "terrenoTotal": 137,
+         "terrenoEdificado": 137,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "VILLA 9 DE JULIO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1156218537-departamento-en-venta-2-dormitorios-arguello-solares-de-santa-maria-_JM"
+},{
+         "id": "849036462",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 130000,
+         "fechaUltimaActualizacion": "21-07-2019",
+         "terrenoTotal": -1,
+         "terrenoEdificado": 110,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "VILLA 9 DE JULIO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-849036462-duplex-en-barrio-cerrado-la-catalina-_JM"
+},{
+         "id": "1439343468",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "29-06-2023",
+         "terrenoTotal": 136,
+         "terrenoEdificado": 130,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "VILLA 9 DE JULIO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1439343468-arguello-departamento-2-dorm-con-cochera-en-complejo-cerrado-_JM"
+}]

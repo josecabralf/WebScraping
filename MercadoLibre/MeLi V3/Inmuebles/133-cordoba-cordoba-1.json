@@ -1,0 +1,27 @@
+[{
+         "id": "1403897326",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "17-05-2023",
+         "terrenoTotal": 120,
+         "terrenoEdificado": 106,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "KAIROS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1403897326-casa-en-venta-b-ampliacion-kennedy-_JM"
+},{
+         "id": "1145975888",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "18-07-2022",
+         "terrenoTotal": 500,
+         "terrenoEdificado": 370,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "KAIROS",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1145975888-2-dorm-1-planta-departamento-independiente-_JM"
+}]

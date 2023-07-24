@@ -1,0 +1,40 @@
+[{
+         "id": "1375358151",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 7000,
+         "fechaUltimaActualizacion": "01-07-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "ITUZAINGO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1375358151-se-vende-lote-en-barrio-ituzaingo-_JM"
+},{
+         "id": "933783187",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 2520000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 63000,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "ITUZAINGO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-933783187-vendo-campo-63-ha-ruta-9-agricola-apto-loteo-tambien-fraccion-_JM"
+},{
+         "id": "1166096314",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 18,
+         "fechaUltimaActualizacion": "14-09-2022",
+         "terrenoTotal": 74000,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "ITUZAINGO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1166096314-sabattini-terreno-para-loteo-200-lotes-todos-los-servicios-_JM"
+}]

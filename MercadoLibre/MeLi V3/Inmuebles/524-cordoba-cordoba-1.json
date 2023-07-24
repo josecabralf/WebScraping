@@ -1,0 +1,27 @@
+[{
+         "id": "816132564",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "20-07-2020",
+         "terrenoTotal": 40,
+         "terrenoEdificado": 45,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "VILLA SOLFERINO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-816132564-departamento-venta-villa-sol-_JM"
+},{
+         "id": "819330633",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 62000,
+         "fechaUltimaActualizacion": "20-07-2020",
+         "terrenoTotal": 60,
+         "terrenoEdificado": 40,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "VILLA SOLFERINO",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-819330633-departamento-venta-villa-sol-_JM"
+}]

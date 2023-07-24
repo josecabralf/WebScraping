@@ -1,0 +1,27 @@
+[{
+         "id": "1146265343",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 200000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 30000,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "VILLA CORONEL OLMEDO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1146265343-3-hectareas-camino-60-cuadras-recibe-menor-_JM"
+},{
+         "id": "1142866363",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 13500,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "VILLA CORONEL OLMEDO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1142866363-terreno-venta-cno-60-cuadras-13500m2-_JM"
+}]

@@ -1,0 +1,53 @@
+[{
+         "id": "1448521450",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 44000,
+         "fechaUltimaActualizacion": "13-07-2023",
+         "terrenoTotal": 173,
+         "terrenoEdificado": 173,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LICEO GENERAL PAZ",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1448521450-se-vende-casa-de-2-dormitorios-parque-liceo-2-_JM"
+},{
+         "id": "1450322482",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 44000,
+         "fechaUltimaActualizacion": "16-07-2023",
+         "terrenoTotal": 173,
+         "terrenoEdificado": 173,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LICEO GENERAL PAZ",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1450322482-casa-venta-parque-liceo-2-dormitorios-_JM"
+},{
+         "id": "1411582790",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 67000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 291,
+         "terrenoEdificado": 160,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 3,
+         "barrio": "LICEO GENERAL PAZ",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1411582790-casa-en-venta-barrio-liceo-_JM"
+},{
+         "id": "1193063315",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 239,
+         "terrenoEdificado": 88,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "LICEO GENERAL PAZ",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1193063315-venta-casa-2-dormitorios-b-liceo-1ra-seccion-cordoba-_JM"
+}]

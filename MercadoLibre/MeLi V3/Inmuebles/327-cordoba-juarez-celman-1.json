@@ -1,0 +1,53 @@
+[{
+         "id": "1374046151",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "17-04-2023",
+         "terrenoTotal": 700,
+         "terrenoEdificado": 315,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 3,
+         "barrio": "BICENTENARIO",
+         "ciudad": "JUAREZ CELMAN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1374046151-vendo-casa-pileta-quincho-galpon-en-bengolea-cordoba-_JM"
+},{
+         "id": "1364845335",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "17-04-2023",
+         "terrenoTotal": 600,
+         "terrenoEdificado": 285,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "VILLA LOS LLANOS",
+         "ciudad": "JUAREZ CELMAN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1364845335-venta-2-casas-juarez-celman-_JM"
+},{
+         "id": "1170693005",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 525,
+         "terrenoEdificado": 120,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "JUAREZ CELMAN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1170693005-casa-a-refaccionar-inmejorable-ubicacion-con-amplio-terreno-_JM"
+},{
+         "id": "1371713874",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 40000,
+         "fechaUltimaActualizacion": "17-03-2023",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 120,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "JUAREZ CELMAN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1371713874-se-vende-casa-en-juarez-celman-_JM"
+}]

@@ -1,0 +1,53 @@
+[{
+         "id": "1425068932",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "28-05-2023",
+         "terrenoTotal": 180,
+         "terrenoEdificado": 140,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "VILLA EUCARISTICA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1425068932-duplex-en-venta-en-barrio-cerrado-greenville-3-dormitorio-_JM"
+},{
+         "id": "1262525513",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 495000,
+         "fechaUltimaActualizacion": "14-12-2022",
+         "terrenoTotal": 1500,
+         "terrenoEdificado": 360,
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "barrio": "VILLA EUCARISTICA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1262525513-la-santina-sur-country-importante-casa-3dor-4bns-360mts-cubseg-24hs-de-categoria-_JM"
+},{
+         "id": "1150723974",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "12-08-2022",
+         "terrenoTotal": 180,
+         "terrenoEdificado": 180,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "barrio": "VILLA EUCARISTICA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1150723974-duplex-en-venta-3-dormitorios-greenville-2-_JM"
+},{
+         "id": "1163235535",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 590000,
+         "fechaUltimaActualizacion": "12-09-2022",
+         "terrenoTotal": 1505,
+         "terrenoEdificado": 514,
+         "cantDormitorios": 4,
+         "cantBanos": 5,
+         "cantCochera": 1,
+         "barrio": "VILLA EUCARISTICA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1163235535-venta-casa-country-canuelas-golf-4-dormitorios-_JM"
+}]

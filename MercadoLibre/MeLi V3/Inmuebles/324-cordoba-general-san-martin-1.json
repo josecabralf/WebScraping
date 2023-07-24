@@ -1,0 +1,53 @@
+[{
+         "id": "1369327149",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 290000,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 365,
+         "terrenoEdificado": 340,
+         "cantDormitorios": 5,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "barrio": "VILLA NUEVA",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1369327149-venta-casa-5-dormitorios-villa-nueva-b-ctalamuchi-_JM"
+},{
+         "id": "1426353490",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 263000,
+         "fechaUltimaActualizacion": "31-05-2023",
+         "terrenoTotal": 257,
+         "terrenoEdificado": 243,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "VILLA NUEVA",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1426353490-venta-casa-3-dorm-barrio-las-rosas-villa-nueva-_JM"
+},{
+         "id": "1374665099",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 185000,
+         "fechaUltimaActualizacion": "27-06-2023",
+         "terrenoTotal": 800,
+         "terrenoEdificado": 230,
+         "cantDormitorios": 5,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1374665099-casa-en-venta-en-capilla-del-monte-_JM"
+},{
+         "id": "1436023874",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 160000,
+         "fechaUltimaActualizacion": "17-03-2023",
+         "terrenoTotal": 260,
+         "terrenoEdificado": 187,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "VILLA NUEVA",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1436023874-casa-amplia-de-2-pisos-_JM"
+}]

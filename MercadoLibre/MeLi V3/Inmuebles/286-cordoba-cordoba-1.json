@@ -1,0 +1,53 @@
+[{
+         "id": "1451159272",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 149900,
+         "fechaUltimaActualizacion": "18-07-2023",
+         "terrenoTotal": 159,
+         "terrenoEdificado": 134,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "barrio": "URQUIZA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1451159272-impecable-casa-en-urca-2-dormitorios-ccochera-_JM"
+},{
+         "id": "1423136890",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "25-05-2023",
+         "terrenoTotal": 140,
+         "terrenoEdificado": 140,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "URQUIZA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1423136890-venta-b-urquiza-miguel-de-marmol-2647-2-dor-y-cochera-_JM"
+},{
+         "id": "1172310936",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 89000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 200,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "URQUIZA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1172310936-casa-3-dormitorios-con-pileta-barrio-urquiza-apta-credito-_JM"
+},{
+         "id": "1347901518",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 70000,
+         "fechaUltimaActualizacion": "14-02-2023",
+         "terrenoTotal": 200,
+         "terrenoEdificado": 68,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "URQUIZA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1347901518-2-dorm-una-planta-patio-appto-b-colon-rec-menor-_JM"
+}]

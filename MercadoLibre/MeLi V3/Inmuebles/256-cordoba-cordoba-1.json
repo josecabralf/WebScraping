@@ -1,0 +1,27 @@
+[{
+         "id": "1149182939",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 80000,
+         "fechaUltimaActualizacion": "12-08-2022",
+         "terrenoTotal": 375,
+         "terrenoEdificado": 193,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "barrio": "SAN MARTIN NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1149182939-a-ms-de-mp-cabrera-3-dor-3-banos-gje-quincho-mas-un-local-_JM"
+},{
+         "id": "1284004934",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "14-12-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 110,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "SAN MARTIN NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1284004934-venta-en-san-martin-_JM"
+}]

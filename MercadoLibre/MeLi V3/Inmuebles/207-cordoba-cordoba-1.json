@@ -1,0 +1,40 @@
+[{
+         "id": "1138294893",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 57000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 81,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "PARQUE LICEO SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1138294893-casa-vendo-en-barrio-parque-liceo-ii-cba-_JM"
+},{
+         "id": "1382775454",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "17-04-2023",
+         "terrenoTotal": 330,
+         "terrenoEdificado": 138,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "PARQUE LICEO SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1382775454-se-vende-hermosa-casa-en-b-parque-liceo-_JM"
+},{
+         "id": "1375613427",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 11000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 100,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "PARQUE LICEO SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1375613427-2-ambientes-_JM"
+}]

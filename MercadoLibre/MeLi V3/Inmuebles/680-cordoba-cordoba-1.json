@@ -1,0 +1,53 @@
+[{
+         "id": "1362309817",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 15000,
+         "fechaUltimaActualizacion": "19-03-2023",
+         "terrenoTotal": 273,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "MERCANTIL",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1362309817-lote-en-venta-b-mercantil-escritura-_JM"
+},{
+         "id": "1362322445",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 18000,
+         "fechaUltimaActualizacion": "19-03-2023",
+         "terrenoTotal": 270,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "MERCANTIL",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1362322445-lote-en-venta-b-mercantil-lote-esquina-_JM"
+},{
+         "id": "1372593069",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "08-06-2023",
+         "terrenoTotal": 1343,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "MERCANTIL",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1372593069-el-terron-mendiolaza-terreno-en-venta-_JM"
+},{
+         "id": "925142650",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 140000,
+         "fechaUltimaActualizacion": "21-07-2021",
+         "terrenoTotal": 1264,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "MERCANTIL",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-925142650-terreno-en-venta-el-terron-mendiolaza-_JM"
+}]

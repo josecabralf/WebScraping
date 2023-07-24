@@ -1,0 +1,27 @@
+[{
+         "id": "1418541006",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38200,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 60,
+         "terrenoEdificado": 60,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 10,
+         "barrio": "LOS ROBLES",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1418541006-departamento-1-dormitorio-cochera-complejo-cerrado-_JM"
+},{
+         "id": "1110143198",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 68000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 70,
+         "terrenoEdificado": 70,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "LOS ROBLES",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1110143198-venta-departamento-en-complejo-cerrado-la-quinta-blos-robles-calle-av-colon-_JM"
+}]

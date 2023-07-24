@@ -1,0 +1,27 @@
+[{
+         "id": "1445466242",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "08-07-2023",
+         "terrenoTotal": 67,
+         "terrenoEdificado": 67,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "SAN MARTIN ANEXO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1445466242-apto-bancor-venta-casa-2-dorm-barrio-san-martin-anexo-_JM"
+},{
+         "id": "1367634523",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 64900,
+         "fechaUltimaActualizacion": "18-05-2023",
+         "terrenoTotal": 105,
+         "terrenoEdificado": 102,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "SAN MARTIN ANEXO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1367634523-casa-venta-san-martin-2-dormitorios-_JM"
+}]

@@ -1,0 +1,27 @@
+[{
+         "id": "1432952836",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 12000,
+         "fechaUltimaActualizacion": "15-06-2023",
+         "terrenoTotal": 37,
+         "terrenoEdificado": 30,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "VILLA ADELA",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1432952836-villa-adela-zona-de-la-ruta-20-se-vende-departamento-en-planta-baja-_JM"
+},{
+         "id": "1428911060",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 22000,
+         "fechaUltimaActualizacion": "06-06-2023",
+         "terrenoTotal": 60,
+         "terrenoEdificado": 60,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "VILLA ADELA",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1428911060-villa-adela-depto-3dor-zona-cpc-ruta-20-av-fuerza-aerea-_JM"
+}]

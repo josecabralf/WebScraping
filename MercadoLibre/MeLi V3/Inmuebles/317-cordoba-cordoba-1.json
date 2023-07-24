@@ -1,0 +1,27 @@
+[{
+         "id": "832707082",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "19-07-2020",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 120,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "VIVERO NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-832707082-vivero-norte-j-quevedo-2295-casa-en-venta-3-dormitorios-con-gge-_JM"
+},{
+         "id": "1357136332",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 53000,
+         "fechaUltimaActualizacion": "17-03-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 200,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "VIVERO NORTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1357136332-vivero-norte-ipv-diaz-gomez-2500-casa-3-dormitorios-en-venta-_JM"
+}]

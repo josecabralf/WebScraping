@@ -1,0 +1,27 @@
+[{
+         "id": "1426342022",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 20000,
+         "fechaUltimaActualizacion": "30-05-2023",
+         "terrenoTotal": 350,
+         "terrenoEdificado": 150,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "JOSE IGNACIO DIAZ SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1426342022-vendo-casa-dpto-en-jose-ignacio-diaz-5-seccion-_JM"
+},{
+         "id": "1443000246",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "04-07-2023",
+         "terrenoTotal": 238,
+         "terrenoEdificado": 47,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 2,
+         "barrio": "JOSE IGNACIO DIAZ SEGUNDA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1443000246-casa-de-tres-dormitorios-apta-bancor-_JM"
+}]

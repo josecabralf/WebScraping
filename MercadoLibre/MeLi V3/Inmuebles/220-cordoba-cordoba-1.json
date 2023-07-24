@@ -1,0 +1,40 @@
+[{
+         "id": "1379238074",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 49900,
+         "fechaUltimaActualizacion": "17-04-2023",
+         "terrenoTotal": 283,
+         "terrenoEdificado": 169,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "PATRICIOS OESTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1379238074-casa-venta-apto-bancor-b-patricios-oeste-cordoba-arg-cochera-3-dormitorios-_JM"
+},{
+         "id": "1121568309",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 65000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 322,
+         "terrenoEdificado": 145,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "PATRICIOS OESTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1121568309-casa-en-venta-3-dorm-en-patricios-oeste-_JM"
+},{
+         "id": "1118624119",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 39500,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 200,
+         "cantDormitorios": 2,
+         "cantBanos": -1,
+         "cantCochera": 2,
+         "barrio": "PATRICIOS OESTE",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1118624119-patricios-oeste-m-chilavert-3708-casa-en-venta-_JM"
+}]

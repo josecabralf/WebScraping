@@ -1,0 +1,53 @@
+[{
+         "id": "1373555198",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "18-03-2023",
+         "terrenoTotal": 40,
+         "terrenoEdificado": 40,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1373555198-vendo-departamento-en-barrio-san-martin-apto-credito-_JM"
+},{
+         "id": "1241280677",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 59990,
+         "fechaUltimaActualizacion": "14-11-2022",
+         "terrenoTotal": 100,
+         "terrenoEdificado": 96,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "INMUEBLES_NOINDEX_TRUE?FILTER=CITY",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1241280677-vendo-ph-con-escritura-2-dormitorios-providencia-_JM"
+},{
+         "id": "1436962534",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 38000,
+         "fechaUltimaActualizacion": "15-01-2023",
+         "terrenoTotal": 32,
+         "terrenoEdificado": 32,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "VILLA NUEVA",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1436962534-departamento-1-ambiente-villa-maria-_JM"
+},{
+         "id": "1377703733",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 160500,
+         "fechaUltimaActualizacion": "15-02-2023",
+         "terrenoTotal": 143,
+         "terrenoEdificado": 100,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "VILLA NUEVA",
+         "ciudad": "GENERAL SAN MARTIN",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1377703733-malbo-ii-frente-al-rio-entre-villa-maria-y-villa-nueva-_JM"
+}]

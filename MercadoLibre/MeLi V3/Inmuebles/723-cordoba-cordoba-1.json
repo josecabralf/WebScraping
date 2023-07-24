@@ -1,0 +1,40 @@
+[{
+         "id": "1146721831",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 342,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "SAN FRANCISCO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1146721831-venta-de-terreno-en-parque-san-francisco-_JM"
+},{
+         "id": "1142064003",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 18000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 345,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "SAN FRANCISCO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1142064003-compra-tu-proximo-lote--_JM"
+},{
+         "id": "1110121688",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 215000,
+         "fechaUltimaActualizacion": "21-07-2022",
+         "terrenoTotal": 990,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "SAN FRANCISCO",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1110121688-venta-lote-en-corazon-de-manzana-sobre-calle-av-pueyrredon-barrio-san-francisco-_JM"
+}]

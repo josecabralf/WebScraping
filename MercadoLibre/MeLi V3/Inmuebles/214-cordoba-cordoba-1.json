@@ -1,0 +1,53 @@
+[{
+         "id": "1129508184",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 213,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "barrio": "PARQUE TABLADA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1129508184-casa-en-venta-barrio-urca-_JM"
+},{
+         "id": "1365579005",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "17-04-2023",
+         "terrenoTotal": 350,
+         "terrenoEdificado": 237,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "barrio": "PARQUE TABLADA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1365579005-casa-en-venta-de-3-dorm-en-parque-tablada-a-metros-del-parque-las-naciones-_JM"
+},{
+         "id": "1219591840",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 115000,
+         "fechaUltimaActualizacion": "13-11-2022",
+         "terrenoTotal": 140,
+         "terrenoEdificado": 130,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "PARQUE TABLADA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1219591840-excelente-duplex-en-venta-_JM"
+},{
+         "id": "1377893107",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 180000,
+         "fechaUltimaActualizacion": "12-09-2022",
+         "terrenoTotal": 332,
+         "terrenoEdificado": 296,
+         "cantDormitorios": 6,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "barrio": "PARQUE TABLADA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1377893107-vendo-2-propiedades-por-el-valor-de-1-ideal-inversion-zona-norte-_JM"
+}]

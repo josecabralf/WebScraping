@@ -1,0 +1,53 @@
+[{
+         "id": "1180071623",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 27000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 104,
+         "terrenoEdificado": 50,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "MARECHAL",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1180071623-oportunidad-vendo-casa-en-barrio-marechal-_JM"
+},{
+         "id": "1228829234",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 29900,
+         "fechaUltimaActualizacion": "13-11-2022",
+         "terrenoTotal": 176,
+         "terrenoEdificado": 172,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "MARECHAL",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1228829234-ideal-inversionistas-metro-cuadrado-a-169-usd--_JM"
+},{
+         "id": "1375345463",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "01-07-2023",
+         "terrenoTotal": 260,
+         "terrenoEdificado": 260,
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "barrio": "MARECHAL",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1375345463-venta-casa-4-dorm-3-banos-marechal-_JM"
+},{
+         "id": "1443559496",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 35000,
+         "fechaUltimaActualizacion": "06-07-2023",
+         "terrenoTotal": 232,
+         "terrenoEdificado": 190,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": -1,
+         "barrio": "MARECHAL",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1443559496-venta-prop-b-alberdi-a-refaccionar-o-demoler-_JM"
+}]

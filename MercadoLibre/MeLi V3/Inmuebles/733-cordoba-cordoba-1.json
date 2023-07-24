@@ -1,0 +1,27 @@
+[{
+         "id": "1422930758",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 25000,
+         "fechaUltimaActualizacion": "24-05-2023",
+         "terrenoTotal": 250,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "SANTA ISABEL PRIMERA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1422930758-venta-terreno-con-escritura-santa-isabel-cordoba-_JM"
+},{
+         "id": "1377707013",
+         "tipoPropiedad": "TERRENO",
+         "precioUSD": 95000,
+         "fechaUltimaActualizacion": "21-07-2021",
+         "terrenoTotal": 360,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "SANTA ISABEL PRIMERA SECCION",
+         "ciudad": "CORDOBA",
+         "URL": "https://terreno.mercadolibre.com.ar/MLA-1377707013-terreno-en-venta-costas-de-manantiales-_JM"
+}]

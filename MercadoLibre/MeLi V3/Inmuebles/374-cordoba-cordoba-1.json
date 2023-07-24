@@ -1,0 +1,27 @@
+[{
+         "id": "1371972065",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 64000,
+         "fechaUltimaActualizacion": "03-06-2023",
+         "terrenoTotal": 40,
+         "terrenoEdificado": 40,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "AMPLIACION LAS PALMAS",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1371972065-venta-departamento-villa-sol-1-dormitorio-_JM"
+},{
+         "id": "1422310848",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 55000,
+         "fechaUltimaActualizacion": "23-05-2023",
+         "terrenoTotal": 45,
+         "terrenoEdificado": 45,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "AMPLIACION LAS PALMAS",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1422310848-terra-forte-ii-depto-de-1-dor--_JM"
+}]

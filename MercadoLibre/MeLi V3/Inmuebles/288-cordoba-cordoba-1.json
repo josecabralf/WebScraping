@@ -1,0 +1,40 @@
+[{
+         "id": "856705561",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 330000,
+         "fechaUltimaActualizacion": "19-07-2020",
+         "terrenoTotal": 750,
+         "terrenoEdificado": 330,
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 1,
+         "barrio": "VALLE DEL CERRO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-856705561-casa-venta-valle-del-cerro-cordoba-_JM"
+},{
+         "id": "839154644",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 295000,
+         "fechaUltimaActualizacion": "19-07-2020",
+         "terrenoTotal": 1081,
+         "terrenoEdificado": 416,
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": 1,
+         "barrio": "VALLE DEL CERRO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-839154644-casa-valle-del-cerro-muy-linda-_JM"
+},{
+         "id": "1175037658",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 240000,
+         "fechaUltimaActualizacion": "13-10-2022",
+         "terrenoTotal": 800,
+         "terrenoEdificado": 200,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "VALLE DEL CERRO",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1175037658-hermosa-casa-en-venta-3-habitaciones-_JM"
+}]

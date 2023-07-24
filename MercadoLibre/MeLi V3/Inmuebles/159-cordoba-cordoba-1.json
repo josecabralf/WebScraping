@@ -1,0 +1,27 @@
+[{
+         "id": "1433751642",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 120000,
+         "fechaUltimaActualizacion": "16-06-2023",
+         "terrenoTotal": 180,
+         "terrenoEdificado": 150,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LOMAS DEL SUQUIA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1433751642-duplex-en-venta-en-b-lomas-del-chateau-tres-dormitorios-pileta-zona-norte-cordoba--_JM"
+},{
+         "id": "1169077198",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "12-09-2022",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 152,
+         "cantDormitorios": 3,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "LOMAS DEL SUQUIA",
+         "ciudad": "CORDOBA",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1169077198-venta-casa-lomas-del-chateau-3-dormitorios-se-recibe-menor-en-la-zona-_JM"
+}]

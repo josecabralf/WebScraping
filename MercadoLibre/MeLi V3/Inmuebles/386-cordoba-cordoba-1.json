@@ -1,0 +1,40 @@
+[{
+         "id": "1373226231",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "13-06-2023",
+         "terrenoTotal": 120,
+         "terrenoEdificado": 100,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "CASEROS",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1373226231-venta-de-loft-100-m-semipiso-con-cochera-y-pileta-_JM"
+},{
+         "id": "1145578298",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 42000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 42,
+         "terrenoEdificado": 41,
+         "cantDormitorios": 1,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "CASEROS",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1145578298-dpto-c-balcon-terraza-y-asador-a-cuadras-de-nuevo-centro-shopping-_JM"
+},{
+         "id": "1374285133",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 69900,
+         "fechaUltimaActualizacion": "22-06-2023",
+         "terrenoTotal": 82,
+         "terrenoEdificado": 79,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "CASEROS",
+         "ciudad": "CORDOBA",
+         "URL": "https://departamento.mercadolibre.com.ar/MLA-1374285133-departamento-venta-paso-de-los-andes-3-dormitorios-_JM"
+}]

@@ -1,0 +1,40 @@
+[{
+         "id": "1440848714",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 75000,
+         "fechaUltimaActualizacion": "19-07-2022",
+         "terrenoTotal": 2780,
+         "terrenoEdificado": 55,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "LOS HORNILLOS",
+         "ciudad": "SAN JAVIER",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1440848714-casa-en-los-hornillos-traslasierra-vista-espectacular-_JM"
+},{
+         "id": "1442984592",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "05-07-2023",
+         "terrenoTotal": 1200,
+         "terrenoEdificado": 90,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "QUEBRADA DE LOS POZOS",
+         "ciudad": "SAN JAVIER",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1442984592-casa-estilo-alpina-con-vista-a-las-sierras-_JM"
+},{
+         "id": "1376259315",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 85000,
+         "fechaUltimaActualizacion": "13-11-2022",
+         "terrenoTotal": 300,
+         "terrenoEdificado": 159,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 1,
+         "barrio": "VILLA DOLORES",
+         "ciudad": "SAN JAVIER",
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1376259315-casa-2-pisos-en-villa-dolores-financiacion-recibo-vehic-_JM"
+}]
