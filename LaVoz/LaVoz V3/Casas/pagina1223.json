@@ -1,0 +1,53 @@
+[{
+         "id": "4691395",
+         "tipoPropiedad": "TERRENOS LOTES",
+         "precioUSD": 50000,
+         "fechaUltimaActualizacion": "18-07-2023",
+         "terrenoTotal": 21000,
+         "terrenoEdificado": -1,
+         "cantDormitorios": -1,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "",
+         "ciudad": "BIALET MASSE",
+         "URL": "https://clasificados.lavoz.com.ar/avisos/terrenos-lotes/4691395/vendo-lotes-en-pilar-de-21mil-metros-con-escritura"
+},{
+         "id": "5092523",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 114000,
+         "fechaUltimaActualizacion": "18-07-2023",
+         "terrenoTotal": 323,
+         "terrenoEdificado": 159,
+         "cantDormitorios": 2,
+         "cantBanos": 2,
+         "cantCochera": 2,
+         "barrio": "CHATEAU CARRERAS",
+         "ciudad": "CORDOBA",
+         "URL": "https://clasificados.lavoz.com.ar/avisos/casas/5092523/casa-en-venta-mirlo-450"
+},{
+         "id": "5092522",
+         "tipoPropiedad": "DEPARTAMENTO",
+         "precioUSD": 110000,
+         "fechaUltimaActualizacion": "18-07-2023",
+         "terrenoTotal": 1,
+         "terrenoEdificado": -1,
+         "cantDormitorios": 3,
+         "cantBanos": -1,
+         "cantCochera": -1,
+         "barrio": "CENTRO",
+         "ciudad": "CORDOBA",
+         "URL": "https://clasificados.lavoz.com.ar/avisos/departamentos/5092522/centro-ssanta-rosa-al-100"
+},{
+         "id": "5092521",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 32000,
+         "fechaUltimaActualizacion": "18-07-2023",
+         "terrenoTotal": 740,
+         "terrenoEdificado": 150,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "",
+         "ciudad": "SALDAN",
+         "URL": "https://clasificados.lavoz.com.ar/avisos/casas/5092521/casa-a-reciclar-en-saldan-frente-plaza-piedras"
+},]
