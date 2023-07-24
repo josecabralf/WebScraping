@@ -11,6 +11,7 @@ def main():
     soup = getSoup(url)
     publicaciones = int(soup.find('h1').text.split()[0].replace('.', ''))
     paginas = int(trunc(publicaciones / 20))
+    print(f"Hay {paginas} a scrapear.")
     del soup
     del publicaciones
     nro = asignarValNro(archivos_ZonaProp)

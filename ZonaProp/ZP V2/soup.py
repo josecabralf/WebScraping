@@ -13,10 +13,11 @@ def getSoup(link):
     Returns:
         BeautifulSoup: contenidos de la página web
     """
+    path = "./driver/chromedriver"
     try:
         options = ChromeOptions()
         options.add_argument("--headless=new")
-        driver = Chrome(options=options)
+        driver = Chrome(executable_path=path, options=options)
         driver.get(link)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         driver.quit()

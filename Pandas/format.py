@@ -1,5 +1,8 @@
+import numpy as np
+
+
 def cambiarValoresNull(df):
-    df = df.replace(-1, None)
+    df = df.replace(-1, np.nan)
     return df
 
 
