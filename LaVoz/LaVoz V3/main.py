@@ -3,7 +3,7 @@ import requests
 from links import formarLink
 from LVConfig import URL_LaVoz, archivos_LaVoz
 from archivos import *
-from hilos import *
+from hilos import scrapMultiHilo
 
 
 def main():
@@ -11,7 +11,6 @@ def main():
     soup = BeautifulSoup(response.content, 'html.parser')
 
     paginas = int((soup.find_all('a', class_="page-link h4"))[-1].text)
-    # fecha = recuperarFechaArchivo()
     nro = asignarValNro(archivos_LaVoz)
     for i in range(1, paginas-1, 3):
         URLs = [formarLink(URL_LaVoz, n) for n in range(i, i+3)]
@@ -21,8 +20,8 @@ def main():
         scrapMultiHilo(URLs, archivos)
 
     if paginas % 3 == 1:
-        scrapHilo(
-            link=formarLink(URL_LaVoz, paginas), archivo=archivos_LaVoz + f'pagina{paginas}.json')
+        scrapMultiHilo(
+            [formarLink(URL_LaVoz, paginas)], [formarArchivo(paginas, archivos_LaVoz)])
 
     elif paginas % 3 == 2:
         URLs = [formarLink(URL_LaVoz, i) for i in range(paginas-1, paginas+1)]

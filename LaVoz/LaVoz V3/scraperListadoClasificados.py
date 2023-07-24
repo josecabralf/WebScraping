@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
-from scraperPublicacion import scrapPublicacionLV
 import json
+from scraperPublicacion import scrapPublicacionLV
+from archivos import recuperarFechaArchivo
 
 
 def crearListaLinks(URL):
@@ -34,13 +35,13 @@ def escribirArchivo(archivo, links_casas):
         fecha (date): fecha del día de la última lectura
     """
     ultimaCasa = links_casas[-1]
-
+    fechaCorte = recuperarFechaArchivo()
     with open(archivo, 'w', encoding='utf-8') as archivoJSON:
         archivoJSON.write('[')
 
         for link in links_casas:
             try:
-                objetoJSON = scrapPublicacionLV(link)
+                objetoJSON = scrapPublicacionLV(link, fechaCorte)
             except:
                 print(f'error en {link}')
                 objetoJSON = False

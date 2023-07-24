@@ -3,12 +3,13 @@ from selenium.webdriver import ChromeOptions
 from bs4 import BeautifulSoup
 from time import sleep
 
+
 def getSoup(link):
     """Crea un objeto BeautifulSoup a partir de un link de una página web dinámica.
 
     Args:
         link (string): url de la página dinámica
-    
+
     Returns:
         BeautifulSoup: contenidos de la página web
     """

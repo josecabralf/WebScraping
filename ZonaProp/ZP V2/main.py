@@ -7,6 +7,7 @@ from links import formarLink
 
 
 def main():
+    print("Inicio...")
     soup = getSoup(url)
     publicaciones = int(soup.find('h1').text.split()[0].replace('.', ''))
     paginas = int(trunc(publicaciones / 20))
