@@ -8,11 +8,12 @@ from format import formatearDF
 def crearDataFramesInmuebles():
     """Crea una serie de archivos CSV que contienen un DataFrame cada uno. Estos archivos se corresponden con cada una de las páginas que se ha scrapeado: LaVoz, MercadoLibre, ZonaProp.
     """
-    if not os.path.exists(df_LV):
-        crearArchivoDF(path_LV, df_LV)
-    if not os.path.exists(df_ML):
-        crearArchivoDF(path_ML, df_ML)
-    #crearArchivoDF(path_ZP, df_ZP)
+    if not os.path.exists(LaVoz):
+        crearArchivoDF(path_LV, LaVoz)
+    if not os.path.exists(MeLi):
+        crearArchivoDF(path_ML, MeLi)
+    if not os.path.exists(ZonaP):
+        crearArchivoDF(path_ZP, ZonaP)
 
 
 def abrirDF(path, col=False):
@@ -65,6 +66,7 @@ def crearArchivoDF(path, archivo):
     df = cargarTablaMain()
     df = formatearDF(df)
     guardarDF(df, archivo)
+
 
 def guardarDF(df, archivo):
     df.to_csv(archivo, index=False, sep=';')

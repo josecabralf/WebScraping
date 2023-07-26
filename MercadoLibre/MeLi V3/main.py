@@ -8,9 +8,9 @@ def main():
 
     nro = asignarValNro(archivos_Meli)
     for line in archivo.readlines():
-        print(f'Scrapeando Link {nro}')
         try:
             link = line.replace('\n', '')
+            print(f'Scrapeando Link {nro}: {link}')
             scrapPaginaMeLi(link, nro)
             nro += 1
             agregarALeidos(line, True)

@@ -7,7 +7,7 @@ def cambiarValoresNull(df):
 
 
 def eliminarDuplicados(df):
-    df = df.drop_duplicates(subset='id', keep='first',
+    df = df.drop_duplicates(subset='id', keep='last',
                             ignore_index=False)
     return df
 
