@@ -30,6 +30,8 @@ def getFecha(soup, hoy):
         delta = soup.find('div', id='user-views').find('p').text.split()
         if delta[-1] == 'hoy':
             delta = 0
+        elif delta[-1] == 'ayer':
+            delta = 1
         elif delta[-1] in ['día', 'días']:
             delta = int(delta[-2])
         elif delta[-1] in ['mes', 'meses']:
@@ -50,7 +52,7 @@ def revisionArchivos():
     with open(fechasRevisadas, 'a') as fechas:
         for line in revisiones.readlines():
             id = line.split()[0]
-            link = line.split()[1].replace('\n','')
+            link = line.split()[1].replace('\n', '')
             while True:
                 try:
                     soup = getSoup(link)
@@ -60,4 +62,3 @@ def revisionArchivos():
                         break
                 except:
                     continue
-            

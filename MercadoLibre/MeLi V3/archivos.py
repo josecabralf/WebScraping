@@ -31,8 +31,7 @@ def abrirArchivo():
     Returns:
         txt file: archivo txt que posee links filtrados
     """
-    flag = os.listdir(archivos_Meli) == []
-    if flag:
+    if os.listdir(archivos_Meli) == []:
         try:
             archivo = open(archivos_Links, 'r')
         except:

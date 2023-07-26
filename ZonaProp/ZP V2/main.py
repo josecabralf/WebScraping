@@ -19,6 +19,7 @@ def main():
         links = [formarLink(n, url) for n in range(i, i+3)]
         archivos = [formarArchivo(n, archivos_ZonaProp)
                     for n in range(nro, nro+3)]
+        print(f"Scrapeando {i}, {i+1} y {i+2}")
         nro += 3
         scrapMultiHilo(links, archivos)
 

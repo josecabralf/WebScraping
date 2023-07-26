@@ -17,6 +17,7 @@ def getSoup(link):
     try:
         options = ChromeOptions()
         options.add_argument("--headless=new")
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
         driver = Chrome(executable_path=path, options=options)
         driver.get(link)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
