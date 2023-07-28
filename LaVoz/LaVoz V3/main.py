@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
+from soup import getSoup
 from links import formarLink
 from LVConfig import URL_LaVoz, archivos_LaVoz
 from archivos import *
@@ -7,8 +6,7 @@ from hilos import scrapMultiHilo
 
 
 def main():
-    response = requests.get(URL_LaVoz)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(URL_LaVoz)
 
     paginas = int((soup.find_all('a', class_="page-link h4"))[-1].text)
     nro = asignarValNro(archivos_LaVoz)

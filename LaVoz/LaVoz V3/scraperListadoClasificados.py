@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
+from soup import getSoup
 import json
 from scraperPublicacion import scrapPublicacionLV
 from archivos import recuperarFechaArchivo
@@ -14,8 +13,7 @@ def crearListaLinks(URL):
     Returns:
         [string]: listado de links de publicaciones individuales
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(URL)
 
     pagina_casas = soup.find_all('a', class_="text-decoration-none")
 

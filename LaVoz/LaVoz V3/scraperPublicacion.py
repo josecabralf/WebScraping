@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
+from soup import getSoup
 from scraperCaracteristicas import getDatosCaracteristicas
 import datetime
 
@@ -67,8 +66,7 @@ def scrapPublicacionLV(URL, fechaCorte):
     Returns:
         dict: diccionario con estructura de objeto JSON
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(URL)
 
     # Fecha de Publicacion/Actualizacion
     fecha = soup.find('div', class_='h5 center').text.split(':')[
