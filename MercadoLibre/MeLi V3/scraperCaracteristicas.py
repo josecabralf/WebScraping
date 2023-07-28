@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
+from soup import getSoup
 
 
 def getCaracteristicasTerreno(URL):
@@ -15,8 +14,7 @@ def getCaracteristicasTerreno(URL):
     i = 0
     while True:
         i += 1
-        response = requests.get(URL)
-        soup = BeautifulSoup(response.content, 'html.parser')
+        soup = getSoup(URL)
         terreno = soup.find(
             "span", class_="ui-pdp-color--BLACK ui-pdp-size--SMALL ui-pdp-family--REGULAR ui-pdp-label")
         if terreno:
@@ -46,8 +44,7 @@ def getCaracteristicasInmueble(URL):
     i = 0
     while True:
         i += 1
-        response = requests.get(URL)
-        soup = BeautifulSoup(response.content, 'html.parser')
+        soup = getSoup(URL)
         caracteristicas = soup.find("tbody", class_="andes-table__body")
         if caracteristicas:
             break

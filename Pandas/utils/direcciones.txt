@@ -1359,6 +1359,11 @@
 ../MercadoLibre/MeLi V3/Inmuebles/816-27_07_2023-3.json*
 ../MercadoLibre/MeLi V3/Inmuebles/816-27_07_2023-4.json*
 ../MercadoLibre/MeLi V3/Inmuebles/816-27_07_2023-5.json*
+../MercadoLibre/MeLi V3/Inmuebles/817-28_07_2023-1.json*
+../MercadoLibre/MeLi V3/Inmuebles/817-28_07_2023-2.json*
+../MercadoLibre/MeLi V3/Inmuebles/817-28_07_2023-3.json*
+../MercadoLibre/MeLi V3/Inmuebles/817-28_07_2023-4.json*
+../MercadoLibre/MeLi V3/Inmuebles/817-28_07_2023-5.json*
 ../MercadoLibre/MeLi V3/Inmuebles/82-cordoba-cordoba-1.json*
 ../MercadoLibre/MeLi V3/Inmuebles/83-cordoba-cordoba-1.json*
 ../MercadoLibre/MeLi V3/Inmuebles/84-cordoba-cordoba-1.json*

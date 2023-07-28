@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
+from soup import getSoup
 from unidecode import unidecode
 from MeLiConfig import archivos_Links, URL_Meli_CASAS, URL_Meli_DPTOS, URL_Meli_TERS
 
@@ -28,8 +27,7 @@ def getCantPublicaciones(URL):
     Returns:
         int: cantidad de resultados de busqueda
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(URL)
     cant_publicaciones = int(soup.find(
         'span', class_='ui-search-search-result__quantity-results shops-custom-secondary-font').text.split()[0].replace('.', ''))
 
@@ -45,13 +43,10 @@ def formarListaLinks(URL):
     Returns:
         [string]: listado de links de páginas filtradas según zona geográfica
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
-
+    soup = getSoup(URL)
     link_zonas = soup.find(
         'a', class_='ui-search-modal__link ui-search-modal--default ui-search-link')["href"]
-    response = requests.get(link_zonas)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(link_zonas)
 
     zonas = [a["href"].split('#')[0] for a in soup.find_all(
         'a', class_='ui-search-search-modal-filter ui-search-link')]

@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
+from soup import getSoup
 from math import ceil
 from MeLiConfig import archivos_Meli
 from hilos import *
@@ -31,8 +30,7 @@ def getCantPaginas(URL):
     Returns:
         int: cantidad de paginas
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(URL)
     try:
         paginas = int(
             soup.find('li', class_='andes-pagination__page-count').text.split()[-1])

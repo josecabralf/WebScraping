@@ -1,6 +1,5 @@
-from bs4 import BeautifulSoup
-import requests
 from scraperPublicacion import scrapPublicacionML
+from soup import getSoup
 import json
 from datetime import date
 
@@ -34,8 +33,7 @@ def crearListaLinks(URL):
     Returns:
         [string]: listado de links de publicaciones individuales
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(URL)
 
     links = [link["href"] for link in soup.find_all(
         'a', class_='ui-search-item__group__element shops__items-group-details ui-search-link')]

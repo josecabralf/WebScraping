@@ -1,5 +1,4 @@
-from bs4 import BeautifulSoup
-import requests
+from soup import getSoup
 from scraperCaracteristicas import getCaracteristicas
 from datetime import timedelta
 from unidecode import unidecode
@@ -125,8 +124,7 @@ def scrapPublicacionML(URL, hoy, ubic):
     Returns:
         dict: diccionario con estructura de objeto JSON
     """
-    response = requests.get(URL)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = getSoup(URL)
 
     # precio
     precio = getPrecio(soup)
