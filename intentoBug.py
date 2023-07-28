@@ -1,34 +1,41 @@
+from selenium.webdriver import Chrome
+from selenium.webdriver import ChromeOptions
 from bs4 import BeautifulSoup
-import requests
+from time import sleep
 
 
-def getSoup(URL):
-    res = requests.get(URL)
-    return BeautifulSoup(res.content, 'html.parser')
+def getSoup(link):
+    """Crea un objeto BeautifulSoup a partir de un link de una página web dinámica.
+
+    Args:
+        link (string): url de la página dinámica
+
+    Returns:
+        BeautifulSoup: contenidos de la página web
+    """
+    path = "./ZonaProp/ZP V2/driver/chromedriver"
+    try:
+        options = ChromeOptions()
+        options.add_argument("--headless=new")
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        driver = Chrome(executable_path=path, options=options)
+        driver.get(link)
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        driver.quit()
+    except:
+        sleep(5)
+        soup = getSoup(link)
+    return soup
 
 
-def getImgUbic(tag):
-    return tag.name == 'img' and str(tag.get('src')).startswith('https://maps.googleapis.com/maps/')
+def getUbicGeo(soup):
+    mapa = soup.find('img', id="static-map")["src"]
+    loc = mapa.split('?')[1].split('&')[0].split('=')[1]
+    loc = [float(n) for n in loc.split(',')]
+    return loc
 
 
-def getUbicGeo(soup, URL):
-    i = 1
-    while True:
-        try:
-            img = soup.find(getImgUbic)['src']
-            loc = img.split('&')[4].split('=')[1]
-            if loc:
-                return [float(n) for n in loc.split('%2C')]
-        except:
-            i += 1
-            if i == 10:
-                return [None, None]
-            getSoup(URL)
-
-
-url = 'https://casa.mercadolibre.com.ar/MLA-1138937605-casa-sierras-de-cordoba-valle-de-punilla-_JM'
-res = requests.get(url)
-soup = BeautifulSoup(res.content, 'html.parser')
-
-ubic = getUbicGeo(soup, url)
+url = 'https://www.zonaprop.com.ar/propiedades/venta-departamento-1-dormitorio-c-asador-nueva-cordoba-52051968.html'
+soup = getSoup(url)
+ubic = getUbicGeo(soup)
 print(ubic)

@@ -6,6 +6,15 @@ def getImgUbic(tag):
 
 
 def getUbicGeo(soup, URL):
+    """Obtiene la ubicacion geográfica desde un mapa en una publicacion de MercadoLibre
+
+    Args:
+        soup (BeautifulSoup): objeto BeautifulSoup con contenidos de la pagina
+        URL (string): url de la pagina de publicacion
+
+    Returns:
+        [float] : coordenadas del inmueble [x, y]
+    """
     i = 1
     while True:
         try:
@@ -14,7 +23,7 @@ def getUbicGeo(soup, URL):
             if loc:
                 return [float(n) for n in loc.split('%2C')]
         except:
-            i += 1
             if i == 10:
                 return [None, None]
+            i += 1
             getSoup(URL)
