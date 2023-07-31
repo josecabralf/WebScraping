@@ -71,9 +71,9 @@ def getTipoVendedor(soup):
     """
     datos = soup.find('div', class_='clearfix px1 py1')
     try:
-        tipoVendedor = datos.find('div', class_='h5 gray').text.strip()
+        tipoVendedor = datos.find('div', class_='h5 gray').text.strip().upper()
     except:
-        tipoVendedor = 'Particular'
+        tipoVendedor = 'PARTICULAR'
 
     return tipoVendedor
 
