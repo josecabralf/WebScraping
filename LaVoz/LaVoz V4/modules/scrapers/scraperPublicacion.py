@@ -1,7 +1,6 @@
 from modules.soup.soup import getSoup
 from modules.scrapers.scraperCaracteristicas import getDatosCaracteristicas
 import datetime
-from unidecode import unidecode
 
 
 def crearObjetoJSON(datos_interes, precio, fecha, id, coord, vendedor, activo, URL):
@@ -61,7 +60,7 @@ def getPrecio(etiqueta, clase, soup):
         return False
 
 
-def getDatosVendedor(soup):
+def getTipoVendedor(soup):
     """Obtiene los datos del vendedor de una publicacion utilizando BeautifulSoup
 
     Args:
@@ -146,7 +145,7 @@ def scrapPublicacionLV(URL, fechaCorte):
 
     coord = getUbicGeo(soup)
 
-    vendedor = getDatosVendedor(soup)
+    vendedor = getTipoVendedor(soup)
 
     # caracteristicas de interes
     caracteristicas = soup.find_all('div', class_='flex-auto nowrap col-4')

@@ -1,7 +1,7 @@
 from modules.soup.soup import getSoup
 import json
 from modules.scrapers.scraperPublicacion import scrapPublicacionLV
-from archivos import recuperarFechaArchivo
+from modules.format.archivos import recuperarFechaArchivo
 
 
 def crearListaLinks(URL):

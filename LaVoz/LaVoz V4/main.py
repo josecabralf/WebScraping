@@ -1,7 +1,7 @@
 from modules.soup.soup import getSoup
-from links import formarLink
+from modules.format.links import formarLink
 from LVConfig import URL_LaVoz, archivos_LaVoz
-from archivos import *
+from modules.format.archivos import formarArchivo, asignarValNro, escribirFechaArchivo
 from modules.threads.hilos import scrapMultiHilo
 
 
