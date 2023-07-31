@@ -1,41 +1,38 @@
-from selenium.webdriver import Chrome
-from selenium.webdriver import ChromeOptions
 from bs4 import BeautifulSoup
-from time import sleep
+import requests
 
 
-def getSoup(link):
-    """Crea un objeto BeautifulSoup a partir de un link de una página web dinámica.
+def getSoup(URL):
+    """Genera un objeto BeautifulSoup a partir de una URL
 
     Args:
-        link (string): url de la página dinámica
+        URL (sring): url del sitio web
 
     Returns:
-        BeautifulSoup: contenidos de la página web
+        BeautifulSoup: objeto BeautifulSoup del sitio web
     """
-    path = "./ZonaProp/ZP V2/driver/chromedriver"
-    try:
-        options = ChromeOptions()
-        options.add_argument("--headless=new")
-        options.add_experimental_option('excludeSwitches', ['enable-logging'])
-        driver = Chrome(executable_path=path, options=options)
-        driver.get(link)
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        driver.quit()
-    except:
-        sleep(5)
-        soup = getSoup(link)
-    return soup
+    res = requests.get(URL)
+    return BeautifulSoup(res.content, 'html.parser')
 
 
 def getUbicGeo(soup):
-    mapa = soup.find('img', id="static-map")["src"]
-    loc = mapa.split('?')[1].split('&')[0].split('=')[1]
-    loc = [float(n) for n in loc.split(',')]
-    return loc
+    """Obtiene la ubicacion geográfica desde un mapa en una publicacion de LaVoz, si es que hay un mapa
+
+    Args:
+        soup (BeautifulSoup): objeto BeautifulSoup con contenidos de la pagina
+
+    Returns:
+        [float] : coordenadas del inmueble [x, y]
+    """
+    try:
+        img = soup.find('amp-iframe', id='map-iframe')['src']
+        loc = img.split('marker=')[1]
+        return [float(n) for n in loc.split('%2C')]
+    except:
+        return [None, None]
 
 
-url = 'https://www.zonaprop.com.ar/propiedades/venta-departamento-1-dormitorio-c-asador-nueva-cordoba-52051968.html'
-soup = getSoup(url)
-ubic = getUbicGeo(soup)
-print(ubic)
+url = 'https://clasificados.lavoz.com.ar/avisos/casas/4742707/reserva-recibo-casa-cerro'
+s = getSoup(url)
+v = getUbicGeo(s)
+print(v)
