@@ -1,38 +1,44 @@
 from bs4 import BeautifulSoup
 import requests
 
-
-def getSoup(URL):
-    """Genera un objeto BeautifulSoup a partir de una URL
-
-    Args:
-        URL (sring): url del sitio web
-
-    Returns:
-        BeautifulSoup: objeto BeautifulSoup del sitio web
-    """
-    res = requests.get(URL)
-    return BeautifulSoup(res.content, 'html.parser')
+from selenium.webdriver import Chrome
+from selenium.webdriver import ChromeOptions
+from bs4 import BeautifulSoup
+from time import sleep
 
 
-def getUbicGeo(soup):
-    """Obtiene la ubicacion geográfica desde un mapa en una publicacion de LaVoz, si es que hay un mapa
+def getSoup(link):
+    """Crea un objeto BeautifulSoup a partir de un link de una página web dinámica.
 
     Args:
-        soup (BeautifulSoup): objeto BeautifulSoup con contenidos de la pagina
+        link (string): url de la página dinámica
 
     Returns:
-        [float] : coordenadas del inmueble [x, y]
+        BeautifulSoup: contenidos de la página web
     """
+    path_driver = 'ZonaProp\ZP V3\driver\chromedriver'
     try:
-        img = soup.find('amp-iframe', id='map-iframe')['src']
-        loc = img.split('marker=')[1]
-        return [float(n) for n in loc.split('%2C')]
+        options = ChromeOptions()
+        options.add_argument("--headless=new")
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        driver = Chrome(executable_path=path_driver, options=options)
+        driver.get(link)
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        driver.quit()
     except:
-        return [None, None]
+        sleep(5)
+        soup = getSoup(link)
+    return soup
 
 
-url = 'https://clasificados.lavoz.com.ar/avisos/casas/4742707/reserva-recibo-casa-cerro'
+def getTipoVendedor(soup):
+    vendedor = soup.find('div', class_='feature-info')
+    if vendedor:
+        return 'PARTICULAR'
+    return 'INMOBILIARIA'
+
+
+url = 'https://www.zonaprop.com.ar/propiedades/casa-en-venta-belgrano-r-av-de-los-incas-52061318.html'
 s = getSoup(url)
-v = getUbicGeo(s)
+v = getTipoVendedor(s)
 print(v)
