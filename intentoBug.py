@@ -1,32 +1,54 @@
-import requests
 from bs4 import BeautifulSoup
-from unidecode import unidecode
+import requests
+from time import sleep
 
-def formarLinksBarrios(soup, URL):
-    """Forma links para filtrar por barrio.
+
+def getSoup(URL):
+    """Genera un objeto BeautifulSoup a partir de una URL
 
     Args:
-        soup (BeautifulSoup): contenidos de la página de filtro posibles según barrio
-        tipo (string): tipo de propiedad que se está filtrando
+        URL (sring): url del sitio web
 
     Returns:
-        [string]: listado de links de páginas filtradas según barrios
+        BeautifulSoup: objeto BeautifulSoup del sitio web
     """
-    nombres = [n.text.lower() for n in soup.find_all(
-        'span', class_='andes-checkbox__label andes-checkbox__label-text')]
-    url_base = '/'.join(URL.split('/')[0:-1])
-    suffix = URL.split('/')[-1]
-    links = []
-    for i in range(len(nombres)):
-        n = unidecode(nombres[i]).split()
-        n = "-".join(n)
-        links.append(url_base + n + suffix)
-    return links
+    res = requests.get(URL)
+    return BeautifulSoup(res.content, 'html.parser')
 
-URL = 'https://inmuebles.mercadolibre.com.ar/casas/cordoba/cordoba/inmueble_NoIndex_True'
-filt = 'https://inmuebles.mercadolibre.com.ar/casas/cordoba/cordoba/inmueble_NoIndex_True_FiltersAvailableSidebar?filter=neighborhood'
-res = requests.get(filt)
-soup = BeautifulSoup(res.content, 'html.parser')
 
-links = formarLinksBarrios(soup, URL)
+def getImgMapa(tag):
+    return tag.name == 'img' and str(tag.get('src')).startswith('https://maps.googleapis.com/maps/')
+
+
+def getUbicGeo(soup, URL):
+    """Obtiene la ubicacion geográfica desde un mapa en una publicacion de MercadoLibre
+
+    Args:
+        soup (BeautifulSoup): objeto BeautifulSoup con contenidos de la pagina
+        URL (string): url de la pagina de publicacion
+
+    Returns:
+        [float] : coordenadas del inmueble [x, y]
+    """
+    i = 1
+    while True:
+        try:
+            ubic = soup.find('div', class_='ui-vip-location')
+            img = ubic.find('img')['src']
+            print(img)
+            loc = img.split('&')[4].split('=')[1]
+            if loc:
+                return [float(n) for n in loc.split('%2C')]
+        except:
+            print('ERROR ', i)
+            if i == 10:
+                return [None, None]
+            i += 1
+            soup = getSoup(URL)
+
+
+URL = 'https://casa.mercadolibre.com.ar/MLA-1391749532-casa-tipo-duplex-a-estrenar-alta-gracia-financiacion-_JM'
+soup = getSoup(URL)
+
+links = getUbicGeo(soup, URL)
 print(links)

@@ -125,10 +125,6 @@ def getUbicacion(soup, ubic):
     return barrio, ciudad
 
 
-def getImgMapa(tag):
-    return tag.name == 'img' and str(tag.get('src')).startswith('https://maps.googleapis.com/maps/')
-
-
 def getUbicGeo(soup, URL):
     """Obtiene la ubicacion geográfica desde un mapa en una publicacion de MercadoLibre
 
@@ -142,7 +138,8 @@ def getUbicGeo(soup, URL):
     i = 1
     while True:
         try:
-            img = soup.find(getImgMapa)['src']
+            ubic = soup.find('div', class_='ui-vip-location')
+            img = ubic.find('img')['src']
             loc = img.split('&')[4].split('=')[1]
             if loc:
                 return [float(n) for n in loc.split('%2C')]
@@ -150,7 +147,7 @@ def getUbicGeo(soup, URL):
             if i == 10:
                 return [None, None]
             i += 1
-            getSoup(URL)
+            soup = getSoup(URL)
 
 
 def getTipoVendedor(soup):
