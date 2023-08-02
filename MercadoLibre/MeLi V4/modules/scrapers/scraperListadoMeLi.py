@@ -60,7 +60,6 @@ def escribirArchivo(archivo, links_casas, ubic):
                 objetoJSON = False
             if objetoJSON:
                 json.dump(objetoJSON, archivoJSON, indent=9)
-                print(objetoJSON)
                 if link != ultimaCasa:
                     archivoJSON.write(',')
 
