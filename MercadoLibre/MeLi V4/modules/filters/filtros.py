@@ -46,36 +46,34 @@ def formarListaLinks(URL):
     soup = getSoup(URL)
     link_zonas = soup.find(
         'a', class_='ui-search-modal__link ui-search-modal--default ui-search-link')["href"]
+    link_zonas = link_zonas.split('&')[0]
     soup = getSoup(link_zonas)
 
     zonas = [a["href"].split('#')[0] for a in soup.find_all(
         'a', class_='ui-search-search-modal-filter ui-search-link')]
-    if zonas != []:
-        return zonas
-    else:
-        tipo = URL.split('/')[3]
-        return formarLinksBarrios(soup, tipo)
+    if zonas == []:
+        return formarLinksBarrios(soup, URL)
+    return zonas
 
 
-def formarLinksBarrios(soup, tipo):
+def formarLinksBarrios(soup, URL):
     """Forma links para filtrar por barrio.
 
     Args:
         soup (BeautifulSoup): contenidos de la página de filtro posibles según barrio
-        tipo (string): tipo de propiedad que se está filtrando
+        URL (string): url de la busqueda principal
 
     Returns:
         [string]: listado de links de páginas filtradas según barrios
     """
     nombres = [n.text.lower() for n in soup.find_all(
         'span', class_='andes-checkbox__label andes-checkbox__label-text')]
-    URL = f'https://inmuebles.mercadolibre.com.ar/{tipo}/venta/propiedades-individuales/cordoba/cordoba/'
-    suffix = '/inmuebles'
+    url_base = '/'.join(URL.split('/')[0:-1])
+    suffix = URL.split('/')[-1]
     links = []
     for i in range(len(nombres)):
-        n = unidecode(nombres[i]).split()
-        n = "-".join(n)
-        links.append(URL + n + suffix)
+        n = "-".join(unidecode(nombres[i]).split())
+        links.append(f"{url_base}/{n}/{suffix}")
     return links
 
 

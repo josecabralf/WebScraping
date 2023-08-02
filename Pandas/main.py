@@ -1,4 +1,4 @@
-from archivosDF import crearDataFramesInmuebles
+from frames.archivosDF import crearDataFramesInmuebles
 
 
 def main():

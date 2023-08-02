@@ -5,3 +5,5 @@ URL_UltimaSemana = 'https://www.zonaprop.com.ar/casas-departamentos-ph-terrenos-
 archivos_ZonaProp = './Casas/'
 revisionesFecha = './Revisiones/revisionesFecha.txt'
 fechasRevisadas = './Revisiones/fechas.json'
+
+path_driver = "../driver/chromedriver"

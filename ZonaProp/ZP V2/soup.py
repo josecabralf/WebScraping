@@ -2,6 +2,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver import ChromeOptions
 from bs4 import BeautifulSoup
 from time import sleep
+from ZPConfig import path_driver as path
 
 
 def getSoup(link):
@@ -13,7 +14,6 @@ def getSoup(link):
     Returns:
         BeautifulSoup: contenidos de la página web
     """
-    path = "./driver/chromedriver"
     try:
         options = ChromeOptions()
         options.add_argument("--headless=new")

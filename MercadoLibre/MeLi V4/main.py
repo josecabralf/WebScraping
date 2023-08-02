@@ -5,7 +5,6 @@ from modules.format.archivos import *
 
 def main():
     archivo = abrirArchivo()
-
     nro = asignarValNro(archivos_Meli)
     for line in archivo.readlines():
         try:
