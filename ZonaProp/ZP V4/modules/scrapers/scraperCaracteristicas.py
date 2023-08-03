@@ -32,11 +32,11 @@ def getDatosCaracteristicas(caracteristicas):
         car = car.split('\n')
         try:
             if car[1] in deseados:
-                deseados[car[1]] = car[0]
+                deseados[car[1]] = float(car[0])
             elif car[1][-1] != 's':
                 car[1] = car[1] + 's'
                 if car[1] in deseados:
-                    deseados[car[1]] = car[0]
+                    deseados[car[1]] = float(car[0])
         except:
             continue
     return deseados

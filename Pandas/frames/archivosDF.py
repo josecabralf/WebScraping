@@ -11,9 +11,9 @@ def crearDataFramesInmuebles():
     if not os.path.exists(LaVoz):
         crearArchivoDF(path_LV, LaVoz)
     """if not os.path.exists(MeLi):
-        crearArchivoDF(path_ML, MeLi)
+        crearArchivoDF(path_ML, MeLi)"""
     if not os.path.exists(ZonaP):
-        crearArchivoDF(path_ZP, ZonaP)"""
+        crearArchivoDF(path_ZP, ZonaP)
 
 
 def abrirDF(path, col=False):
@@ -45,11 +45,14 @@ def cargarTablaMain():
     direcciones = open(utils_dir, 'r')
     df_main = pd.DataFrame()
     for line in direcciones:
-        line = line.split('*')[0]
-        archivo = open(line, 'r')
-        df_i = pd.DataFrame(json.load(archivo))
-        archivo.close()
-        df_main = df_main._append(df_i, ignore_index=True)
+        try:
+            line = line.split('*')[0]
+            archivo = open(line, 'r')
+            df_i = pd.DataFrame(json.load(archivo))
+            archivo.close()
+            df_main = df_main._append(df_i, ignore_index=True)
+        except:
+            print(line)
     return df_main
 
 

@@ -19,7 +19,7 @@ def eliminarNulos(df):
 
 
 def formatearDF(df):
-    del df['URL']
+    # del df['URL']
     df = cambiarValoresNull(df)
     df = eliminarDuplicados(df)
     df = eliminarNulos(df)

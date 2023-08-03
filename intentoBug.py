@@ -1,54 +1,21 @@
-from bs4 import BeautifulSoup
 import requests
-from time import sleep
+import bs4
 
 
-def getSoup(URL):
-    """Genera un objeto BeautifulSoup a partir de una URL
+def getTelefonoLV(soup):
+    try:
+        telefono = soup.find(
+            'a', id='tel')['href'].replace('tel:', '')
+        telefono = telefono.split('/')[0].strip()
+    except:
+        telefono = ''
 
-    Args:
-        URL (sring): url del sitio web
-
-    Returns:
-        BeautifulSoup: objeto BeautifulSoup del sitio web
-    """
-    res = requests.get(URL)
-    return BeautifulSoup(res.content, 'html.parser')
+    return telefono
 
 
-def getImgMapa(tag):
-    return tag.name == 'img' and str(tag.get('src')).startswith('https://maps.googleapis.com/maps/')
+url = 'https://clasificados.lavoz.com.ar/avisos/casas/5093663/oportunidad-locales-excelente-zona-comercial-en-parque-liceo-i'
+res = requests.get(url)
+s = bs4.BeautifulSoup(res.text, 'lxml')
 
-
-def getUbicGeo(soup, URL):
-    """Obtiene la ubicacion geográfica desde un mapa en una publicacion de MercadoLibre
-
-    Args:
-        soup (BeautifulSoup): objeto BeautifulSoup con contenidos de la pagina
-        URL (string): url de la pagina de publicacion
-
-    Returns:
-        [float] : coordenadas del inmueble [x, y]
-    """
-    i = 1
-    while True:
-        try:
-            ubic = soup.find('div', class_='ui-vip-location')
-            img = ubic.find('img')['src']
-            print(img)
-            loc = img.split('&')[4].split('=')[1]
-            if loc:
-                return [float(n) for n in loc.split('%2C')]
-        except:
-            print('ERROR ', i)
-            if i == 10:
-                return [None, None]
-            i += 1
-            soup = getSoup(URL)
-
-
-URL = 'https://casa.mercadolibre.com.ar/MLA-1391749532-casa-tipo-duplex-a-estrenar-alta-gracia-financiacion-_JM'
-soup = getSoup(URL)
-
-links = getUbicGeo(soup, URL)
-print(links)
+nom = getTelefonoLV(s)
+print(nom)
