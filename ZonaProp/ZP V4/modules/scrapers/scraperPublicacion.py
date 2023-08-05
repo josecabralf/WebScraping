@@ -154,10 +154,13 @@ def scrapPublicacionZP(URL, hoy):
 
     # ubicacion
     ubicacion = soup.find_all('a', class_="bread-item-redirect")
-    tipo_prop = ubicacion[1].text.strip().upper()
-    ciudad = unidecode(ubicacion[4].text.strip().upper())
-    barrio = unidecode(ubicacion[5].text.strip().upper())
-    del ubicacion
+    try:
+        tipo_prop = ubicacion[1].text.strip().upper()
+        ciudad = unidecode(ubicacion[4].text.strip().upper())
+        barrio = unidecode(ubicacion[5].text.strip().upper())
+        del ubicacion
+    except:
+        return False
 
     coord = getUbicGeo(soup)
 
