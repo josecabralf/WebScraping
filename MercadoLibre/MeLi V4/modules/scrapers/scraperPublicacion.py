@@ -44,6 +44,25 @@ def crearObjetoJSON(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad,
     return objetoJSON
 
 
+def crearLineaCSV(datos_interes, tipo_prop, precio, fecha, id, barrio, ciudad, coord, vendedor, activo, URL):
+    """Crea un string con la estructura que tendrá una linea CSV para guardar en un archivo
+
+    Args:
+        datos_interes (dict): diccionario de valores de interes
+        precio (int): precio en dolares de una propiedad
+        fecha (date): fecha de publicacion/actualizacion
+        id (int): numero identificador de la publicacion
+        coord (list): coordenadas de la ubicacion del inmueble
+        vendedor (string): tipo de vendedor
+        activo (bool): True si la publicacion está activa, False si no lo está
+        URL (string): url de la publicacion
+
+    Returns:
+        str: string con estructura de linea CSV
+    """
+    return f"{id};{tipo_prop};{precio};{fecha};{vendedor};{datos_interes['Superficie total']};{datos_interes['Superficie cubierta']};{datos_interes['Dormitorios']};{datos_interes['Baños']};{datos_interes['Cocheras']};{barrio};{ciudad};{coord[0]};{coord[1]};{activo};{URL}\n"
+
+
 def getPrecio(soup):
     """Obtiene el precio de una publicacion utilizando BeautifulSoup
 
@@ -100,6 +119,7 @@ def getFecha(soup, hoy):
         return fecha, activo
     except:
         return None, None
+
 
 def getUbicacion(soup, ubic):
     """Obtiene la ubicacion en donde está la propiedad

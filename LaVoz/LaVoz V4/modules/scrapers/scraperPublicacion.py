@@ -11,6 +11,9 @@ def crearObjetoJSON(datos_interes, precio, fecha, id, coord, vendedor, activo, U
         precio (int): precio en dolares de una propiedad
         fecha (date): fecha de publicacion/actualizacion
         id (int): numero identificador de la publicacion
+        coord (list): coordenadas de la ubicacion del inmueble
+        vendedor (string): tipo de vendedor
+        activo (bool): True si la publicacion está activa, False si no lo está
         URL (string): url de la publicacion
 
     Returns:
@@ -21,7 +24,7 @@ def crearObjetoJSON(datos_interes, precio, fecha, id, coord, vendedor, activo, U
         "tipoPropiedad": datos_interes['Tipo vivienda'],
         "precioUSD": precio,
         "fechaUltimaActualizacion": fecha,
-        "tipoVendedor": vendedor,
+        "vendedor": vendedor,
         "terrenoTotal": datos_interes['Superficie total'],
         "terrenoEdificado": datos_interes['Superficie cubierta'],
         "cantDormitorios": datos_interes['Dormitorios'],
@@ -36,6 +39,23 @@ def crearObjetoJSON(datos_interes, precio, fecha, id, coord, vendedor, activo, U
     }
     return objetoJSON
 
+def crearLineaCSV(datos_interes, precio, fecha, id, coord, vendedor, activo, URL):
+    """Crea un string con la estructura que tendrá una linea CSV para guardar en un archivo
+
+    Args:
+        datos_interes (dict): diccionario de valores de interes
+        precio (int): precio en dolares de una propiedad
+        fecha (date): fecha de publicacion/actualizacion
+        id (int): numero identificador de la publicacion
+        coord (list): coordenadas de la ubicacion del inmueble
+        vendedor (string): tipo de vendedor
+        activo (bool): True si la publicacion está activa, False si no lo está
+        URL (string): url de la publicacion
+
+    Returns:
+        str: string con estructura de linea CSV
+    """
+    return f"{id};{datos_interes['Tipo vivienda']};{precio};{fecha};{vendedor};{datos_interes['Superficie total']};{datos_interes['Superficie cubierta']};{datos_interes['Dormitorios']};{datos_interes['Baños']};{datos_interes['Cocheras']};{datos_interes['Barrio']};{datos_interes['Ciudad']};{coord[0]};{coord[1]};{activo};{URL}\n"
 
 def getPrecio(etiqueta, clase, soup):
     """Obtiene el precio de una publicacion utilizando BeautifulSoup

@@ -1,2 +1,6 @@
 https://inmuebles.mercadolibre.com.ar/casas/venta/propiedades-individuales/cordoba/alta-gracia/inmuebles_NoIndex_True?filter=city
 https://inmuebles.mercadolibre.com.ar/casas/venta/propiedades-individuales/cordoba/bialet-masse/inmuebles_NoIndex_True?filter=city
+https://inmuebles.mercadolibre.com.ar/casas/venta/propiedades-individuales/cordoba/tercero-arriba/inmuebles_NoIndex_True?filter=city
+https://inmuebles.mercadolibre.com.ar/casas/venta/propiedades-individuales/cordoba/totoral/inmuebles_NoIndex_True?filter=city
+https://inmuebles.mercadolibre.com.ar/casas/venta/propiedades-individuales/cordoba/tulumba/inmuebles_NoIndex_True?filter=city
+https://inmuebles.mercadolibre.com.ar/casas/venta/propiedades-individuales/cordoba/union/inmuebles_NoIndex_True?filter=city
