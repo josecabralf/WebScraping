@@ -1,0 +1,18 @@
+[{
+         "id": "1112193683",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 36000,
+         "fechaUltimaActualizacion": "08-08-2022",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 363,
+         "terrenoEdificado": 45,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "JOSE IGNACIO DIAZ QUINTA SECCION",
+         "ciudad": "CORDOBA",
+         "coordX": -31.4347176,
+         "coordY": -64.1498429,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1112193683-venta-de-casa-a-terminar-en-cordoba-jose-ignacio-diaz-1337-_JM"
+}]

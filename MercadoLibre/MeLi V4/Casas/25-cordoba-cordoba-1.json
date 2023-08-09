@@ -1,0 +1,18 @@
+[{
+         "id": "1216642438",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "02-11-2022",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 250,
+         "terrenoEdificado": 132,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "AMEGHINO NORTE",
+         "ciudad": "CORDOBA",
+         "coordX": -31.3992544,
+         "coordY": -64.2643841,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1216642438-ameghino-sud-lagunilla-3700-venta-casa-2-dormitorios-appto-bancor-_JM"
+}]

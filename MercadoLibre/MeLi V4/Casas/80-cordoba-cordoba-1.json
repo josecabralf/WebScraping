@@ -1,0 +1,18 @@
+[{
+         "id": "1403943662",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 420000,
+         "fechaUltimaActualizacion": "07-05-2023",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 1860,
+         "terrenoEdificado": 350,
+         "cantDormitorios": 3,
+         "cantBanos": 4,
+         "cantCochera": 2,
+         "barrio": "COUNTRY LAS MARIAS",
+         "ciudad": "CORDOBA",
+         "coordX": -31.4853251,
+         "coordY": -64.1872445,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1403943662-casa-en-venta-country-las-marias-_JM"
+}]

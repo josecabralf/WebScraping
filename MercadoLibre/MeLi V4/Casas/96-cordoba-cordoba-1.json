@@ -1,0 +1,18 @@
+[{
+         "id": "1361044614",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 300000,
+         "fechaUltimaActualizacion": "06-03-2023",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 811,
+         "terrenoEdificado": 210,
+         "cantDormitorios": 4,
+         "cantBanos": 3,
+         "cantCochera": -1,
+         "barrio": "ESTANCIA LA CAROLINA",
+         "ciudad": "CORDOBA",
+         "coordX": -31.3992544,
+         "coordY": -64.2643841,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1361044614-propiedad-desarrollada-en-dos-plantas-ubicada-en-un-lote-alto-del-barrio-_JM"
+}]

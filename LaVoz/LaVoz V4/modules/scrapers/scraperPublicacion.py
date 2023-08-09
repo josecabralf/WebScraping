@@ -88,20 +88,24 @@ def getFecha(soup, fechaCorte):
     Returns:
         date string, bool: fecha de publicacion, True si la publicacion está activa, False si no lo está
     """
-    fecha = soup.find('div', class_='h5 center').text.split(':')[
-        1].strip().replace('.', '-')
-    activo = True
+    try:
+        fecha = soup.find('div', class_='h5 center').text.split(':')[
+            1].strip().replace('.', '-')
+        activo = True
 
-    hoy = datetime.datetime.today()
-    delta = hoy - datetime.datetime.strptime(fecha, "%d-%m-%Y")
-    if delta.days > 45:
-        activo = False
+        hoy = datetime.datetime.today()
+        delta = hoy - datetime.datetime.strptime(fecha, "%d-%m-%Y")
+        if delta.days > 45:
+            activo = False
 
-    if fechaCorte != None:
-        if datetime.datetime.strptime(fecha, "%d-%m-%Y") < fechaCorte:
-            return False
+        if fechaCorte != None:
+            if datetime.datetime.strptime(fecha, "%d-%m-%Y") < fechaCorte:
+                return False
 
-    return fecha, activo
+        return fecha, activo
+    
+    except:
+        return None, None
 
 
 def getUbicGeo(soup):

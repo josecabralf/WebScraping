@@ -1,0 +1,18 @@
+[{
+         "id": "1372689643",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "08-07-2023",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 180,
+         "terrenoEdificado": 180,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "LOS ALAMOS",
+         "ciudad": "CORDOBA",
+         "coordX": -31.3674527,
+         "coordY": -64.1572109,
+         "activo": true,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1372689643-venta-casa-los-alamos-2-dorm-_JM"
+}]

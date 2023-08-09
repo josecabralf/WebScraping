@@ -20,7 +20,7 @@ def getCaracteristicasTerreno(URL):
         if terreno:
             terreno = terreno.text
             break
-        if i == 8:
+        if i == 5:
             return False
     terreno = int(round(float(terreno.split()[0]), 0))
     datos_interes = {'Superficie total': terreno,
@@ -48,7 +48,7 @@ def getCaracteristicasInmueble(URL):
         caracteristicas = soup.find("tbody", class_="andes-table__body")
         if caracteristicas:
             break
-        if i == 8:
+        if i == 5:
             return False
 
     datos_interes = getDatosCaracteristicas(caracteristicas)

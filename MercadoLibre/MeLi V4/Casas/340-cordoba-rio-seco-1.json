@@ -1,0 +1,18 @@
+[{
+         "id": "1365357695",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 90000,
+         "fechaUltimaActualizacion": "08-05-2023",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": -1,
+         "terrenoEdificado": 110,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "",
+         "ciudad": "RIO SECO",
+         "coordX": -30.0958535,
+         "coordY": -63.9307315,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1365357695-casa-en-santa-elena-_JM"
+}]

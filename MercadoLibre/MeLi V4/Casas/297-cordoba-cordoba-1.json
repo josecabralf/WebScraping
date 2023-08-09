@@ -1,0 +1,18 @@
+[{
+         "id": "935010679",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 60000,
+         "fechaUltimaActualizacion": "08-08-2021",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 281,
+         "terrenoEdificado": 105,
+         "cantDormitorios": 3,
+         "cantBanos": 1,
+         "cantCochera": 1,
+         "barrio": "VILLA ALBERDI",
+         "ciudad": "CORDOBA",
+         "coordX": -31.3955665,
+         "coordY": -64.2378023,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-935010679-oport-casa-de-3-dorm-a-metros-de-av-colon-y-santa-rosa-_JM"
+}]

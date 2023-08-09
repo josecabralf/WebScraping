@@ -192,7 +192,7 @@
          "fechaUltimaActualizacion": "17-07-2023",
          "vendedor": "INMOBILIARIA",
          "terrenoTotal": 128.0,
-         "terrenoEdificado": 1258.0,
+         "terrenoEdificado": 128.0,
          "cantDormitorios": 3.0,
          "cantBanos": 2.0,
          "cantCochera": 1.0,
@@ -236,4 +236,4 @@
          "coordY": -64.344023,
          "activo": true,
          "URL": "https://www.zonaprop.com.ar/propiedades/vendo-espectacular-casa-en-barrio-corral-de-barrancas-52110737.html"
-},]
+}]

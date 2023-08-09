@@ -1,0 +1,18 @@
+[{
+         "id": "882052055",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 45000,
+         "fechaUltimaActualizacion": "08-08-2021",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 100,
+         "terrenoEdificado": 100,
+         "cantDormitorios": 2,
+         "cantBanos": 1,
+         "cantCochera": -1,
+         "barrio": "VILLA AVALOS",
+         "ciudad": "CORDOBA",
+         "coordX": -31.4140179,
+         "coordY": -64.2272388,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-882052055-venta-casa-en-cordoba-_JM"
+}]

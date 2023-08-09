@@ -1,0 +1,18 @@
+[{
+         "id": "1369247983",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 220000,
+         "fechaUltimaActualizacion": "07-06-2023",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 1300,
+         "terrenoEdificado": 256,
+         "cantDormitorios": 3,
+         "cantBanos": 3,
+         "cantCochera": 2,
+         "barrio": "MILITAR GENERAL DEHEZA",
+         "ciudad": "CORDOBA",
+         "coordX": -31.3933264,
+         "coordY": -64.2713376,
+         "activo": false,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1369247983-vendo-casa-en-la-arbolada-_JM"
+}]

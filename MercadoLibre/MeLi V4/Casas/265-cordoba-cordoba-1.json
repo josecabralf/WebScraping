@@ -1,0 +1,18 @@
+[{
+         "id": "1375849857",
+         "tipoPropiedad": "CASA",
+         "precioUSD": 135000,
+         "fechaUltimaActualizacion": "05-07-2023",
+         "vendedor": "INMOBILIARIA",
+         "terrenoTotal": 252,
+         "terrenoEdificado": 257,
+         "cantDormitorios": 4,
+         "cantBanos": 2,
+         "cantCochera": 4,
+         "barrio": "SANTA CLARA DE ASIS",
+         "ciudad": "CORDOBA",
+         "coordX": -31.3807375,
+         "coordY": -64.1396732,
+         "activo": true,
+         "URL": "https://casa.mercadolibre.com.ar/MLA-1375849857-casa-en-santa-clara-de-asis-_JM"
+}]

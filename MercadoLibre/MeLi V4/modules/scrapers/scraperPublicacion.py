@@ -77,27 +77,29 @@ def getFecha(soup, hoy):
         date, bool: fecha de publicación/última actualización (dd-mm-yy), activo (bool)
     """
     try:
-        dias_desde_actualiz = soup.find(
-            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-header__bottom-subtitle').text.split()
+        try:
+            dias_desde_actualiz = soup.find(
+                'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-header__bottom-subtitle').text.split()
+        except:
+            # A veces el renderizado es distinto: tiene otra clase la etiqueta p
+            dias_desde_actualiz = soup.find(
+                'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title').text.split()
+
+        if dias_desde_actualiz[3] in ["día", "días"]:
+            delta = int(dias_desde_actualiz[2])
+        elif dias_desde_actualiz[3] in ["mes", "meses"]:
+            delta = int(dias_desde_actualiz[2]) * 31
+        elif dias_desde_actualiz[3] in ["año", "años"]:
+            delta = int(dias_desde_actualiz[2]) * 365
+
+        activo = True
+        if delta > 45:
+            activo = False
+
+        fecha = (hoy - timedelta(days=delta)).strftime("%d-%m-%Y")
+        return fecha, activo
     except:
-        # A veces el renderizado es distinto: tiene otra clase la etiqueta p
-        dias_desde_actualiz = soup.find(
-            'p', class_='ui-pdp-color--GRAY ui-pdp-size--XSMALL ui-pdp-family--REGULAR ui-pdp-seller-validated__title').text.split()
-
-    if dias_desde_actualiz[3] in ["día", "días"]:
-        delta = int(dias_desde_actualiz[2])
-    elif dias_desde_actualiz[3] in ["mes", "meses"]:
-        delta = int(dias_desde_actualiz[2]) * 31
-    elif dias_desde_actualiz[3] in ["año", "años"]:
-        delta = int(dias_desde_actualiz[2]) * 365
-
-    activo = True
-    if delta > 45:
-        activo = False
-
-    fecha = (hoy - timedelta(days=delta)).strftime("%d-%m-%Y")
-    return fecha, activo
-
+        return None, None
 
 def getUbicacion(soup, ubic):
     """Obtiene la ubicacion en donde está la propiedad
@@ -135,7 +137,7 @@ def getUbicGeo(soup, URL):
     Returns:
         [float] : coordenadas del inmueble [x, y]
     """
-    i = 1
+    i = 0
     while True:
         try:
             ubic = soup.find('div', class_='ui-vip-location')
@@ -144,7 +146,7 @@ def getUbicGeo(soup, URL):
             if loc:
                 return [float(n) for n in loc.split('%2C')]
         except:
-            if i == 10:
+            if i == 4:
                 return [None, None]
             i += 1
             soup = getSoup(URL)
