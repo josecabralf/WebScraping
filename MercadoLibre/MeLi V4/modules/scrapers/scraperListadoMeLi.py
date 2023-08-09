@@ -56,7 +56,6 @@ def escribirArchivo(archivo, links_casas, ubic):
             try:
                 objetoJSON = scrapPublicacionML(link, hoy, ubic)
             except:
-                print(f"error: {link}")
                 objetoJSON = False
             if objetoJSON:
                 json.dump(objetoJSON, archivoJSON, indent=9)

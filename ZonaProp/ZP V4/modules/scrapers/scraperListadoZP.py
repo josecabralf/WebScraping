@@ -38,7 +38,10 @@ def escribirArchivo(archivo, links_casas):
         archivoJSON.write('[')
 
         for link in links_casas:
-            objetoJSON = scrapPublicacionZP(link, hoy)
+            try:
+                objetoJSON = scrapPublicacionZP(link, hoy)
+            except:
+                objetoJSON = False
             if objetoJSON:
                 json.dump(objetoJSON, archivoJSON, indent=9)
                 if link != ultimaCasa:
