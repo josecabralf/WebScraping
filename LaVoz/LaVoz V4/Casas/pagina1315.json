@@ -3,7 +3,7 @@
          "tipoPropiedad": "DEPARTAMENTO",
          "precioUSD": 32000,
          "fechaUltimaActualizacion": "18-07-2023",
-         "tipoVendedor": "Inmobiliaria",
+         "vendedor": "Inmobiliaria",
          "terrenoTotal": 50,
          "terrenoEdificado": -1,
          "cantDormitorios": 1,
