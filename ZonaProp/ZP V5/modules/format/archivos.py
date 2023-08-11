@@ -13,7 +13,7 @@ def formarArchivo(nro, i, ruta):
     Returns:
         string: nombre y ruta del archivo
     """
-    return ruta + f"{nro}-pagina{i}.csv"
+    return f"{ruta}{nro}-pagina{i}.csv"
 
 
 def asignarValNro(directorio):
@@ -56,6 +56,6 @@ def comprimirCantArchivos(directorio):
             df_i = pd.read_csv(path, sep=';')
             df_main = df_main._append(df_i, ignore_index=True)
             os.remove(path)
-    
+
     path = f"{directorio}{asignarValNro(directorio)}-comprimido.csv"
     df_main.to_csv(path, index=False, sep=';')

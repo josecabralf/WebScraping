@@ -5,7 +5,7 @@ from MeLiConfig import archivos_Meli, publicadosHoy, errores_links, archivos_Lin
 from modules.filters.filtros import crearArchivoLinksSiNoExiste
 
 
-def formarArchivo(nro, i, ruta, URL):
+def formarArchivo(i, ruta, nro):
     """Forma rutas a archivos para almacenar listados de publicaciones
 
     Args:
@@ -17,13 +17,7 @@ def formarArchivo(nro, i, ruta, URL):
     Returns:
         string: nombre y ruta del archivo
     """
-    nom_base = URL.split('/')
-    try:
-        ar = '-'.join([f'{nro}', nom_base[6], nom_base[7], f'{i+1}.csv'])
-    except:
-        ar = '-'.join([f'{nro}',
-                      datetime.date.today().strftime("%d_%m_%Y"), f'{i+1}.csv'])
-    return ruta + ar
+    return f"{ruta}{nro}-pagina{i}.csv"
 
 
 def abrirArchivo():
@@ -84,6 +78,6 @@ def comprimirCantArchivos(directorio):
             df_i = pd.read_csv(path, sep=';')
             df_main = df_main._append(df_i, ignore_index=True)
             os.remove(path)
-    
+
     path = f"{directorio}/{asignarValNro(directorio)}-comprimido.csv"
     df_main.to_csv(path, index=False, sep=';')
