@@ -1,8 +1,6 @@
-utils_dir = './utils/direcciones.txt'
-
-path_LV = '../LaVoz/LaVoz V4/Casas/'
-path_ML = '../MercadoLibre/MeLi V3/Inmuebles/'
-path_ZP = '../ZonaProp/ZP V4/Casas/'
+path_LV = '../LaVoz/LaVoz V5/Casas/'
+path_ML = '../MercadoLibre/MeLi V4/Casas/'
+path_ZP = '../ZonaProp/ZP V5/Casas/'
 
 LaVoz = './DataFrames/LaVoz/data_LV.csv'
 MeLi = './DataFrames/MeLi/data_ML.csv'

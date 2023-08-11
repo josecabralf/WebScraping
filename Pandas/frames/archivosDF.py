@@ -1,4 +1,3 @@
-import json
 import os
 import pandas as pd
 from PDconfig import *
@@ -17,59 +16,55 @@ def crearDataFramesInmuebles():
 
 
 def abrirDF(path, col=False):
+    """Abre un archivo CSV extrayendo los datos de la df que contiene
+
+    Args:
+        path (string): localizacion del archivo csv
+        cols (string): columna que se quiere que sea indice
+
+    Returns:
+        DataFrame: df contenida en el archivo
+    """
     if not col:
         return pd.read_csv(path, sep=';')
     return pd.read_csv(path, sep=';', index_col=col)
 
 
-def buscarArchivosJSON(path):
-    """Busca todos los archivos JSON de un directorio y escribe sus rutas en un archivo direcciones.txt
+def guardarDF(df, archivo):
+    """Guarda una df en un archivo CSV
 
     Args:
-        path (string): ruta del directorio con archivos JSON
+        df (DataFrame): df con datos a guardar
+        archivu: localizacion del archivo csv que se quiere crear
     """
-    dir = os.listdir(path)
-    direcciones = open(utils_dir, 'a')
-    for file in dir:
-        if '.json' in file:
-            direcciones.write(path + file + '*\n')
-    direcciones.close()
+    df.to_csv(archivo, index=False, sep=';')
 
 
-def cargarTablaMain():
-    """Crea un DataFrame a partir de una lista de archivos JSON
+def cargarTablaMain(path):
+    """Crea un DataFrame a partir de una lista de archivos CSV
 
     Returns:
-        DataFrame: DataFrame creado a partir de archivos JSON
+        DataFrame: DataFrame creado a partir de archivos CSV
     """
-    direcciones = open(utils_dir, 'r')
+    dir = os.listdir(path)
     df_main = pd.DataFrame()
-    for line in direcciones:
+    for archivo in dir:
         try:
-            line = line.split('*')[0]
-            archivo = open(line, 'r')
-            df_i = pd.DataFrame(json.load(archivo))
-            archivo.close()
+            path = f"{path}{archivo}"
+            df_i = abrirDF(path)
             df_main = df_main._append(df_i, ignore_index=True)
         except:
-            print(line)
+            print(archivo)
     return df_main
 
 
 def crearArchivoDF(path, archivo):
-    """Busca una serie de archivos JSON para luego crear un DataFrame a partir de ellos y guardarlo en un archivo CSV
+    """Busca una serie de archivos CSV para luego crear un DataFrame a partir de ellos y guardarlo en un archivo CSV
 
     Args:
-        path (string): ruta del directorio con archivos JSON
+        path (string): ruta del directorio con archivos CSV
         archivo (string): ruta del archivo en que se guardara el DataFrame
     """
-    if os.path.isfile(utils_dir):
-        os.remove(utils_dir)
-    buscarArchivosJSON(path)
-    df = cargarTablaMain()
+    df = cargarTablaMain(path)
     df = formatearDF(df)
     guardarDF(df, archivo)
-
-
-def guardarDF(df, archivo):
-    df.to_csv(archivo, index=False, sep=';')
