@@ -1,5 +1,5 @@
-path_LV = '../LaVoz/LaVoz V5/Casas/'
-path_ML = '../MercadoLibre/MeLi V4/Casas/'
+path_LV = '../LaVoz/LV V5/Casas/'
+path_ML = '../MercadoLibre/ML V4/Casas/'
 
 LaVoz = './DataFrames/LaVoz/data_LV.csv'
 MeLi = './DataFrames/MeLi/data_ML.csv'
