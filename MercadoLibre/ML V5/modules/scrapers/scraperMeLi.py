@@ -1,7 +1,7 @@
 from modules.soup.soup import getSoup
 from math import ceil
 from MeLiConfig import archivos_Meli
-from modules.threads.hilos import *
+from modules.threads.hilos import scrapMultiHilo
 from modules.format.archivos import formarArchivo
 from modules.format.links import formarLink
 
@@ -50,19 +50,18 @@ def scrapPaginaMeLi(URL, nro):
 
     for i in range(0, paginas-2, 3):
         links = [formarLink(n, URL) for n in range(i, i+3)]
-        archivos = [formarArchivo(nro, n, archivos_Meli, URL)
+        archivos = [formarArchivo(n, archivos_Meli, nro)
                     for n in range(i, i+3)]
 
         scrapMultiHilo(links, archivos)
 
     if paginas % 3 == 1:
-        link1 = formarLink(paginas-1, URL)
-        archivo1 = formarArchivo(nro, paginas-1, archivos_Meli, URL)
-        scrapHilo(link1, archivo1)
+        scrapMultiHilo([formarLink(paginas-1, URL)],
+                       [formarArchivo(paginas-1, archivos_Meli, nro)])
 
     if paginas % 3 == 2:
         links = [formarLink(n, URL) for n in range(paginas-2, paginas)]
-        archivos = [formarArchivo(nro, n, archivos_Meli, URL)
+        archivos = [formarArchivo(n, archivos_Meli, nro)
                     for n in range(paginas-2, paginas)]
 
         scrapMultiHilo(links, archivos)

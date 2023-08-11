@@ -3,7 +3,7 @@ import pandas as pd
 from ZPConfig import archivos_ZonaProp, archivos_filtros, publicados_recientes
 
 
-def formarArchivo(nro, i, ruta):
+def formarArchivo(i, ruta, nro):
     """Forma rutas a archivos para almacenar listados de publicaciones
 
     Args:

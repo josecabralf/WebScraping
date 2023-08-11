@@ -1,4 +1,3 @@
-import datetime
 import os
 import pandas as pd
 from MeLiConfig import archivos_Meli, publicadosHoy, errores_links, archivos_Links, leidos_links

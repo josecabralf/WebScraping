@@ -42,17 +42,17 @@ def scrapPaginaZonaProp(URL, nro):
     for i in range(1, paginas-1, 3):
         print(f'Progreso: {i+2}/{paginas}')
         links = [formarLink(n, URL) for n in range(i, i+3)]
-        archivos = [formarArchivo(nro, n, archivos_ZonaProp)
+        archivos = [formarArchivo(n, archivos_ZonaProp, nro)
                     for n in range(i, i+3)]
         scrapMultiHilo(links, archivos)
 
     if paginas % 3 == 1:
         scrapMultiHilo([formarLink(paginas, URL)],
-                       [formarArchivo(nro, paginas, archivos_ZonaProp)])
+                       [formarArchivo(paginas, archivos_ZonaProp, nro)])
 
     if paginas % 3 == 2:
         links = [formarLink(n, URL) for n in range(paginas-1, paginas+1)]
-        archivos = [formarArchivo(nro, n, archivos_ZonaProp)
+        archivos = [formarArchivo(n, archivos_ZonaProp, nro)
                     for n in range(nro, nro+2)]
 
         scrapMultiHilo(links, archivos)
