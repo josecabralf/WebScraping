@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import datetime
 from PDconfig import *
 from frames.format import formatearDF
 
@@ -7,12 +8,9 @@ from frames.format import formatearDF
 def crearDataFramesInmuebles():
     """Crea una serie de archivos CSV que contienen un DataFrame cada uno. Estos archivos se corresponden con cada una de las páginas que se ha scrapeado: LaVoz, MercadoLibre, ZonaProp.
     """
-    if not os.path.exists(LaVoz):
-        crearArchivoDF(path_LV, LaVoz)
-    if not os.path.exists(MeLi):
-        crearArchivoDF(path_ML, MeLi)
-    if not os.path.exists(ZonaP):
-        crearArchivoDF(path_ZP, ZonaP)
+    crearArchivoDF(path_LV, LaVoz)
+    crearArchivoDF(path_ML, MeLi)
+    crearArchivoDF(path_ZP, ZonaP)
 
 
 def abrirDF(path, col=False):
@@ -68,3 +66,23 @@ def crearArchivoDF(path, archivo):
     df = cargarTablaMain(path)
     df = formatearDF(df)
     guardarDF(df, archivo)
+
+
+def updateDataFrames():
+    """Actualiza los archivos CSV que contienen los DataFrames de cada página. 
+    Para ello, se crea un DataFrame con los datos de los archivos CSV, se evalúan los campos activos de las diferentes publicaciones y luego se sobrescribe el Dataframe modificado en el CSV original.
+    """
+    crearDataFramesInmuebles()
+
+    for datos in [LaVoz, MeLi, ZonaP]:
+        df = abrirDF(datos)
+        df['fechaUltimaActualizacion'] = pd.to_datetime(
+            df['fechaUltimaActualizacion'], format='%d-%m-%Y')
+        hoy = datetime.date.today()
+        for idx, row in df.iterrows():
+            diferencia = (hoy - row['fechaUltimaActualizacion'].date()).days
+            if diferencia > 45:
+                df.at[idx, 'activo'] = False
+        df['fechaUltimaActualizacion'] = df['fechaUltimaActualizacion'].dt.strftime(
+            '%d-%m-%Y')
+        guardarDF(df, datos)

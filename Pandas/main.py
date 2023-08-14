@@ -1,9 +1,8 @@
-from frames.archivosDF import crearDataFramesInmuebles
+from frames.archivosDF import updateDataFrames
 
 
 def main():
-    crearDataFramesInmuebles()
-    # actualizarDataFramesInmuebles()
+    updateDataFrames()
 
 
 if __name__ == "__main__":
