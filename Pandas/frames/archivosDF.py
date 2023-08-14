@@ -9,8 +9,8 @@ def crearDataFramesInmuebles():
     """
     if not os.path.exists(LaVoz):
         crearArchivoDF(path_LV, LaVoz)
-    """if not os.path.exists(MeLi):
-        crearArchivoDF(path_ML, MeLi)"""
+    if not os.path.exists(MeLi):
+        crearArchivoDF(path_ML, MeLi)
     if not os.path.exists(ZonaP):
         crearArchivoDF(path_ZP, ZonaP)
 

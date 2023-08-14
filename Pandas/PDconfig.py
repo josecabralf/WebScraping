@@ -1,5 +1,5 @@
 path_LV = '../Scrapers/LV V5/Casas/'
-path_ML = '../Scrapers/ML V4/Casas/'
+path_ML = '../Scrapers/ML V5/Casas/'
 
 LaVoz = './DataFrames/LaVoz/data_LV.csv'
 MeLi = './DataFrames/MeLi/data_ML.csv'
