@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from ZPConfig import archivos_ZonaProp, archivos_filtros, publicados_recientes
+from ZPConfig import archivos_ZonaProp, archivos_filtros, publicados_recientes, comprimidos
 
 
 def formarArchivo(i, ruta, nro):
@@ -51,11 +51,23 @@ def comprimirCantArchivos(directorio):
     dir = os.listdir(directorio)
     df_main = pd.DataFrame()
     for archivo in dir:
-        if archivo.split('-')[1] != 'comprimido.csv':
-            path = f"{directorio}{archivo}"
-            df_i = pd.read_csv(path, sep=';')
-            df_main = df_main._append(df_i, ignore_index=True)
-            os.remove(path)
+        path = f"{directorio}/{archivo}"
+        df_i = pd.read_csv(path, sep=';')
+        df_main = df_main._append(df_i, ignore_index=True)
+        os.remove(path)
+        if df_main.shape[0] > 2000000:
+            guardarArchivoComprimido(df_main)
+            df_main = pd.DataFrame()
+                  
+    guardarArchivoComprimido(df_main, directorio)
+    
+    
+def guardarArchivoComprimido(df, directorio = comprimidos):
+    """Guarda un dataframe en un archivo csv
 
-    path = f"{directorio}{asignarValNro(directorio)}-comprimido.csv"
-    df_main.to_csv(path, index=False, sep=';')
+    Args:
+        df (DataFrame): datos a guardar
+        directorio (str): ruta del directorio en que se desea guardar el archivo
+    """
+    path = f"{directorio}/{asignarValNro(directorio)}-comprimido.csv"
+    df.to_csv(path, index=False, sep=';')

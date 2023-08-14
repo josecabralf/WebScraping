@@ -1,0 +1,3 @@
+from modules.format.archivos import comprimirCantArchivos
+from ZPConfig import archivos_ZonaProp
+comprimirCantArchivos(archivos_ZonaProp)

@@ -5,6 +5,7 @@ archivos_filtros = './Links/filtros.txt'
 publicados_recientes = './Links/ultima_semana.txt'
 archivos_ZonaProp = './Casas/'
 revisionesFecha = './Revisiones/revisionesFecha.txt'
+comprimidos = './Comprimidos/'
 
 path_driver = "./driver/chromedriver"
 

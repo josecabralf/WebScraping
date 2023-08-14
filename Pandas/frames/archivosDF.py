@@ -38,21 +38,20 @@ def guardarDF(df, archivo):
     df.to_csv(archivo, index=False, sep=';')
 
 
-def cargarTablaMain(path):
+def cargarTablaMain(path, df_main=pd.DataFrame()):
     """Crea un DataFrame a partir de una lista de archivos CSV
 
     Returns:
         DataFrame: DataFrame creado a partir de archivos CSV
     """
     dir = os.listdir(path)
-    df_main = pd.DataFrame()
     for archivo in dir:
         try:
             path = f"{path}{archivo}"
             df_i = abrirDF(path)
             df_main = df_main._append(df_i, ignore_index=True)
         except:
-            print(archivo)
+            continue
     return df_main
 
 
@@ -60,20 +59,21 @@ def crearArchivoDF(path, archivo):
     """Busca una serie de archivos CSV para luego crear un DataFrame a partir de ellos y guardarlo en un archivo CSV
 
     Args:
-        path (string): ruta del directorio con archivos CSV
+        path ([string]): rutas del directorio con archivos CSV
         archivo (string): ruta del archivo en que se guardara el DataFrame
     """
-    df = cargarTablaMain(path)
+    for p in path:
+        if os.listdir(p) != []:
+            df = cargarTablaMain(path, df)
     df = formatearDF(df)
     guardarDF(df, archivo)
 
 
 def updateDataFrames():
-    """Actualiza los archivos CSV que contienen los DataFrames de cada página. 
-    Para ello, se crea un DataFrame con los datos de los archivos CSV, se evalúan los campos activos de las diferentes publicaciones y luego se sobrescribe el Dataframe modificado en el CSV original.
+    """Actualiza los archivos CSV que contienen los DataFrames de cada página web. 
+    Para ello, se crea un DataFrame con los datos de los archivos CSV que guardan las publicaciones de cada página, se evalúan los campos fecha de las diferentes publicaciones, se actualiza el campo activo; y luego se sobrescribe el Dataframe modificado en el CSV original.
     """
     crearDataFramesInmuebles()
-
     for datos in [LaVoz, MeLi, ZonaP]:
         df = abrirDF(datos)
         df['fechaUltimaActualizacion'] = pd.to_datetime(
