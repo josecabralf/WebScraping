@@ -76,14 +76,14 @@ def comprimirCantArchivos(directorio):
         df_i = pd.read_csv(path, sep=';')
         df_main = df_main._append(df_i, ignore_index=True)
         os.remove(path)
-        if df_main.shape[0] > 2000000:
+        if df_main.shape[0] > 10000000:
             guardarArchivoComprimido(df_main)
             df_main = pd.DataFrame()
-                  
+
     guardarArchivoComprimido(df_main, directorio)
-    
-    
-def guardarArchivoComprimido(df, directorio = comprimidos):
+
+
+def guardarArchivoComprimido(df, directorio=comprimidos):
     """Guarda un dataframe en un archivo csv
 
     Args:
