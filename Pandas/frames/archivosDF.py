@@ -13,7 +13,7 @@ def crearDataFramesInmuebles():
     crearArchivoDF(path_ZP, ZonaP)
 
 
-def abrirDF(path):
+def abrirDF(path, col=False):
     """Abre un archivo CSV extrayendo los datos de la df que contiene
 
     Args:
@@ -23,8 +23,9 @@ def abrirDF(path):
     Returns:
         DataFrame: df contenida en el archivo
     """
-    if os.path.exists(path):
+    if not col:
         return pd.read_csv(path, sep=';')
+    return pd.read_csv(path, sep=';', index_col=col)
 
 
 def guardarDF(df, archivo):
@@ -37,7 +38,7 @@ def guardarDF(df, archivo):
     df.to_csv(archivo, index=False, sep=';')
 
 
-def cargarTablaMain(path, df_main):
+def cargarTablaMain(path, df_main=pd.DataFrame()):
     """Crea un DataFrame a partir de una lista de archivos CSV
 
     Returns:
@@ -61,7 +62,6 @@ def crearArchivoDF(path, archivo):
         path ([string]): rutas del directorio con archivos CSV
         archivo (string): ruta del archivo en que se guardara el DataFrame
     """
-    df = pd.DataFrame()
     for p in path:
         if os.listdir(p) != []:
             df = cargarTablaMain(path, df)
